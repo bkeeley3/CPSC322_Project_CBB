@@ -538,3 +538,10 @@ def bar_chart(x, y, xlabel=None, ylabel=None, tick_labels=None, title=None):
     plt.ylabel(ylabel)
     plt.xticks(x, tick_labels, rotation=75, ha="right")
     plt.show()
+    
+def find_col_average(table, col_name):
+    col = table.get_column(col_name)
+    total = sum(col)
+    avg = total / len(col)
+    return avg
+    

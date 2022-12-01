@@ -1,0 +1,2456 @@
+TEAM,G,W,ADJOE,ADJDE,BARTHAG,EFG_O,TOR,ORB,FTR,2P_O,3P_O,YEAR,OVER_.500
+North Carolina,40.0,A,A,B,A,A,B,A,B,A,B,2016.0,TRUE
+Wisconsin,40.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+Michigan,40.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Texas Tech,38.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Gonzaga,39.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Kentucky,40.0,A,A,B,A,A,B,A,A,A,B,2014.0,TRUE
+Michigan,38.0,A,A,B,A,A,B,A,B,A,A,2013.0,TRUE
+Duke,39.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+Virginia,38.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+North Carolina,39.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Villanova,40.0,A,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+Villanova,40.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Connecticut,40.0,A,A,B,A,A,B,A,A,B,A,2014.0,TRUE
+Louisville,40.0,A,A,B,A,A,B,A,A,A,B,2013.0,TRUE
+Louisville,36.0,A,A,B,A,B,B,A,A,B,B,2015.0,TRUE
+Notre Dame,38.0,A,A,B,A,A,B,B,A,A,A,2015.0,TRUE
+Notre Dame,36.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Virginia,37.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Duke,37.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Florida St.,35.0,A,A,B,A,A,B,A,A,A,A,2018.0,TRUE
+Duke,38.0,A,A,B,A,A,B,A,B,A,B,2019.0,TRUE
+Purdue,36.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Kansas,37.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+Kansas,36.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Kansas St.,37.0,A,A,B,A,A,B,B,B,A,B,2018.0,TRUE
+Texas Tech,37.0,A,A,B,A,A,B,A,A,A,A,2018.0,TRUE
+Xavier,38.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Arizona,38.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+Oregon,37.0,A,A,B,A,A,B,A,A,A,B,2016.0,TRUE
+Florida,36.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Kentucky,38.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Kentucky,37.0,A,A,B,A,A,B,A,A,A,A,2019.0,TRUE
+Gonzaga,37.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+Gonzaga,37.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Arizona,38.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Michigan,37.0,A,A,B,A,A,B,B,B,A,A,2014.0,TRUE
+Michigan St.,38.0,A,A,B,A,A,B,A,B,A,A,2014.0,TRUE
+Dayton,37.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Ohio St.,37.0,A,A,B,A,A,B,A,B,A,A,2013.0,TRUE
+Duke,36.0,A,A,B,A,A,B,B,A,A,A,2013.0,TRUE
+Marquette,35.0,A,A,B,A,B,A,A,A,A,B,2013.0,TRUE
+Florida,37.0,A,A,B,A,A,B,A,B,A,A,2013.0,TRUE
+Syracuse,37.0,A,A,B,A,A,B,A,B,B,A,2016.0,TRUE
+Michigan St.,39.0,A,A,B,A,A,B,A,B,A,A,2015.0,TRUE
+Michigan St.,39.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Oklahoma,37.0,A,A,B,A,A,B,A,B,B,A,2016.0,TRUE
+Kansas,39.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Loyola Chicago,37.0,A,A,B,A,A,A,B,B,A,A,2018.0,TRUE
+Oregon,38.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Kentucky,39.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+South Carolina,36.0,A,A,B,A,B,B,A,A,B,B,2017.0,TRUE
+Auburn,39.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Florida,39.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Wisconsin,38.0,A,A,B,A,A,B,B,A,A,A,2014.0,TRUE
+Syracuse,40.0,A,A,B,A,B,A,A,A,B,B,2013.0,TRUE
+Wichita St.,39.0,A,A,B,A,A,A,A,A,A,B,2013.0,TRUE
+Duquesne,30.0,B,A,A,B,A,B,A,B,A,A,2015.0,FALSE
+Fordham,30.0,B,B,B,B,B,A,A,B,B,B,2015.0,FALSE
+George Mason,30.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+George Washington,35.0,A,A,B,A,B,B,A,A,B,A,2015.0,TRUE
+La Salle,33.0,A,B,B,A,B,A,B,A,B,B,2015.0,TRUE
+Massachusetts,32.0,A,A,B,A,B,A,A,A,B,B,2015.0,TRUE
+Rhode Island,32.0,A,B,B,A,B,A,A,A,A,B,2015.0,TRUE
+Richmond,35.0,A,A,B,A,A,B,B,B,A,B,2015.0,TRUE
+Saint Joseph's,31.0,B,B,B,A,B,A,A,B,B,B,2015.0,FALSE
+Saint Louis,31.0,B,B,B,B,B,A,B,A,B,B,2015.0,FALSE
+St. Bonaventure,31.0,A,B,B,A,B,A,A,A,B,B,2015.0,TRUE
+Davidson,32.0,A,A,A,A,A,B,B,B,A,A,2016.0,TRUE
+Duquesne,33.0,B,A,A,A,A,A,B,B,A,A,2016.0,FALSE
+Fordham,30.0,B,B,B,A,A,A,A,B,A,A,2016.0,TRUE
+George Mason,32.0,B,B,B,B,B,B,A,B,B,B,2016.0,FALSE
+George Washington,38.0,A,A,B,A,A,B,A,A,B,A,2016.0,TRUE
+La Salle,30.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+Massachusetts,32.0,B,B,B,A,B,B,B,A,B,B,2016.0,FALSE
+Rhode Island,32.0,A,A,B,A,A,B,A,A,B,A,2016.0,TRUE
+Richmond,32.0,B,A,A,A,A,B,B,B,A,A,2016.0,TRUE
+Saint Louis,32.0,B,B,B,B,B,A,B,A,B,B,2016.0,FALSE
+St. Bonaventure,31.0,A,A,A,A,A,B,A,A,B,A,2016.0,TRUE
+Davidson,32.0,A,A,B,A,A,B,B,B,A,B,2017.0,TRUE
+Duquesne,32.0,B,B,A,B,B,A,B,A,B,B,2017.0,FALSE
+Fordham,31.0,B,B,B,B,B,A,B,B,B,B,2017.0,FALSE
+George Mason,33.0,A,A,A,A,B,B,A,A,B,B,2017.0,TRUE
+George Washington,35.0,A,A,A,A,B,A,A,A,B,A,2017.0,TRUE
+La Salle,30.0,B,A,A,A,A,B,B,A,A,A,2017.0,TRUE
+Massachusetts,33.0,B,B,B,A,B,A,B,B,A,B,2017.0,FALSE
+Richmond,35.0,A,A,B,A,A,B,B,B,A,B,2017.0,TRUE
+Saint Joseph's,31.0,B,B,B,B,B,B,B,A,B,B,2017.0,FALSE
+Saint Louis,33.0,B,B,B,B,B,A,B,B,B,B,2017.0,FALSE
+St. Bonaventure,32.0,A,A,B,A,B,B,A,A,B,A,2017.0,TRUE
+Dayton,31.0,B,A,A,A,A,A,B,B,A,B,2018.0,FALSE
+Duquesne,32.0,B,A,A,B,B,B,A,B,B,A,2018.0,TRUE
+Fordham,31.0,B,B,A,B,B,B,B,B,A,B,2018.0,FALSE
+George Mason,33.0,B,B,A,B,B,B,B,B,A,B,2018.0,FALSE
+George Washington,33.0,B,A,A,A,B,A,A,B,A,B,2018.0,FALSE
+La Salle,32.0,B,A,B,A,B,B,B,B,B,B,2018.0,FALSE
+Massachusetts,33.0,B,A,A,B,A,B,B,B,B,A,2018.0,FALSE
+Richmond,32.0,B,A,A,B,A,B,B,B,A,B,2018.0,FALSE
+Saint Joseph's,32.0,B,A,B,A,B,B,B,B,B,B,2018.0,TRUE
+Saint Louis,32.0,A,B,B,A,B,A,A,A,B,B,2018.0,TRUE
+VCU,33.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Davidson,33.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Dayton,33.0,A,A,B,A,A,A,B,B,A,B,2019.0,TRUE
+Duquesne,32.0,A,A,A,B,A,A,A,B,A,B,2019.0,TRUE
+Fordham,31.0,B,B,B,B,B,B,B,B,B,B,2019.0,FALSE
+George Mason,33.0,A,B,A,B,A,A,B,B,A,B,2019.0,TRUE
+George Washington,33.0,B,B,A,B,B,B,B,B,B,B,2019.0,FALSE
+La Salle,31.0,B,B,B,B,B,A,B,B,B,B,2019.0,FALSE
+Massachusetts,32.0,B,B,A,B,A,A,A,B,A,A,2019.0,FALSE
+Rhode Island,33.0,A,A,B,A,B,B,A,A,A,B,2019.0,TRUE
+Richmond,33.0,B,A,A,A,A,B,B,B,A,A,2019.0,FALSE
+Saint Joseph's,33.0,B,A,A,A,B,B,B,B,B,B,2019.0,FALSE
+St. Bonaventure,34.0,A,B,B,A,B,B,B,B,B,B,2019.0,TRUE
+Boston College,32.0,B,A,B,A,A,A,B,B,A,B,2015.0,FALSE
+Clemson,31.0,B,A,B,A,B,B,A,B,B,B,2015.0,TRUE
+Florida St.,33.0,A,A,B,A,A,A,A,A,A,B,2015.0,TRUE
+Georgia Tech,31.0,B,B,B,A,B,A,A,B,B,B,2015.0,FALSE
+Miami FL,38.0,A,A,B,A,A,B,B,B,B,A,2015.0,TRUE
+Pittsburgh,33.0,A,A,B,A,B,B,A,B,B,B,2015.0,TRUE
+Syracuse,31.0,A,A,B,A,B,B,A,B,B,B,2015.0,TRUE
+Virginia Tech,33.0,B,A,A,A,A,B,B,B,B,A,2015.0,FALSE
+Wake Forest,32.0,B,A,B,A,B,A,A,A,B,B,2015.0,FALSE
+Boston College,32.0,B,B,B,B,B,A,B,B,B,B,2016.0,FALSE
+Clemson,31.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Florida St.,34.0,A,A,B,A,A,B,A,A,A,B,2016.0,TRUE
+Georgia Tech,36.0,A,A,B,A,B,B,A,B,B,A,2016.0,TRUE
+Louisville,31.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+North Carolina St.,33.0,B,A,B,A,B,B,A,A,B,A,2016.0,FALSE
+Virginia Tech,35.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+Wake Forest,31.0,B,A,B,A,B,A,A,A,A,B,2016.0,FALSE
+Boston College,32.0,B,A,B,A,A,A,B,B,A,A,2017.0,FALSE
+Clemson,33.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Georgia Tech,36.0,A,B,B,A,B,A,B,B,B,B,2017.0,TRUE
+North Carolina St.,32.0,B,A,A,A,A,B,B,A,A,A,2017.0,FALSE
+Pittsburgh,33.0,B,A,B,A,A,B,B,A,A,A,2017.0,FALSE
+Syracuse,34.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Boston College,35.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Georgia Tech,32.0,B,A,B,A,B,A,A,B,B,B,2018.0,FALSE
+Louisville,36.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Notre Dame,35.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Pittsburgh,32.0,B,B,B,B,B,A,B,B,B,B,2018.0,FALSE
+Wake Forest,31.0,B,A,B,A,A,A,A,B,B,A,2018.0,FALSE
+Boston College,31.0,B,A,B,A,B,B,B,B,A,B,2019.0,FALSE
+Clemson,34.0,A,A,B,A,A,A,B,B,A,B,2019.0,TRUE
+Georgia Tech,32.0,B,B,B,A,B,A,B,B,A,B,2019.0,FALSE
+Miami FL,32.0,B,A,B,A,A,B,B,B,A,B,2019.0,FALSE
+North Carolina St.,36.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Notre Dame,33.0,B,A,B,A,B,B,B,B,B,B,2019.0,FALSE
+Pittsburgh,33.0,B,B,B,A,B,A,A,A,B,B,2019.0,FALSE
+Wake Forest,31.0,B,A,B,A,B,A,A,A,B,B,2019.0,FALSE
+Binghamton,30.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Hartford,29.0,B,B,A,B,B,A,B,B,B,B,2015.0,FALSE
+Maine,30.0,B,B,A,B,B,A,B,B,B,B,2015.0,FALSE
+New Hampshire,30.0,A,B,B,B,B,B,B,A,B,A,2015.0,TRUE
+Stony Brook,33.0,A,B,B,A,B,B,A,B,B,B,2015.0,TRUE
+UMass Lowell,28.0,B,B,A,B,B,A,B,B,B,A,2015.0,FALSE
+UMBC,30.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Vermont,33.0,A,B,B,A,A,A,B,A,A,A,2015.0,TRUE
+Albany,32.0,A,A,B,A,A,B,A,A,A,B,2016.0,TRUE
+Binghamton,30.0,B,B,B,B,B,A,B,A,B,B,2016.0,FALSE
+Hartford,32.0,B,B,A,B,B,B,B,B,B,A,2016.0,FALSE
+Maine,30.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+New Hampshire,31.0,A,B,A,B,B,B,B,A,B,B,2016.0,TRUE
+UMass Lowell,28.0,B,B,A,B,A,A,B,B,A,A,2016.0,FALSE
+UMBC,32.0,B,B,A,B,A,B,B,A,A,B,2016.0,FALSE
+Vermont,36.0,A,A,A,A,A,A,B,A,A,A,2016.0,TRUE
+Albany,34.0,A,A,A,A,A,B,A,B,A,A,2017.0,TRUE
+Binghamton,29.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+Hartford,32.0,B,B,A,B,B,A,B,B,B,B,2017.0,FALSE
+Maine,31.0,B,B,A,B,B,A,B,B,B,B,2017.0,FALSE
+New Hampshire,29.0,A,B,B,B,A,B,B,B,A,B,2017.0,TRUE
+Stony Brook,32.0,A,B,A,B,B,B,B,B,B,B,2017.0,TRUE
+UMass Lowell,30.0,B,B,A,B,A,A,B,B,A,A,2017.0,FALSE
+UMBC,32.0,A,A,A,B,A,B,B,B,A,A,2017.0,TRUE
+Albany,31.0,A,A,A,A,A,B,A,A,B,A,2018.0,TRUE
+Binghamton,29.0,B,B,A,B,B,B,B,B,B,A,2018.0,FALSE
+Hartford,32.0,A,B,A,B,A,B,B,B,A,B,2018.0,TRUE
+Maine,30.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+New Hampshire,29.0,B,B,A,B,B,B,B,B,B,B,2018.0,FALSE
+Stony Brook,31.0,B,B,B,B,B,A,A,B,B,B,2018.0,FALSE
+UMass Lowell,29.0,B,A,A,B,A,B,B,A,A,B,2018.0,FALSE
+Vermont,34.0,A,A,A,A,A,B,B,A,A,A,2018.0,TRUE
+Albany,31.0,B,B,A,B,B,A,B,B,B,A,2019.0,FALSE
+Binghamton,31.0,B,B,A,B,B,B,B,B,B,B,2019.0,FALSE
+Hartford,32.0,A,A,A,B,A,B,B,B,A,A,2019.0,TRUE
+Maine,31.0,B,B,A,B,B,A,B,B,A,B,2019.0,FALSE
+New Hampshire,27.0,B,B,A,B,B,B,B,B,B,B,2019.0,FALSE
+Stony Brook,32.0,A,B,B,B,B,A,A,B,B,B,2019.0,TRUE
+UMass Lowell,30.0,B,B,A,B,A,A,B,B,A,B,2019.0,TRUE
+UMBC,31.0,A,B,B,B,B,B,B,B,A,B,2019.0,TRUE
+Connecticut,35.0,A,A,B,A,A,B,A,B,B,A,2015.0,TRUE
+East Carolina,31.0,B,B,A,B,B,B,B,B,B,A,2015.0,FALSE
+Houston,32.0,B,B,B,B,B,A,A,B,B,B,2015.0,FALSE
+Memphis,32.0,A,A,B,A,B,A,A,B,B,B,2015.0,TRUE
+South Florida,31.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Temple,37.0,A,A,B,A,B,B,A,B,B,B,2015.0,TRUE
+Tulane,30.0,B,B,B,B,B,A,A,B,B,B,2015.0,FALSE
+Tulsa,33.0,A,B,B,A,B,B,A,A,B,B,2015.0,TRUE
+UCF,29.0,B,B,A,B,B,A,A,B,B,A,2015.0,FALSE
+East Carolina,32.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+Houston,32.0,A,A,A,A,A,B,A,B,A,A,2016.0,TRUE
+Memphis,34.0,A,A,B,A,B,B,A,A,B,B,2016.0,TRUE
+SMU,30.0,A,A,B,A,A,A,A,B,A,A,2016.0,TRUE
+South Florida,33.0,B,B,A,B,B,A,A,B,B,B,2016.0,FALSE
+Tulane,34.0,B,B,B,B,B,A,A,B,B,B,2016.0,FALSE
+UCF,30.0,B,B,B,B,B,A,A,A,A,B,2016.0,FALSE
+Connecticut,32.0,B,A,B,A,B,B,A,B,B,A,2017.0,TRUE
+East Carolina,33.0,B,B,B,B,B,A,A,A,B,B,2017.0,FALSE
+Houston,32.0,A,A,B,A,A,B,A,B,B,A,2017.0,TRUE
+Memphis,32.0,A,A,B,A,B,B,A,A,A,B,2017.0,TRUE
+South Florida,30.0,B,B,A,B,B,A,A,B,B,A,2017.0,FALSE
+Temple,32.0,B,A,B,A,B,B,B,B,B,A,2017.0,TRUE
+Tulane,31.0,B,B,A,B,B,A,B,B,B,B,2017.0,FALSE
+Tulsa,32.0,B,A,B,A,B,A,B,A,B,B,2017.0,FALSE
+UCF,36.0,A,A,B,A,A,A,A,A,A,A,2017.0,TRUE
+Connecticut,32.0,B,A,A,B,B,B,B,B,B,B,2018.0,FALSE
+East Carolina,30.0,B,B,A,B,B,A,B,B,A,B,2018.0,FALSE
+Memphis,34.0,A,A,A,A,A,A,A,A,A,B,2018.0,TRUE
+SMU,33.0,A,A,B,A,A,B,A,B,B,A,2018.0,TRUE
+South Florida,32.0,B,B,A,B,B,A,B,B,B,A,2018.0,FALSE
+Temple,33.0,A,A,B,A,B,B,B,B,B,A,2018.0,TRUE
+Tulane,31.0,B,A,A,B,A,A,B,B,A,A,2018.0,FALSE
+Tulsa,31.0,A,A,B,A,A,B,A,A,A,A,2018.0,TRUE
+UCF,32.0,A,B,B,A,B,A,B,A,B,B,2018.0,TRUE
+Connecticut,33.0,B,A,B,A,A,B,A,B,A,B,2019.0,FALSE
+East Carolina,31.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Memphis,36.0,A,A,B,A,A,A,A,A,A,B,2019.0,TRUE
+SMU,32.0,B,A,A,A,A,B,A,B,A,B,2019.0,FALSE
+South Florida,37.0,A,B,B,A,B,A,A,A,B,B,2019.0,TRUE
+Tulane,31.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Tulsa,32.0,A,A,B,A,A,B,B,A,A,B,2019.0,TRUE
+Wichita St.,37.0,A,A,B,A,B,B,A,B,B,B,2019.0,TRUE
+Florida Gulf Coast,30.0,A,B,B,B,B,B,A,B,B,B,2015.0,TRUE
+Jacksonville,29.0,B,B,A,B,B,B,B,A,B,A,2015.0,FALSE
+Kennesaw St.,30.0,B,B,A,B,B,A,B,B,B,B,2015.0,FALSE
+Lipscomb,28.0,B,B,A,B,B,B,B,A,B,B,2015.0,FALSE
+Northern Kentucky,28.0,B,B,A,B,A,B,B,B,A,B,2015.0,FALSE
+Stetson,28.0,B,B,A,B,B,B,B,B,B,B,2015.0,FALSE
+USC Upstate,32.0,A,B,B,B,B,B,A,B,A,B,2015.0,TRUE
+Jacksonville,28.0,B,B,A,B,B,B,B,B,B,A,2016.0,FALSE
+Kennesaw St.,29.0,B,B,A,B,B,B,B,B,B,A,2016.0,FALSE
+Lipscomb,31.0,B,B,A,B,A,B,B,B,A,A,2016.0,FALSE
+NJIT,34.0,A,B,A,B,A,B,B,B,A,A,2016.0,TRUE
+North Florida,31.0,A,A,A,A,A,B,B,B,A,A,2016.0,TRUE
+Stetson,30.0,B,B,A,B,A,B,B,B,A,A,2016.0,FALSE
+USC Upstate,28.0,B,B,A,B,A,A,A,B,B,A,2016.0,FALSE
+Jacksonville,29.0,A,B,A,B,A,B,B,B,A,A,2017.0,TRUE
+Kennesaw St.,30.0,B,B,A,B,A,A,A,B,B,A,2017.0,FALSE
+Lipscomb,30.0,A,A,A,A,A,A,B,A,A,A,2017.0,TRUE
+NJIT,29.0,B,B,A,B,B,A,A,B,B,B,2017.0,FALSE
+North Florida,30.0,B,B,A,B,A,A,A,B,A,A,2017.0,TRUE
+Stetson,29.0,B,B,A,B,A,B,B,B,A,B,2017.0,FALSE
+USC Upstate,29.0,A,B,A,B,A,B,A,B,A,A,2017.0,TRUE
+Florida Gulf Coast,32.0,A,A,B,A,A,A,A,B,A,A,2018.0,TRUE
+Jacksonville,29.0,B,B,A,B,B,A,B,B,B,B,2018.0,TRUE
+Kennesaw St.,28.0,B,B,A,B,B,A,B,B,B,A,2018.0,FALSE
+NJIT,28.0,B,B,A,B,B,B,A,B,B,A,2018.0,TRUE
+North Florida,30.0,B,A,A,B,A,A,B,B,A,A,2018.0,FALSE
+Stetson,28.0,B,B,A,B,B,B,B,B,B,B,2018.0,FALSE
+USC Upstate,28.0,B,A,A,B,A,B,B,B,A,B,2018.0,FALSE
+Florida Gulf Coast,30.0,B,B,A,B,A,A,B,B,A,A,2019.0,FALSE
+Jacksonville,30.0,B,B,A,B,B,A,B,B,A,B,2019.0,FALSE
+Kennesaw St.,30.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Lipscomb,35.0,A,A,B,A,A,B,B,A,A,A,2019.0,TRUE
+NJIT,34.0,A,B,A,B,A,B,B,A,A,A,2019.0,TRUE
+North Alabama,29.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+North Florida,31.0,B,B,A,B,A,A,B,B,A,B,2019.0,TRUE
+Stetson,29.0,B,B,A,B,B,B,B,B,B,B,2019.0,FALSE
+Illinois,33.0,A,A,B,A,B,B,A,B,B,A,2015.0,TRUE
+Michigan,31.0,B,A,B,A,B,B,B,B,B,A,2015.0,FALSE
+Minnesota,32.0,A,A,B,A,A,B,A,B,A,A,2015.0,TRUE
+Nebraska,31.0,B,B,B,A,B,A,B,A,B,B,2015.0,FALSE
+Northwestern,32.0,B,A,B,A,A,B,B,B,B,A,2015.0,FALSE
+Penn St.,34.0,A,A,B,A,B,B,B,B,B,B,2015.0,TRUE
+Rutgers,32.0,B,B,B,B,B,A,A,B,B,B,2015.0,FALSE
+Illinois,34.0,B,A,B,A,A,B,B,B,B,A,2016.0,FALSE
+Minnesota,31.0,B,B,B,B,B,B,B,A,B,B,2016.0,FALSE
+Nebraska,34.0,B,A,B,A,A,B,A,B,A,A,2016.0,FALSE
+Northwestern,32.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Ohio St.,35.0,A,A,B,A,B,A,A,A,A,B,2016.0,TRUE
+Penn St.,32.0,B,B,B,A,B,B,B,B,B,B,2016.0,TRUE
+Rutgers,31.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+Illinois,34.0,A,A,B,A,A,B,B,B,B,A,2017.0,TRUE
+Indiana,34.0,A,A,B,A,A,A,A,B,A,A,2017.0,TRUE
+Iowa,34.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Nebraska,30.0,B,A,B,A,B,B,A,B,B,B,2017.0,FALSE
+Ohio St.,32.0,A,A,B,A,A,A,B,A,A,A,2017.0,TRUE
+Penn St.,33.0,B,A,B,A,B,B,B,B,B,B,2017.0,FALSE
+Rutgers,32.0,B,B,B,A,B,A,A,B,B,B,2017.0,FALSE
+Illinois,31.0,B,A,B,A,B,A,A,B,A,B,2018.0,FALSE
+Indiana,31.0,B,A,B,A,A,B,A,A,A,B,2018.0,TRUE
+Iowa,33.0,B,A,A,A,A,B,A,B,A,A,2018.0,FALSE
+Maryland,31.0,A,A,B,A,A,A,A,A,A,A,2018.0,TRUE
+Minnesota,32.0,B,A,B,A,B,B,A,B,B,A,2018.0,FALSE
+Nebraska,33.0,A,A,B,A,B,B,A,A,B,A,2018.0,TRUE
+Northwestern,31.0,B,A,B,A,B,B,B,B,B,A,2018.0,FALSE
+Penn St.,39.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Rutgers,33.0,B,B,B,A,B,B,A,B,B,B,2018.0,FALSE
+Wisconsin,33.0,B,A,B,A,A,B,B,B,A,B,2018.0,FALSE
+Illinois,33.0,B,A,B,A,B,B,B,B,B,A,2019.0,FALSE
+Indiana,35.0,A,A,B,A,A,B,B,B,A,B,2019.0,TRUE
+Nebraska,35.0,A,A,B,A,B,B,B,B,B,B,2019.0,TRUE
+Northwestern,32.0,B,B,B,A,B,B,B,B,B,B,2019.0,FALSE
+Penn St.,32.0,B,A,B,A,B,B,A,B,B,B,2019.0,FALSE
+Rutgers,31.0,B,A,B,A,B,A,A,B,B,B,2019.0,FALSE
+Kansas St.,32.0,B,A,B,A,B,A,A,A,B,B,2015.0,FALSE
+TCU,33.0,A,A,B,A,B,B,A,A,B,B,2015.0,TRUE
+Texas Tech,32.0,B,B,B,A,B,A,A,A,B,B,2015.0,FALSE
+Kansas St.,33.0,A,A,B,A,B,A,A,A,B,B,2016.0,TRUE
+Oklahoma St.,32.0,B,A,B,A,B,A,B,A,B,B,2016.0,FALSE
+TCU,33.0,B,B,B,A,B,A,B,A,B,B,2016.0,FALSE
+Oklahoma,31.0,B,A,B,A,B,A,A,A,B,B,2017.0,FALSE
+TCU,38.0,A,A,B,A,A,A,A,B,A,A,2017.0,TRUE
+Texas,33.0,B,A,B,A,B,A,B,B,A,B,2017.0,FALSE
+Texas Tech,32.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Baylor,33.0,A,A,B,A,A,A,A,B,A,A,2018.0,TRUE
+Iowa St.,31.0,B,A,B,A,A,B,B,B,B,A,2018.0,FALSE
+Oklahoma St.,36.0,A,A,B,A,B,B,A,B,B,A,2018.0,TRUE
+Oklahoma St.,32.0,B,A,B,A,A,B,B,B,B,A,2019.0,FALSE
+TCU,37.0,A,A,B,A,A,A,A,B,A,A,2019.0,TRUE
+Texas,37.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+West Virginia,36.0,B,A,B,A,B,A,A,A,B,B,2019.0,FALSE
+Creighton,33.0,B,A,B,A,B,B,A,A,B,A,2015.0,FALSE
+DePaul,32.0,B,A,A,A,A,A,B,A,A,A,2015.0,FALSE
+Marquette,32.0,B,A,B,A,B,A,B,B,B,B,2015.0,FALSE
+Seton Hall,31.0,B,A,B,A,B,B,A,A,B,A,2015.0,TRUE
+Creighton,35.0,A,A,B,A,A,B,B,A,A,A,2016.0,TRUE
+DePaul,31.0,B,A,A,B,B,A,A,A,B,B,2016.0,FALSE
+Georgetown,33.0,B,A,B,A,A,A,B,A,A,B,2016.0,FALSE
+Marquette,33.0,A,A,B,A,A,A,B,A,A,B,2016.0,TRUE
+St. John's,31.0,B,B,B,B,B,A,B,A,B,B,2016.0,FALSE
+DePaul,32.0,B,B,B,B,B,A,A,B,B,B,2017.0,FALSE
+Georgetown,32.0,B,A,B,A,A,A,B,A,A,A,2017.0,FALSE
+St. John's,33.0,B,A,B,A,A,B,B,A,B,A,2017.0,FALSE
+DePaul,31.0,B,A,B,A,B,A,A,B,B,B,2018.0,FALSE
+Georgetown,30.0,B,A,B,A,A,A,A,A,A,A,2018.0,TRUE
+Marquette,35.0,A,A,A,A,A,B,B,B,A,A,2018.0,TRUE
+St. John's,32.0,B,A,B,A,B,B,B,B,B,B,2018.0,TRUE
+Butler,33.0,B,A,B,A,A,B,B,B,A,A,2019.0,FALSE
+Creighton,34.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+DePaul,36.0,A,A,A,A,A,A,A,A,A,B,2019.0,TRUE
+Georgetown,33.0,A,A,B,A,A,B,B,A,A,A,2019.0,TRUE
+Providence,34.0,A,A,B,A,B,B,A,A,B,B,2019.0,TRUE
+Xavier,35.0,A,A,B,A,A,A,A,B,A,B,2019.0,TRUE
+Idaho,28.0,B,A,A,B,A,B,A,A,A,A,2015.0,FALSE
+Idaho St.,28.0,B,B,A,B,B,B,A,A,B,A,2015.0,FALSE
+Montana,31.0,A,A,A,A,A,B,B,B,A,A,2015.0,TRUE
+Montana St.,29.0,B,B,A,B,B,A,B,B,B,A,2015.0,FALSE
+North Dakota,28.0,B,B,A,B,B,B,B,A,B,B,2015.0,FALSE
+Northern Arizona,37.0,A,B,B,B,B,B,A,A,B,A,2015.0,TRUE
+Northern Colorado,28.0,B,A,A,B,A,B,A,B,A,A,2015.0,FALSE
+Portland St.,27.0,B,B,A,B,B,B,B,A,B,A,2015.0,FALSE
+Sacramento St.,31.0,A,A,A,B,A,B,B,B,A,A,2015.0,TRUE
+Southern Utah,28.0,B,B,A,B,A,A,B,A,B,A,2015.0,FALSE
+Weber St.,28.0,B,B,A,B,B,A,B,A,B,A,2015.0,FALSE
+Eastern Washington,32.0,B,A,A,B,A,B,B,B,A,A,2016.0,TRUE
+Idaho,32.0,A,B,B,B,B,A,A,A,B,A,2016.0,TRUE
+Idaho St.,29.0,B,B,A,B,A,B,B,A,B,A,2016.0,FALSE
+Montana,30.0,A,A,A,A,A,B,B,A,A,A,2016.0,TRUE
+Montana St.,30.0,B,A,A,B,A,B,A,B,B,A,2016.0,FALSE
+North Dakota,30.0,B,B,B,B,A,B,B,A,B,A,2016.0,FALSE
+Northern Arizona,28.0,B,B,A,B,B,B,B,A,B,B,2016.0,FALSE
+Northern Colorado,29.0,B,B,A,B,A,A,B,A,B,A,2016.0,FALSE
+Portland St.,29.0,B,B,A,B,A,B,B,B,A,B,2016.0,FALSE
+Sacramento St.,29.0,B,B,A,B,B,B,B,B,A,B,2016.0,FALSE
+Southern Utah,28.0,B,B,A,B,B,A,B,B,B,A,2016.0,FALSE
+Eastern Washington,32.0,A,A,A,B,A,B,B,B,A,A,2017.0,TRUE
+Idaho,31.0,A,B,A,B,A,B,A,A,B,A,2017.0,TRUE
+Idaho St.,30.0,B,B,A,B,A,A,B,A,B,A,2017.0,FALSE
+Montana,32.0,B,A,A,B,A,B,B,B,A,A,2017.0,TRUE
+Montana St.,30.0,B,B,A,B,A,B,B,A,B,A,2017.0,TRUE
+Northern Arizona,31.0,B,B,A,B,B,A,A,B,B,B,2017.0,FALSE
+Northern Colorado,27.0,B,B,A,B,A,A,B,B,A,B,2017.0,FALSE
+Portland St.,28.0,B,B,A,B,A,B,B,A,A,B,2017.0,TRUE
+Sacramento St.,29.0,B,B,A,B,B,B,B,A,A,B,2017.0,FALSE
+Southern Utah,31.0,B,B,A,B,B,B,B,A,B,A,2017.0,FALSE
+Weber St.,32.0,A,A,A,B,A,B,B,A,A,A,2017.0,TRUE
+Eastern Washington,33.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Idaho,29.0,A,A,A,A,A,A,A,B,A,A,2018.0,TRUE
+Idaho St.,28.0,B,A,A,B,A,B,B,B,A,A,2018.0,TRUE
+Montana St.,30.0,B,B,A,B,B,B,B,A,B,B,2018.0,FALSE
+North Dakota,30.0,B,B,A,B,A,B,B,B,A,A,2018.0,FALSE
+Northern Arizona,30.0,B,B,A,B,B,A,B,A,B,B,2018.0,FALSE
+Northern Colorado,35.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Portland St.,31.0,A,A,A,A,B,B,A,B,A,B,2018.0,TRUE
+Sacramento St.,30.0,B,B,A,B,B,B,B,B,B,A,2018.0,FALSE
+Southern Utah,30.0,B,B,A,B,A,B,B,B,B,A,2018.0,FALSE
+Weber St.,28.0,A,A,A,B,A,B,B,B,A,A,2018.0,TRUE
+Eastern Washington,33.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Idaho,29.0,B,B,A,B,A,A,B,B,B,A,2019.0,FALSE
+Idaho St.,28.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Montana St.,31.0,B,A,A,B,A,B,B,B,A,A,2019.0,FALSE
+North Dakota,26.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Northern Arizona,31.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Northern Colorado,30.0,A,B,B,B,A,B,B,B,A,A,2019.0,TRUE
+Portland St.,29.0,B,B,A,B,B,A,A,A,B,B,2019.0,TRUE
+Sacramento St.,28.0,B,B,A,B,B,A,B,B,B,B,2019.0,TRUE
+Southern Utah,32.0,A,B,A,B,A,A,B,A,A,B,2019.0,TRUE
+Weber St.,31.0,A,B,A,B,A,B,B,A,A,A,2019.0,TRUE
+Campbell,29.0,B,B,A,B,B,A,B,B,B,A,2015.0,FALSE
+Charleston Southern,28.0,B,A,A,B,B,B,A,B,B,B,2015.0,TRUE
+Gardner Webb,31.0,B,A,A,B,A,B,B,A,A,A,2015.0,TRUE
+High Point,30.0,A,A,A,B,A,B,A,B,A,A,2015.0,TRUE
+Liberty,28.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Longwood,32.0,B,B,A,B,B,A,B,B,B,A,2015.0,FALSE
+Presbyterian,28.0,B,B,A,B,B,A,B,B,B,B,2015.0,FALSE
+Radford,31.0,A,B,A,B,A,B,A,B,A,B,2015.0,TRUE
+UNC Asheville,28.0,B,B,A,B,A,A,A,B,B,A,2015.0,FALSE
+Winthrop,29.0,B,B,A,B,A,B,B,B,A,A,2015.0,TRUE
+Campbell,27.0,B,B,A,B,B,B,B,A,A,B,2016.0,FALSE
+Charleston Southern,27.0,B,B,A,B,A,B,B,B,A,B,2016.0,FALSE
+Coastal Carolina,30.0,A,B,B,B,B,A,A,B,A,B,2016.0,TRUE
+Gardner Webb,30.0,B,B,A,B,B,B,A,B,B,B,2016.0,FALSE
+High Point,29.0,A,A,A,B,A,B,A,B,A,A,2016.0,TRUE
+Liberty,29.0,B,B,A,B,A,A,B,B,A,A,2016.0,FALSE
+Longwood,30.0,B,B,A,B,A,A,B,B,A,A,2016.0,FALSE
+Presbyterian,28.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+Radford,29.0,B,B,A,B,A,A,A,B,A,B,2016.0,FALSE
+Winthrop,29.0,A,A,A,B,A,B,B,A,A,A,2016.0,TRUE
+Campbell,34.0,A,B,A,B,A,B,B,A,A,A,2017.0,TRUE
+Charleston Southern,28.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+Gardner Webb,30.0,A,B,B,B,A,A,A,A,A,A,2017.0,TRUE
+High Point,28.0,B,B,A,B,B,A,B,A,B,A,2017.0,TRUE
+Liberty,32.0,A,B,B,B,A,B,B,B,A,A,2017.0,TRUE
+Longwood,28.0,B,B,A,B,B,A,B,B,A,B,2017.0,FALSE
+Presbyterian,28.0,B,B,A,B,B,A,B,B,B,B,2017.0,FALSE
+Radford,30.0,B,B,A,B,B,A,A,B,B,A,2017.0,FALSE
+UNC Asheville,31.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Campbell,31.0,A,A,A,B,A,B,B,B,A,A,2018.0,TRUE
+Charleston Southern,28.0,B,B,A,B,B,A,A,B,A,B,2018.0,TRUE
+Gardner Webb,29.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+High Point,27.0,B,B,A,B,B,A,A,B,B,A,2018.0,TRUE
+Liberty,34.0,A,B,A,B,A,B,B,B,A,A,2018.0,TRUE
+Longwood,30.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Presbyterian,29.0,B,B,A,B,B,A,B,B,B,A,2018.0,FALSE
+UNC Asheville,32.0,A,A,A,B,A,A,B,B,A,A,2018.0,TRUE
+Winthrop,28.0,A,A,A,B,A,A,B,B,A,A,2018.0,TRUE
+Campbell,30.0,A,A,A,B,A,B,B,B,A,B,2019.0,TRUE
+Charleston Southern,30.0,A,B,B,B,B,B,B,B,B,A,2019.0,TRUE
+Hampton,32.0,A,A,A,B,B,B,B,B,B,B,2019.0,TRUE
+High Point,29.0,B,B,A,B,B,A,A,B,A,B,2019.0,TRUE
+Longwood,31.0,B,B,A,B,A,A,B,B,A,A,2019.0,TRUE
+Presbyterian,33.0,A,A,A,B,A,B,B,B,A,A,2019.0,TRUE
+Radford,30.0,A,A,A,A,A,B,B,B,A,A,2019.0,TRUE
+UNC Asheville,28.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+USC Upstate,29.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Winthrop,27.0,A,A,A,B,A,A,B,B,A,A,2019.0,TRUE
+Cal Poly,27.0,B,B,B,A,B,B,A,B,B,B,2015.0,FALSE
+Cal St. Fullerton,29.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Cal St. Northridge,31.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Hawaii,33.0,A,A,B,A,B,B,A,A,A,B,2015.0,TRUE
+Long Beach St.,31.0,B,B,B,A,B,A,A,B,B,B,2015.0,FALSE
+UC Davis,30.0,A,A,A,A,A,A,B,A,A,A,2015.0,TRUE
+UC Riverside,29.0,B,B,B,B,B,A,A,B,B,B,2015.0,FALSE
+UC Santa Barbara,31.0,A,A,B,A,B,B,A,B,B,A,2015.0,TRUE
+Cal Poly,28.0,B,A,A,B,B,B,A,B,B,A,2016.0,FALSE
+Cal St. Fullerton,28.0,B,B,A,B,B,A,B,A,B,B,2016.0,FALSE
+Cal St. Northridge,28.0,B,B,A,B,B,A,B,A,B,B,2016.0,FALSE
+Long Beach St.,33.0,A,A,B,A,B,B,B,A,B,A,2016.0,TRUE
+UC Davis,28.0,B,B,B,B,B,A,B,B,B,A,2016.0,FALSE
+UC Irvine,36.0,A,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+UC Riverside,31.0,B,B,A,B,B,A,B,A,B,A,2016.0,FALSE
+UC Santa Barbara,32.0,A,A,B,A,A,B,B,B,B,A,2016.0,TRUE
+Cal Poly,29.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+Cal St. Fullerton,30.0,A,B,B,B,B,A,A,A,A,B,2017.0,TRUE
+Cal St. Northridge,28.0,B,B,A,B,B,B,B,A,A,B,2017.0,FALSE
+Hawaii,29.0,B,B,A,B,B,A,B,A,B,B,2017.0,FALSE
+Long Beach St.,32.0,B,A,A,B,B,A,A,A,B,A,2017.0,FALSE
+UC Irvine,34.0,A,B,B,A,A,A,A,B,B,A,2017.0,TRUE
+UC Riverside,27.0,B,B,A,B,B,A,B,B,B,B,2017.0,FALSE
+UC Santa Barbara,27.0,B,B,A,B,B,B,A,B,B,B,2017.0,FALSE
+Cal Poly,29.0,B,B,A,B,B,B,B,B,B,A,2018.0,FALSE
+Cal St. Northridge,28.0,B,B,A,B,B,B,B,B,B,A,2018.0,FALSE
+Hawaii,28.0,A,B,B,B,A,A,B,A,A,B,2018.0,TRUE
+Long Beach St.,31.0,B,A,A,B,B,A,A,A,B,A,2018.0,FALSE
+UC Davis,31.0,A,B,B,A,A,B,B,A,A,A,2018.0,TRUE
+UC Irvine,33.0,A,B,B,A,B,A,A,B,B,B,2018.0,TRUE
+UC Riverside,29.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+UC Santa Barbara,30.0,A,A,A,A,A,B,B,B,A,A,2018.0,TRUE
+Cal Poly,27.0,B,B,A,B,B,B,B,B,B,B,2019.0,FALSE
+Cal St. Fullerton,32.0,B,B,B,B,B,A,B,A,A,B,2019.0,TRUE
+Cal St. Northridge,33.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Hawaii,29.0,A,B,A,B,A,B,B,B,A,A,2019.0,TRUE
+Long Beach St.,32.0,B,B,A,B,B,A,B,A,B,B,2019.0,FALSE
+UC Davis,29.0,B,B,B,B,B,A,B,B,A,B,2019.0,FALSE
+UC Riverside,30.0,B,B,A,B,A,A,B,B,B,A,2019.0,FALSE
+UC Santa Barbara,30.0,A,B,A,B,A,B,A,A,A,A,2019.0,TRUE
+College of Charleston,33.0,B,B,B,B,B,A,B,B,B,B,2015.0,FALSE
+Delaware,30.0,B,B,A,B,B,B,B,A,B,A,2015.0,FALSE
+Drexel,29.0,B,B,A,B,B,B,B,B,B,B,2015.0,FALSE
+Elon,31.0,B,B,A,B,B,A,B,A,B,A,2015.0,FALSE
+Hofstra,34.0,A,A,A,A,A,B,A,A,A,A,2015.0,TRUE
+James Madison,33.0,A,B,A,B,A,A,B,A,A,A,2015.0,TRUE
+Towson,31.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+UNC Wilmington,31.0,A,B,B,A,B,B,A,A,B,B,2015.0,TRUE
+William & Mary,31.0,A,A,A,A,A,B,B,B,A,A,2015.0,TRUE
+College of Charleston,30.0,B,B,B,A,B,A,A,B,B,B,2016.0,TRUE
+Delaware,30.0,B,B,A,B,B,B,B,A,B,B,2016.0,FALSE
+Drexel,30.0,B,B,A,B,B,B,B,A,B,B,2016.0,FALSE
+Elon,30.0,B,A,A,B,A,B,B,B,A,B,2016.0,FALSE
+Hofstra,33.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+James Madison,31.0,A,A,B,A,A,B,B,A,A,A,2016.0,TRUE
+Northeastern,32.0,A,A,B,A,A,B,B,A,B,A,2016.0,TRUE
+Towson,31.0,A,A,B,A,B,B,A,A,B,B,2016.0,TRUE
+William & Mary,29.0,A,A,A,A,A,B,B,A,A,A,2016.0,TRUE
+College of Charleston,34.0,A,A,B,A,B,B,B,A,A,B,2017.0,TRUE
+Delaware,31.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+Drexel,31.0,B,B,A,B,A,B,A,B,B,A,2017.0,FALSE
+Elon,30.0,A,B,B,A,A,B,B,B,A,A,2017.0,TRUE
+Hofstra,31.0,B,A,A,B,A,B,A,A,A,A,2017.0,FALSE
+James Madison,32.0,B,B,A,B,A,A,B,A,A,B,2017.0,FALSE
+Northeastern,31.0,B,A,A,B,A,B,B,A,A,A,2017.0,FALSE
+Towson,32.0,A,A,B,A,B,B,A,A,A,B,2017.0,TRUE
+William & Mary,29.0,A,A,A,A,A,B,B,A,A,A,2017.0,TRUE
+Delaware,31.0,B,B,A,B,A,B,B,B,A,B,2018.0,FALSE
+Drexel,32.0,B,B,A,B,B,B,A,B,A,B,2018.0,FALSE
+Elon,30.0,B,B,A,B,A,B,B,B,A,A,2018.0,FALSE
+Hofstra,30.0,A,A,A,A,A,B,A,A,A,A,2018.0,TRUE
+James Madison,31.0,B,B,A,B,B,B,B,B,B,B,2018.0,FALSE
+Northeastern,32.0,A,A,B,A,A,A,B,B,A,A,2018.0,TRUE
+Towson,30.0,A,A,A,B,A,B,A,B,A,A,2018.0,TRUE
+UNC Wilmington,30.0,B,A,A,B,B,B,A,B,B,A,2018.0,FALSE
+William & Mary,29.0,A,A,A,B,A,B,B,B,A,A,2018.0,TRUE
+College of Charleston,32.0,A,A,B,A,A,B,B,B,A,B,2019.0,TRUE
+Delaware,31.0,A,A,A,B,A,B,B,B,A,A,2019.0,TRUE
+Drexel,31.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Elon,30.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Hofstra,34.0,A,A,A,A,A,B,B,A,A,A,2019.0,TRUE
+James Madison,31.0,B,B,A,B,A,A,A,B,B,A,2019.0,FALSE
+Towson,31.0,B,B,A,B,B,A,A,B,B,B,2019.0,FALSE
+UNC Wilmington,32.0,B,A,A,B,A,B,A,B,A,A,2019.0,FALSE
+William & Mary,30.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Charlotte,32.0,B,A,A,A,A,A,A,A,A,A,2015.0,FALSE
+FIU,31.0,B,B,B,B,B,A,B,A,B,B,2015.0,FALSE
+Florida Atlantic,27.0,B,B,A,B,B,A,B,B,B,A,2015.0,FALSE
+Louisiana Tech,35.0,A,A,B,A,A,B,B,B,A,B,2015.0,TRUE
+Marshall,30.0,B,B,B,B,B,A,B,B,B,B,2015.0,FALSE
+Middle Tennessee,35.0,A,B,B,A,B,A,A,A,B,A,2015.0,TRUE
+North Texas,29.0,B,B,B,B,B,A,A,A,B,B,2015.0,FALSE
+Old Dominion,35.0,A,A,B,A,B,B,A,B,B,B,2015.0,TRUE
+Rice,29.0,B,B,A,B,A,A,B,B,B,A,2015.0,FALSE
+Southern Miss,27.0,B,B,A,B,B,A,B,B,B,B,2015.0,FALSE
+UTEP,33.0,A,A,B,A,A,A,B,A,A,A,2015.0,TRUE
+UTSA,28.0,B,A,A,B,B,B,A,A,B,B,2015.0,FALSE
+Western Kentucky,30.0,A,B,B,B,B,A,A,A,B,A,2015.0,TRUE
+Charlotte,33.0,B,A,A,B,A,B,B,B,B,A,2016.0,FALSE
+FIU,30.0,B,B,A,B,A,A,A,B,A,A,2016.0,FALSE
+Florida Atlantic,31.0,B,B,A,B,B,B,B,B,B,B,2016.0,FALSE
+Louisiana Tech,31.0,A,B,B,A,A,B,B,A,A,B,2016.0,TRUE
+Marshall,33.0,A,A,A,A,A,B,B,B,A,B,2016.0,TRUE
+North Texas,30.0,B,B,A,B,B,A,A,A,A,B,2016.0,FALSE
+Old Dominion,38.0,A,A,B,A,B,B,A,B,B,B,2016.0,TRUE
+Rice,30.0,B,A,A,B,A,B,B,A,A,B,2016.0,FALSE
+Southern Miss,27.0,B,B,A,B,B,A,B,A,B,A,2016.0,FALSE
+UAB,32.0,A,A,A,A,A,B,A,B,A,A,2016.0,TRUE
+UTEP,32.0,A,B,A,B,A,B,B,A,A,A,2016.0,TRUE
+UTSA,30.0,B,B,A,B,B,B,B,A,B,B,2016.0,FALSE
+Western Kentucky,32.0,B,A,A,A,A,A,A,A,A,A,2016.0,TRUE
+Charlotte,29.0,B,B,A,B,A,B,B,B,B,A,2017.0,FALSE
+FIU,29.0,B,B,A,B,B,A,B,B,A,B,2017.0,FALSE
+Florida Atlantic,28.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+Louisiana Tech,31.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Marshall,34.0,A,A,A,A,A,B,B,A,A,A,2017.0,TRUE
+North Texas,28.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+Old Dominion,31.0,A,B,B,A,B,B,A,B,B,B,2017.0,TRUE
+Rice,33.0,A,A,A,B,A,A,B,A,A,A,2017.0,TRUE
+Southern Miss,29.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+UAB,32.0,A,B,A,B,A,A,A,A,A,B,2017.0,TRUE
+UTEP,31.0,B,B,B,B,A,A,B,A,A,B,2017.0,FALSE
+UTSA,31.0,B,B,B,B,B,B,A,A,B,B,2017.0,FALSE
+Western Kentucky,32.0,B,B,A,B,A,B,B,A,B,A,2017.0,FALSE
+Charlotte,28.0,B,B,A,B,B,A,B,A,B,A,2018.0,FALSE
+FIU,29.0,B,B,B,B,B,B,B,A,B,B,2018.0,FALSE
+Florida Atlantic,28.0,B,B,B,B,B,B,B,B,B,B,2018.0,FALSE
+Louisiana Tech,31.0,A,A,A,A,A,B,B,A,B,A,2018.0,TRUE
+Middle Tennessee,32.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+North Texas,36.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Old Dominion,32.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Rice,29.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Southern Miss,30.0,B,A,A,B,A,B,B,B,A,B,2018.0,TRUE
+UAB,31.0,A,A,B,A,A,A,A,B,A,A,2018.0,TRUE
+UTEP,30.0,B,B,B,B,B,B,B,B,A,B,2018.0,FALSE
+UTSA,32.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Western Kentucky,37.0,A,A,B,A,A,B,B,A,A,A,2018.0,TRUE
+Charlotte,29.0,B,B,A,B,B,A,B,A,A,B,2019.0,FALSE
+FIU,30.0,A,B,A,B,B,B,B,A,A,B,2019.0,TRUE
+Florida Atlantic,30.0,A,B,B,A,B,A,B,B,B,B,2019.0,TRUE
+Louisiana Tech,31.0,A,B,B,A,B,B,B,B,A,B,2019.0,TRUE
+Marshall,37.0,A,A,A,B,A,B,B,B,A,B,2019.0,TRUE
+Middle Tennessee,30.0,B,B,A,B,B,A,A,B,B,B,2019.0,FALSE
+North Texas,30.0,A,B,B,A,B,A,A,B,A,B,2019.0,TRUE
+Rice,30.0,B,B,A,B,A,A,B,A,B,A,2019.0,FALSE
+Southern Miss,29.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+UAB,33.0,A,A,A,A,A,B,A,B,A,B,2019.0,TRUE
+UTEP,27.0,B,B,B,B,B,A,B,B,B,B,2019.0,FALSE
+UTSA,28.0,A,A,B,A,B,B,B,B,B,B,2019.0,TRUE
+Western Kentucky,34.0,A,A,B,A,A,A,B,A,A,B,2019.0,TRUE
+Cleveland St.,32.0,A,A,B,A,A,A,A,B,A,A,2015.0,TRUE
+Detroit,31.0,B,B,A,B,B,A,B,B,B,A,2015.0,FALSE
+Green Bay,31.0,A,B,B,A,B,B,A,A,A,B,2015.0,TRUE
+Illinois Chicago,32.0,B,B,A,B,B,B,A,A,B,B,2015.0,FALSE
+Milwaukee,28.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Oakland,31.0,B,A,A,A,A,B,A,A,A,A,2015.0,FALSE
+Wright St.,29.0,B,B,A,B,B,A,B,B,A,B,2015.0,FALSE
+Youngstown St.,29.0,B,A,A,B,A,B,B,B,B,A,2015.0,FALSE
+Cleveland St.,30.0,B,B,B,B,B,A,B,B,B,B,2016.0,FALSE
+Detroit,29.0,B,A,A,B,A,B,A,A,A,A,2016.0,FALSE
+Illinois Chicago,28.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+Milwaukee,31.0,A,A,A,A,A,B,B,A,A,A,2016.0,TRUE
+Northern Kentucky,28.0,B,B,A,B,A,A,B,B,B,A,2016.0,FALSE
+Oakland,35.0,A,A,A,A,A,B,A,A,A,A,2016.0,TRUE
+Valparaiso,35.0,A,A,B,A,A,A,A,B,B,A,2016.0,TRUE
+Wright St.,33.0,A,B,B,A,A,B,B,B,B,A,2016.0,TRUE
+Youngstown St.,30.0,B,B,A,B,B,B,B,B,B,A,2016.0,FALSE
+Cleveland St.,30.0,B,B,B,B,B,A,B,B,B,B,2017.0,FALSE
+Detroit,30.0,B,B,A,B,A,A,B,A,B,A,2017.0,FALSE
+Green Bay,30.0,A,B,B,B,B,B,A,A,B,B,2017.0,TRUE
+Illinois Chicago,34.0,A,B,A,B,A,A,A,A,B,A,2017.0,TRUE
+Milwaukee,34.0,B,B,A,B,A,B,B,B,A,A,2017.0,FALSE
+Oakland,32.0,A,A,B,A,A,B,B,A,A,B,2017.0,TRUE
+Valparaiso,32.0,A,A,B,A,A,B,A,A,A,B,2017.0,TRUE
+Wright St.,30.0,A,A,A,A,A,A,B,A,A,A,2017.0,TRUE
+Youngstown St.,32.0,B,B,A,B,B,B,B,B,A,B,2017.0,FALSE
+Cleveland St.,34.0,B,B,A,B,A,A,B,B,A,B,2018.0,FALSE
+Detroit,30.0,B,B,A,B,B,B,B,B,B,B,2018.0,FALSE
+Green Bay,30.0,B,B,A,B,B,B,B,B,B,A,2018.0,FALSE
+Illinois Chicago,34.0,A,B,B,B,A,A,B,B,A,A,2018.0,TRUE
+IUPUI,28.0,B,B,A,B,B,A,A,B,B,A,2018.0,FALSE
+Milwaukee,31.0,B,B,B,B,A,B,B,B,A,B,2018.0,TRUE
+Northern Kentucky,30.0,A,A,B,A,A,B,B,B,A,B,2018.0,TRUE
+Oakland,33.0,A,A,A,B,A,B,B,B,A,A,2018.0,TRUE
+Youngstown St.,30.0,B,B,A,B,B,A,A,B,B,B,2018.0,FALSE
+Cleveland St.,29.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Detroit,31.0,B,A,A,B,B,B,B,B,B,A,2019.0,FALSE
+Green Bay,36.0,A,A,A,B,A,B,B,B,A,A,2019.0,TRUE
+Illinois Chicago,30.0,B,B,B,B,A,A,B,B,A,A,2019.0,TRUE
+IUPUI,31.0,B,B,A,B,A,A,A,B,A,B,2019.0,TRUE
+Milwaukee,30.0,B,B,A,B,B,B,B,B,B,B,2019.0,FALSE
+Oakland,32.0,B,A,A,A,A,B,B,B,A,A,2019.0,TRUE
+Wright St.,33.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Youngstown St.,30.0,B,A,A,B,B,B,A,B,B,B,2019.0,FALSE
+NJIT,29.0,A,B,A,B,A,A,B,A,A,A,2015.0,TRUE
+Brown,29.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Columbia,27.0,B,A,A,A,A,A,A,B,A,A,2015.0,FALSE
+Cornell,29.0,B,B,B,B,B,A,B,A,B,B,2015.0,FALSE
+Dartmouth,29.0,B,B,B,B,B,A,A,B,B,A,2015.0,FALSE
+Penn,28.0,B,B,A,B,B,A,B,B,B,A,2015.0,FALSE
+Princeton,29.0,B,A,A,A,A,A,B,A,A,A,2015.0,TRUE
+Yale,30.0,A,A,B,A,A,A,A,A,B,A,2015.0,TRUE
+Brown,27.0,B,B,A,B,A,A,B,A,B,A,2016.0,FALSE
+Columbia,33.0,A,A,A,A,A,B,B,A,A,A,2016.0,TRUE
+Cornell,27.0,B,B,A,B,B,B,B,B,B,B,2016.0,FALSE
+Dartmouth,27.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+Harvard,28.0,B,B,B,A,A,A,B,B,B,A,2016.0,FALSE
+Penn,27.0,B,B,A,B,B,A,B,B,A,B,2016.0,FALSE
+Princeton,28.0,A,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+Brown,28.0,B,B,A,B,A,A,B,A,A,A,2017.0,FALSE
+Columbia,26.0,B,B,A,B,B,B,B,B,B,A,2017.0,FALSE
+Cornell,28.0,B,B,A,B,A,A,B,B,A,B,2017.0,FALSE
+Dartmouth,27.0,B,B,A,B,A,A,B,B,B,A,2017.0,FALSE
+Harvard,26.0,A,A,B,A,A,A,B,B,A,A,2017.0,TRUE
+Penn,28.0,B,B,B,A,A,A,B,B,A,B,2017.0,FALSE
+Yale,28.0,A,A,A,A,A,A,A,B,A,A,2017.0,TRUE
+Brown,26.0,B,B,A,B,B,B,B,A,B,B,2018.0,FALSE
+Columbia,26.0,B,A,A,B,A,B,B,B,A,A,2018.0,FALSE
+Cornell,27.0,B,A,A,B,A,B,B,B,A,B,2018.0,FALSE
+Dartmouth,26.0,B,B,A,B,A,A,B,B,A,A,2018.0,FALSE
+Harvard,31.0,A,B,B,A,A,A,B,B,B,A,2018.0,TRUE
+Princeton,28.0,B,A,A,B,A,B,B,B,A,A,2018.0,FALSE
+Yale,30.0,B,B,A,B,A,A,B,B,A,B,2018.0,TRUE
+Brown,30.0,A,B,B,A,A,A,B,A,A,B,2019.0,TRUE
+Columbia,26.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Cornell,29.0,B,B,A,B,A,A,B,B,A,B,2019.0,TRUE
+Dartmouth,28.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Harvard,30.0,A,A,B,A,A,A,B,B,A,A,2019.0,TRUE
+Penn,30.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Princeton,26.0,B,B,B,B,B,B,B,B,B,B,2019.0,TRUE
+Canisius,33.0,A,B,B,A,B,B,A,B,B,B,2015.0,TRUE
+Fairfield,31.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Iona,35.0,A,A,A,A,A,B,B,A,A,A,2015.0,TRUE
+Marist,32.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Monmouth,33.0,A,B,B,B,B,A,A,A,B,B,2015.0,TRUE
+Niagara,30.0,B,B,A,B,B,A,A,A,B,A,2015.0,FALSE
+Quinnipiac,30.0,B,B,B,A,B,A,A,B,B,B,2015.0,TRUE
+Rider,33.0,A,B,B,A,B,A,A,B,A,B,2015.0,TRUE
+Saint Peter's,34.0,B,B,B,B,B,A,A,A,B,B,2015.0,FALSE
+Siena,31.0,B,A,A,B,B,B,A,A,B,B,2015.0,FALSE
+Canisius,33.0,B,A,A,B,B,B,A,A,B,B,2016.0,FALSE
+Fairfield,33.0,A,B,A,B,A,B,B,B,A,A,2016.0,TRUE
+Manhattan,31.0,B,B,A,B,A,A,B,A,B,A,2016.0,FALSE
+Marist,30.0,B,B,A,B,B,B,B,B,B,B,2016.0,FALSE
+Monmouth,36.0,A,A,B,A,A,B,B,A,B,A,2016.0,TRUE
+Niagara,32.0,B,B,A,B,B,A,A,B,B,B,2016.0,FALSE
+Quinnipiac,30.0,B,B,B,B,B,A,A,B,B,B,2016.0,FALSE
+Rider,33.0,B,B,A,B,B,A,B,B,A,B,2016.0,FALSE
+Saint Peter's,30.0,B,B,B,B,B,A,A,B,B,B,2016.0,FALSE
+Siena,34.0,A,A,A,A,A,A,A,A,A,A,2016.0,TRUE
+Canisius,34.0,A,A,A,B,A,B,A,B,A,A,2017.0,TRUE
+Fairfield,31.0,B,B,B,B,A,B,B,B,A,B,2017.0,TRUE
+Manhattan,32.0,B,B,A,B,B,A,A,A,B,B,2017.0,FALSE
+Marist,32.0,B,B,A,B,A,B,B,A,A,B,2017.0,FALSE
+Monmouth,34.0,A,A,B,A,A,B,B,A,B,A,2017.0,TRUE
+Niagara,33.0,B,B,A,B,B,B,A,B,B,A,2017.0,FALSE
+Quinnipiac,31.0,B,B,A,B,B,A,A,B,B,B,2017.0,FALSE
+Rider,33.0,A,B,A,B,B,A,A,A,B,B,2017.0,TRUE
+Saint Peter's,36.0,A,B,B,A,A,B,B,B,B,A,2017.0,TRUE
+Siena,34.0,A,A,A,B,A,A,A,A,A,B,2017.0,TRUE
+Canisius,33.0,A,A,A,A,A,B,A,B,A,A,2018.0,TRUE
+Fairfield,33.0,A,B,A,B,A,B,B,B,A,B,2018.0,TRUE
+Manhattan,31.0,B,B,A,B,A,A,A,A,B,A,2018.0,FALSE
+Marist,31.0,B,B,A,B,A,A,B,B,A,A,2018.0,FALSE
+Monmouth,31.0,B,B,A,B,A,A,B,A,A,A,2018.0,FALSE
+Niagara,33.0,A,A,A,B,A,B,A,A,A,A,2018.0,TRUE
+Quinnipiac,33.0,B,B,A,B,A,A,B,A,A,B,2018.0,FALSE
+Rider,32.0,A,A,A,A,A,B,A,A,A,A,2018.0,TRUE
+Saint Peter's,32.0,B,B,B,B,B,A,B,B,B,B,2018.0,FALSE
+Siena,32.0,B,B,A,B,B,A,A,A,B,A,2018.0,FALSE
+Canisius,32.0,B,B,A,B,A,B,B,B,A,B,2019.0,FALSE
+Fairfield,31.0,B,B,A,B,A,A,B,B,A,A,2019.0,FALSE
+Manhattan,32.0,B,B,A,B,B,A,A,B,B,B,2019.0,FALSE
+Marist,31.0,B,B,A,B,A,A,B,B,A,A,2019.0,FALSE
+Monmouth,35.0,B,B,B,B,B,A,B,A,B,B,2019.0,FALSE
+Niagara,32.0,B,B,A,B,B,B,B,B,B,A,2019.0,FALSE
+Quinnipiac,31.0,B,A,A,B,A,A,B,A,B,A,2019.0,TRUE
+Rider,31.0,B,B,A,B,A,B,A,A,A,B,2019.0,TRUE
+Saint Peter's,32.0,B,B,A,B,B,A,A,B,B,B,2019.0,FALSE
+Siena,33.0,A,B,A,B,A,B,B,B,A,B,2019.0,TRUE
+Akron,34.0,A,A,B,A,B,A,A,B,B,A,2015.0,TRUE
+Ball St.,29.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Bowling Green,32.0,A,A,B,A,B,B,A,B,B,B,2015.0,TRUE
+Central Michigan,29.0,A,A,A,A,A,B,B,A,A,A,2015.0,TRUE
+Eastern Michigan,31.0,A,B,B,A,B,B,A,A,B,B,2015.0,TRUE
+Kent St.,34.0,A,A,B,A,B,B,A,A,B,A,2015.0,TRUE
+Miami OH,31.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Northern Illinois,29.0,B,B,B,B,B,A,A,A,B,B,2015.0,FALSE
+Ohio,30.0,B,B,A,B,B,B,B,B,A,B,2015.0,FALSE
+Toledo,33.0,A,A,A,A,A,B,A,A,A,A,2015.0,TRUE
+Western Michigan,32.0,A,A,A,A,A,B,B,A,A,A,2015.0,TRUE
+Akron,34.0,A,A,B,A,A,B,B,B,B,A,2016.0,TRUE
+Ball St.,34.0,A,B,B,A,A,A,B,B,A,A,2016.0,TRUE
+Bowling Green,32.0,B,B,A,B,B,B,B,A,B,A,2016.0,FALSE
+Central Michigan,30.0,B,A,A,A,A,B,B,B,A,A,2016.0,FALSE
+Eastern Michigan,29.0,B,A,A,A,B,B,A,A,A,B,2016.0,FALSE
+Kent St.,31.0,A,A,A,B,B,B,A,A,A,B,2016.0,TRUE
+Miami OH,32.0,B,B,A,B,B,B,B,A,B,B,2016.0,FALSE
+Northern Illinois,30.0,A,B,B,B,B,B,A,A,B,A,2016.0,TRUE
+Ohio,34.0,A,A,A,A,A,B,B,A,A,A,2016.0,TRUE
+Toledo,31.0,B,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+Western Michigan,30.0,B,B,A,B,B,B,A,A,B,B,2016.0,FALSE
+Akron,35.0,A,A,A,A,A,B,B,A,A,A,2017.0,TRUE
+Ball St.,33.0,A,A,A,B,A,A,B,B,A,A,2017.0,TRUE
+Bowling Green,31.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+Buffalo,30.0,A,A,B,A,A,A,A,A,A,B,2017.0,TRUE
+Central Michigan,30.0,B,A,A,B,A,B,B,B,B,A,2017.0,TRUE
+Eastern Michigan,29.0,B,A,A,A,B,B,A,B,B,B,2017.0,TRUE
+Miami OH,30.0,B,B,A,B,B,A,B,A,A,B,2017.0,FALSE
+Northern Illinois,29.0,B,B,B,B,B,A,A,A,B,B,2017.0,TRUE
+Ohio,30.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Toledo,33.0,A,A,A,A,A,B,B,A,A,A,2017.0,TRUE
+Western Michigan,31.0,B,A,A,A,A,B,A,B,B,A,2017.0,TRUE
+Akron,31.0,B,B,A,B,A,A,B,B,A,A,2018.0,FALSE
+Ball St.,31.0,A,B,B,B,A,B,B,B,A,B,2018.0,TRUE
+Bowling Green,30.0,B,B,A,B,B,B,B,A,B,B,2018.0,TRUE
+Central Michigan,33.0,A,A,A,A,A,B,A,B,A,B,2018.0,TRUE
+Eastern Michigan,31.0,A,B,B,A,A,B,A,B,A,B,2018.0,TRUE
+Kent St.,33.0,A,B,A,B,B,B,A,B,B,B,2018.0,TRUE
+Miami OH,32.0,B,B,B,B,A,A,B,B,A,B,2018.0,TRUE
+Northern Illinois,30.0,B,B,A,B,B,B,B,B,A,B,2018.0,FALSE
+Ohio,30.0,B,B,B,B,A,B,B,B,B,A,2018.0,FALSE
+Toledo,33.0,A,A,A,A,A,B,B,A,A,A,2018.0,TRUE
+Western Michigan,30.0,A,A,A,B,B,B,B,B,B,A,2018.0,TRUE
+Akron,31.0,A,B,B,A,B,B,B,B,B,B,2019.0,TRUE
+Ball St.,32.0,B,B,B,A,A,A,B,A,A,B,2019.0,TRUE
+Bowling Green,32.0,A,A,B,A,A,B,A,B,B,A,2019.0,TRUE
+Central Michigan,32.0,A,A,A,A,A,B,A,A,A,A,2019.0,TRUE
+Eastern Michigan,28.0,B,B,B,A,B,A,A,B,A,B,2019.0,TRUE
+Kent St.,31.0,A,A,A,A,B,B,A,B,A,B,2019.0,TRUE
+Miami OH,30.0,B,B,B,A,B,B,A,B,B,B,2019.0,TRUE
+Northern Illinois,32.0,A,A,A,A,A,B,B,B,A,A,2019.0,TRUE
+Ohio,30.0,B,B,B,B,B,A,B,B,A,B,2019.0,FALSE
+Toledo,32.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Western Michigan,31.0,B,B,A,B,B,A,B,A,A,B,2019.0,FALSE
+Bethune Cookman,30.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Coppin St.,30.0,B,B,A,B,B,B,B,B,B,A,2015.0,FALSE
+Delaware St.,34.0,B,B,A,B,B,A,A,B,B,A,2015.0,FALSE
+Florida A&M,29.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Howard,29.0,B,B,B,B,B,A,A,A,B,B,2015.0,FALSE
+Maryland Eastern Shore,33.0,A,B,A,B,A,A,A,A,A,A,2015.0,TRUE
+Morgan St.,31.0,B,B,A,B,B,B,A,B,B,B,2015.0,FALSE
+Norfolk St.,32.0,A,B,A,B,A,A,A,A,A,A,2015.0,TRUE
+North Carolina A&T,30.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+North Carolina Central,30.0,A,B,B,A,A,A,A,A,A,A,2015.0,TRUE
+Savannah St.,29.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+South Carolina St.,31.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Bethune Cookman,30.0,B,B,A,B,B,B,A,B,B,B,2016.0,FALSE
+Coppin St.,29.0,B,B,A,B,B,B,A,A,B,B,2016.0,FALSE
+Delaware St.,30.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+Florida A&M,27.0,B,B,A,B,B,A,B,A,B,B,2016.0,FALSE
+Howard,30.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+Maryland Eastern Shore,31.0,B,B,A,B,B,A,A,A,A,B,2016.0,FALSE
+Morgan St.,30.0,B,B,A,B,B,B,A,B,B,B,2016.0,FALSE
+Norfolk St.,32.0,B,A,A,B,B,B,A,A,B,A,2016.0,FALSE
+North Carolina A&T,31.0,B,B,A,B,B,A,B,A,B,B,2016.0,FALSE
+North Carolina Central,29.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+Savannah St.,30.0,B,B,B,B,B,A,B,A,B,B,2016.0,FALSE
+South Carolina St.,32.0,A,B,A,B,B,B,B,B,A,B,2016.0,TRUE
+Bethune Cookman,30.0,B,B,A,B,B,B,A,B,B,B,2017.0,FALSE
+Coppin St.,30.0,B,B,A,B,B,A,B,A,B,B,2017.0,FALSE
+Delaware St.,30.0,B,B,A,B,B,A,B,B,B,A,2017.0,FALSE
+Florida A&M,28.0,B,B,A,B,B,B,B,A,B,B,2017.0,FALSE
+Hampton,29.0,B,B,A,B,B,A,A,B,B,B,2017.0,FALSE
+Howard,32.0,B,B,A,B,B,A,A,A,B,B,2017.0,FALSE
+Maryland Eastern Shore,32.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+Morgan St.,29.0,B,B,A,B,B,A,A,A,B,B,2017.0,FALSE
+Norfolk St.,32.0,A,B,A,B,B,A,B,A,B,B,2017.0,TRUE
+North Carolina A&T,30.0,B,B,A,B,B,A,A,B,B,B,2017.0,FALSE
+Savannah St.,27.0,B,B,A,B,B,B,B,B,A,B,2017.0,FALSE
+South Carolina St.,29.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+Bethune Cookman,30.0,A,B,A,B,B,A,A,A,A,B,2018.0,TRUE
+Coppin St.,32.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Delaware St.,30.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Florida A&M,33.0,B,B,A,B,B,A,B,B,B,A,2018.0,FALSE
+Hampton,32.0,A,B,A,B,B,B,B,B,A,B,2018.0,TRUE
+Howard,31.0,B,B,A,B,B,B,B,B,B,A,2018.0,FALSE
+Maryland Eastern Shore,30.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Morgan St.,30.0,B,B,A,B,B,B,A,A,B,B,2018.0,FALSE
+Norfolk St.,30.0,B,B,A,B,B,A,A,B,B,A,2018.0,FALSE
+North Carolina A&T,33.0,A,B,A,B,A,A,B,A,A,B,2018.0,TRUE
+Savannah St.,30.0,B,B,A,B,B,B,B,B,A,B,2018.0,TRUE
+South Carolina St.,30.0,B,B,A,B,B,B,B,B,B,B,2018.0,FALSE
+Bethune Cookman,29.0,B,B,A,B,B,A,A,A,B,B,2019.0,FALSE
+Coppin St.,33.0,B,B,A,B,B,A,B,A,B,B,2019.0,FALSE
+Delaware St.,29.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Florida A&M,29.0,B,B,B,B,B,A,B,B,B,A,2019.0,FALSE
+Howard,31.0,A,B,A,B,B,B,B,B,B,A,2019.0,TRUE
+Maryland Eastern Shore,30.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Morgan St.,28.0,B,B,A,B,B,B,A,B,B,B,2019.0,FALSE
+Norfolk St.,33.0,A,B,A,B,B,A,B,A,B,A,2019.0,TRUE
+North Carolina A&T,30.0,A,B,A,B,A,A,B,B,A,B,2019.0,TRUE
+Savannah St.,30.0,B,B,A,B,B,A,B,B,A,B,2019.0,FALSE
+South Carolina St.,32.0,B,B,A,B,B,A,A,A,B,B,2019.0,FALSE
+Bradley,32.0,B,B,B,B,B,A,A,A,B,B,2015.0,FALSE
+Drake,30.0,B,A,A,B,A,A,B,B,B,A,2015.0,FALSE
+Evansville,35.0,A,A,B,A,A,A,B,A,A,A,2015.0,TRUE
+Illinois St.,34.0,A,A,B,A,B,A,A,B,B,B,2015.0,TRUE
+Indiana St.,30.0,B,B,B,A,B,A,B,A,B,A,2015.0,FALSE
+Loyola Chicago,35.0,A,A,B,A,A,A,B,B,A,A,2015.0,TRUE
+Missouri St.,29.0,B,B,A,B,B,A,B,B,B,B,2015.0,FALSE
+Southern Illinois,32.0,B,B,B,B,B,A,A,A,B,B,2015.0,FALSE
+Bradley,31.0,B,B,B,B,B,A,B,A,B,B,2016.0,FALSE
+Drake,30.0,B,B,A,B,A,A,B,B,B,A,2016.0,FALSE
+Evansville,33.0,A,A,B,A,A,B,B,A,A,A,2016.0,TRUE
+Illinois St.,31.0,A,B,B,A,B,B,A,B,B,B,2016.0,TRUE
+Indiana St.,31.0,B,B,B,B,B,B,B,A,B,B,2016.0,FALSE
+Loyola Chicago,31.0,B,B,B,A,B,A,B,B,B,A,2016.0,FALSE
+Missouri St.,31.0,B,B,A,B,B,B,B,A,B,B,2016.0,FALSE
+Southern Illinois,32.0,A,A,B,A,A,A,A,A,A,B,2016.0,TRUE
+Bradley,32.0,B,B,B,B,B,A,B,A,B,A,2017.0,FALSE
+Drake,29.0,B,B,A,B,B,B,B,B,B,A,2017.0,FALSE
+Evansville,31.0,B,A,B,A,B,B,B,A,B,A,2017.0,TRUE
+Illinois St.,34.0,A,A,B,A,A,B,A,B,B,A,2017.0,TRUE
+Indiana St.,30.0,B,B,B,B,B,B,B,B,B,B,2017.0,FALSE
+Loyola Chicago,30.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Missouri St.,32.0,A,A,A,A,A,B,A,B,B,A,2017.0,TRUE
+Northern Iowa,29.0,B,B,B,A,B,B,B,B,B,B,2017.0,FALSE
+Southern Illinois,32.0,A,B,B,B,B,B,B,B,B,B,2017.0,TRUE
+Bradley,32.0,A,A,B,A,B,A,A,A,B,A,2018.0,TRUE
+Drake,33.0,A,A,A,A,A,B,B,B,B,A,2018.0,TRUE
+Evansville,30.0,A,B,B,A,B,A,B,B,B,A,2018.0,TRUE
+Illinois St.,32.0,A,A,B,A,B,A,B,B,A,B,2018.0,TRUE
+Indiana St.,29.0,B,B,B,A,B,A,B,B,B,A,2018.0,FALSE
+Missouri St.,32.0,A,A,A,A,B,B,A,B,A,B,2018.0,TRUE
+Northern Iowa,30.0,B,A,B,A,B,B,B,B,B,B,2018.0,TRUE
+Southern Illinois,32.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Valparaiso,30.0,B,B,B,A,A,A,B,A,A,B,2018.0,TRUE
+Drake,32.0,A,A,B,A,A,A,B,B,A,A,2019.0,TRUE
+Evansville,30.0,B,B,A,B,B,B,B,A,B,B,2019.0,FALSE
+Illinois St.,32.0,A,B,A,B,B,B,B,B,A,B,2019.0,TRUE
+Indiana St.,29.0,B,B,A,B,B,B,B,B,B,A,2019.0,TRUE
+Loyola Chicago,33.0,A,A,B,A,A,A,B,B,A,A,2019.0,TRUE
+Missouri St.,31.0,B,B,B,B,A,B,B,A,A,B,2019.0,TRUE
+Northern Iowa,32.0,B,B,B,B,B,B,B,B,B,A,2019.0,TRUE
+Southern Illinois,32.0,A,B,B,B,A,A,B,B,A,A,2019.0,TRUE
+Valparaiso,31.0,B,B,B,B,B,A,B,B,A,B,2019.0,FALSE
+Air Force,29.0,B,A,A,B,A,A,B,B,A,A,2015.0,FALSE
+Colorado St.,33.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+Fresno St.,30.0,B,B,A,B,B,B,B,A,B,B,2015.0,FALSE
+Nevada,29.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+New Mexico,31.0,B,B,B,A,B,A,A,A,B,B,2015.0,FALSE
+San Jose St.,28.0,B,B,A,B,B,A,B,B,B,B,2015.0,FALSE
+UNLV,32.0,A,A,B,A,A,B,B,B,B,A,2015.0,TRUE
+Utah St.,30.0,A,A,B,A,A,B,B,A,B,A,2015.0,TRUE
+Air Force,30.0,B,B,A,B,B,A,B,A,B,B,2016.0,FALSE
+Boise St.,30.0,A,A,B,A,A,B,B,A,A,B,2016.0,TRUE
+Colorado St.,32.0,B,A,A,A,A,B,A,A,B,A,2016.0,TRUE
+Nevada,36.0,A,B,B,A,B,B,A,A,B,B,2016.0,TRUE
+New Mexico,32.0,A,A,B,A,A,A,A,A,A,A,2016.0,TRUE
+San Diego St.,36.0,A,A,B,A,B,B,A,A,B,B,2016.0,TRUE
+San Jose St.,28.0,B,B,B,B,B,A,B,A,B,B,2016.0,FALSE
+UNLV,31.0,B,B,B,A,B,A,B,A,A,B,2016.0,TRUE
+Utah St.,29.0,B,A,A,A,A,B,B,B,A,A,2016.0,FALSE
+Wyoming,30.0,B,A,A,A,A,B,B,A,A,A,2016.0,FALSE
+Air Force,31.0,B,B,A,B,B,B,B,A,B,A,2017.0,FALSE
+Boise St.,31.0,A,A,B,A,A,B,B,A,A,A,2017.0,TRUE
+Colorado St.,34.0,A,A,B,A,B,B,A,A,B,B,2017.0,TRUE
+Fresno St.,31.0,A,A,B,A,A,A,B,A,A,A,2017.0,TRUE
+New Mexico,31.0,A,A,B,A,A,B,B,A,A,B,2017.0,TRUE
+San Diego St.,32.0,A,B,B,A,B,B,A,B,B,B,2017.0,TRUE
+San Jose St.,28.0,B,B,A,B,B,B,B,A,B,B,2017.0,TRUE
+UNLV,32.0,B,B,A,B,B,B,B,A,B,B,2017.0,FALSE
+Utah St.,30.0,B,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Wyoming,36.0,A,A,B,A,A,B,B,A,A,A,2017.0,TRUE
+Air Force,29.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Boise St.,31.0,A,A,B,A,A,A,B,B,A,A,2018.0,TRUE
+Colorado St.,31.0,B,B,A,B,B,A,A,B,B,B,2018.0,FALSE
+Fresno St.,30.0,A,A,B,A,A,B,B,A,A,A,2018.0,TRUE
+New Mexico,33.0,A,A,A,A,A,B,B,B,A,A,2018.0,TRUE
+San Jose St.,29.0,B,B,A,B,B,A,B,B,B,A,2018.0,FALSE
+UNLV,33.0,A,A,A,A,A,A,A,A,A,B,2018.0,TRUE
+Utah St.,33.0,A,A,A,A,A,A,B,B,A,A,2018.0,TRUE
+Wyoming,32.0,A,A,B,A,A,B,B,A,A,B,2018.0,TRUE
+Air Force,31.0,B,B,A,B,A,A,B,B,A,B,2019.0,FALSE
+Boise St.,32.0,B,A,B,A,A,B,B,B,A,A,2019.0,FALSE
+Colorado St.,31.0,B,A,A,B,A,B,B,B,A,A,2019.0,FALSE
+Fresno St.,31.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+New Mexico,31.0,B,B,A,B,B,A,B,A,B,B,2019.0,FALSE
+San Diego St.,33.0,A,B,B,A,A,B,B,B,B,A,2019.0,TRUE
+San Jose St.,30.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+UNLV,31.0,A,A,A,B,B,B,A,B,B,B,2019.0,TRUE
+Wyoming,31.0,B,B,A,B,B,A,B,A,B,A,2019.0,FALSE
+Bryant,31.0,B,B,A,B,B,B,B,B,B,A,2015.0,TRUE
+Central Connecticut,31.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Fairleigh Dickinson,28.0,B,B,A,B,B,B,B,B,B,B,2015.0,FALSE
+LIU Brooklyn,30.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Mount St. Mary's,30.0,B,B,B,B,B,A,A,B,B,B,2015.0,TRUE
+Sacred Heart,31.0,B,B,A,B,B,A,A,B,A,B,2015.0,FALSE
+St. Francis NY,34.0,A,B,B,B,B,A,A,A,B,B,2015.0,TRUE
+St. Francis PA,31.0,B,B,B,B,A,A,B,B,A,B,2015.0,FALSE
+Wagner,29.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Bryant,30.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+Central Connecticut,29.0,B,B,A,B,B,A,A,B,B,B,2016.0,FALSE
+LIU Brooklyn,31.0,B,B,A,B,B,B,A,A,A,B,2016.0,TRUE
+Mount St. Mary's,33.0,B,B,B,B,B,B,B,B,B,B,2016.0,FALSE
+Robert Morris,32.0,B,B,A,B,B,A,B,B,A,B,2016.0,FALSE
+Sacred Heart,30.0,B,B,A,B,B,A,A,A,A,B,2016.0,FALSE
+St. Francis NY,31.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+St. Francis PA,29.0,B,B,A,B,B,B,A,A,B,A,2016.0,FALSE
+Wagner,33.0,A,B,B,B,B,A,A,B,B,B,2016.0,TRUE
+Bryant,31.0,B,B,A,B,B,A,B,B,A,B,2017.0,FALSE
+Central Connecticut,29.0,B,B,A,B,B,A,A,B,B,A,2017.0,FALSE
+Fairleigh Dickinson,29.0,B,B,A,B,B,A,B,A,A,B,2017.0,FALSE
+LIU Brooklyn,31.0,A,B,A,B,B,A,A,A,B,A,2017.0,TRUE
+Robert Morris,33.0,B,B,B,B,B,A,B,A,B,B,2017.0,FALSE
+Sacred Heart,32.0,B,B,A,B,B,A,A,B,A,B,2017.0,FALSE
+St. Francis NY,30.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+St. Francis PA,33.0,A,B,A,B,A,A,B,B,A,A,2017.0,TRUE
+Wagner,29.0,B,B,A,B,B,A,A,B,B,B,2017.0,TRUE
+Bryant,31.0,B,B,A,B,B,B,B,B,B,B,2018.0,FALSE
+Central Connecticut,32.0,B,B,A,B,A,A,A,B,A,B,2018.0,FALSE
+Fairleigh Dickinson,29.0,B,B,A,B,B,A,A,B,A,B,2018.0,FALSE
+Mount St. Mary's,30.0,A,B,A,B,A,B,B,B,A,A,2018.0,TRUE
+Robert Morris,33.0,B,B,B,B,B,A,A,B,B,B,2018.0,FALSE
+Sacred Heart,30.0,B,B,A,B,B,A,A,B,A,B,2018.0,FALSE
+St. Francis NY,29.0,B,B,A,B,B,B,B,B,B,A,2018.0,FALSE
+St. Francis PA,29.0,A,A,A,B,A,B,B,B,A,A,2018.0,TRUE
+Wagner,31.0,A,B,A,B,B,A,A,B,B,A,2018.0,TRUE
+Bryant,30.0,B,B,A,B,B,B,B,A,A,B,2019.0,FALSE
+Central Connecticut,29.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+LIU Brooklyn,31.0,B,B,A,B,A,A,B,B,A,B,2019.0,TRUE
+Mount St. Mary's,29.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Robert Morris,33.0,A,B,A,B,B,A,A,B,B,B,2019.0,TRUE
+Sacred Heart,31.0,B,B,A,B,A,A,A,A,A,A,2019.0,FALSE
+St. Francis NY,31.0,A,B,A,B,B,B,B,B,B,B,2019.0,TRUE
+St. Francis PA,31.0,A,A,A,B,B,B,A,B,B,A,2019.0,TRUE
+Wagner,28.0,B,B,A,B,B,A,A,B,B,B,2019.0,FALSE
+Austin Peay,28.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Eastern Illinois,31.0,B,B,A,B,A,A,B,B,B,A,2015.0,TRUE
+Eastern Kentucky,31.0,A,A,B,A,A,B,B,B,A,A,2015.0,TRUE
+Jacksonville St.,29.0,B,B,A,B,B,B,B,A,B,B,2015.0,FALSE
+Morehead St.,32.0,B,B,B,A,B,A,A,B,B,B,2015.0,FALSE
+Murray St.,33.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+SIU Edwardsville,26.0,B,B,B,B,B,A,B,A,B,A,2015.0,FALSE
+Southeast Missouri St.,28.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Tennessee Martin,32.0,A,A,A,B,A,B,A,B,A,A,2015.0,TRUE
+Tennessee St.,29.0,B,B,A,B,B,A,B,A,B,A,2015.0,FALSE
+Tennessee Tech,28.0,B,B,A,B,B,A,A,B,A,B,2015.0,FALSE
+Belmont,31.0,A,A,A,A,A,A,B,B,A,A,2016.0,TRUE
+Eastern Illinois,28.0,B,B,A,B,A,B,B,B,B,B,2016.0,FALSE
+Eastern Kentucky,30.0,B,A,A,B,A,A,B,A,A,A,2016.0,FALSE
+Jacksonville St.,29.0,B,B,A,B,B,B,B,B,B,A,2016.0,FALSE
+Morehead St.,35.0,A,A,B,A,B,B,A,B,B,A,2016.0,TRUE
+Murray St.,29.0,B,A,A,A,A,B,B,B,A,A,2016.0,TRUE
+SIU Edwardsville,28.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+Southeast Missouri St.,27.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+Tennessee Martin,33.0,A,B,A,B,A,B,B,B,A,B,2016.0,TRUE
+Tennessee St.,29.0,A,B,B,B,A,A,A,A,A,B,2016.0,TRUE
+Tennessee Tech,29.0,A,A,A,B,A,B,B,A,A,A,2016.0,TRUE
+Austin Peay,28.0,B,A,A,B,A,B,B,A,A,A,2017.0,FALSE
+Belmont,29.0,A,A,B,A,A,B,B,B,A,B,2017.0,TRUE
+Eastern Illinois,27.0,B,B,A,B,B,B,B,B,B,A,2017.0,TRUE
+Eastern Kentucky,29.0,B,B,A,B,B,A,B,A,A,B,2017.0,FALSE
+Morehead St.,28.0,B,A,A,B,A,B,A,B,B,A,2017.0,TRUE
+Murray St.,31.0,B,A,A,B,A,B,A,B,B,A,2017.0,TRUE
+SIU Edwardsville,28.0,B,B,A,B,B,A,A,A,B,B,2017.0,FALSE
+Southeast Missouri St.,31.0,B,B,A,B,A,B,B,B,A,A,2017.0,FALSE
+Tennessee Martin,33.0,A,A,A,B,A,A,A,B,A,A,2017.0,TRUE
+Tennessee St.,28.0,A,B,B,A,B,A,A,A,B,B,2017.0,TRUE
+Tennessee Tech,30.0,B,B,A,B,B,A,B,A,B,B,2017.0,FALSE
+Austin Peay,32.0,A,A,A,B,A,A,A,B,A,A,2018.0,TRUE
+Belmont,33.0,A,A,A,A,A,B,B,B,A,A,2018.0,TRUE
+Eastern Illinois,29.0,B,B,A,B,B,A,A,B,B,A,2018.0,FALSE
+Eastern Kentucky,29.0,B,B,A,B,B,A,B,B,B,A,2018.0,FALSE
+Jacksonville St.,35.0,A,B,B,A,A,A,A,B,A,B,2018.0,TRUE
+Morehead St.,27.0,B,B,A,B,B,A,A,A,B,B,2018.0,FALSE
+SIU Edwardsville,30.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Southeast Missouri St.,29.0,B,A,A,B,A,B,B,A,A,A,2018.0,FALSE
+Tennessee Martin,29.0,B,B,A,B,B,A,B,B,A,B,2018.0,FALSE
+Tennessee St.,28.0,B,B,B,B,B,A,B,A,B,B,2018.0,TRUE
+Tennessee Tech,31.0,A,B,B,B,B,A,B,A,B,A,2018.0,TRUE
+Austin Peay,31.0,A,A,A,A,A,B,A,B,A,A,2019.0,TRUE
+Eastern Illinois,31.0,B,B,A,B,B,A,B,B,B,A,2019.0,FALSE
+Eastern Kentucky,29.0,B,B,A,B,B,B,B,B,B,B,2019.0,FALSE
+Jacksonville St.,31.0,A,A,B,A,A,A,A,B,A,B,2019.0,TRUE
+Morehead St.,31.0,B,B,A,B,B,B,B,B,B,B,2019.0,FALSE
+SIU Edwardsville,29.0,B,B,A,B,B,B,B,B,B,B,2019.0,FALSE
+Southeast Missouri St.,29.0,B,B,A,B,A,A,B,B,B,A,2019.0,FALSE
+Tennessee Martin,29.0,B,A,A,B,A,A,A,B,A,B,2019.0,FALSE
+Tennessee St.,28.0,B,B,A,B,B,A,B,A,A,B,2019.0,FALSE
+Tennessee Tech,29.0,B,B,A,B,B,A,B,A,B,B,2019.0,FALSE
+Arizona St.,34.0,A,A,B,A,A,A,A,A,A,A,2015.0,TRUE
+California,33.0,A,B,B,A,B,B,B,B,B,A,2015.0,TRUE
+Colorado,34.0,B,A,B,A,B,A,A,A,B,B,2015.0,FALSE
+Oregon St.,30.0,B,B,B,A,B,A,B,A,B,B,2015.0,TRUE
+Stanford,37.0,A,A,B,A,B,B,A,A,B,A,2015.0,TRUE
+USC,32.0,B,B,B,A,B,A,A,B,B,B,2015.0,FALSE
+Washington,31.0,B,A,B,A,B,B,A,B,A,B,2015.0,TRUE
+Washington St.,31.0,B,A,A,A,B,B,B,A,B,B,2015.0,FALSE
+Arizona St.,32.0,B,A,B,A,B,B,A,A,B,B,2016.0,FALSE
+Stanford,29.0,B,A,B,A,B,B,A,A,B,B,2016.0,FALSE
+UCLA,32.0,B,A,B,A,A,B,A,B,B,A,2016.0,FALSE
+Washington,34.0,A,A,B,A,B,B,A,A,B,B,2016.0,TRUE
+Washington St.,30.0,B,B,A,B,A,A,B,B,A,A,2016.0,FALSE
+Arizona St.,33.0,B,A,A,A,A,B,B,B,B,A,2017.0,FALSE
+California,34.0,A,A,B,A,B,B,A,A,B,B,2017.0,TRUE
+Colorado,33.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Oregon St.,31.0,B,B,A,B,B,A,B,B,B,A,2017.0,FALSE
+Stanford,30.0,B,A,B,A,B,B,B,A,B,B,2017.0,FALSE
+Utah,30.0,A,A,B,A,A,A,A,B,A,A,2017.0,TRUE
+Washington,31.0,B,A,A,A,A,A,A,B,A,A,2017.0,FALSE
+Washington St.,30.0,B,A,A,B,A,B,B,B,A,A,2017.0,FALSE
+California,31.0,B,B,B,B,B,A,A,A,B,B,2018.0,FALSE
+Colorado,32.0,A,A,B,A,A,A,B,B,B,A,2018.0,TRUE
+Oregon,36.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Oregon St.,32.0,B,A,B,A,A,A,A,A,A,B,2018.0,TRUE
+Stanford,35.0,A,A,B,A,A,A,A,A,A,A,2018.0,TRUE
+USC,36.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Utah,35.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Washington,34.0,A,A,B,A,A,B,B,A,A,A,2018.0,TRUE
+Washington St.,31.0,B,A,A,B,A,A,B,B,A,A,2018.0,FALSE
+Arizona,32.0,A,A,B,A,B,B,B,B,B,B,2019.0,TRUE
+California,31.0,B,B,A,B,B,B,B,B,B,A,2019.0,FALSE
+Colorado,36.0,A,A,B,A,A,A,A,A,A,B,2019.0,TRUE
+Oregon St.,31.0,A,A,A,A,A,B,A,A,A,B,2019.0,TRUE
+Stanford,31.0,B,B,B,A,A,A,A,A,A,B,2019.0,FALSE
+UCLA,33.0,A,A,B,A,A,A,A,A,A,A,2019.0,TRUE
+USC,33.0,B,A,B,A,A,B,B,B,A,A,2019.0,FALSE
+Utah,31.0,A,A,A,A,A,A,A,B,A,A,2019.0,TRUE
+Washington St.,32.0,B,A,A,B,A,A,B,B,A,A,2019.0,FALSE
+American,33.0,A,B,A,B,A,A,B,B,A,A,2015.0,TRUE
+Army,29.0,B,B,A,B,A,A,B,B,A,B,2015.0,FALSE
+Boston University,29.0,B,A,A,B,A,A,B,A,A,A,2015.0,FALSE
+Bucknell,33.0,A,B,A,B,B,B,B,A,B,A,2015.0,TRUE
+Colgate,32.0,B,A,A,B,A,A,B,B,A,A,2015.0,FALSE
+Holy Cross,29.0,B,B,A,B,B,B,B,B,B,B,2015.0,FALSE
+Lehigh,29.0,B,B,B,B,B,A,B,A,B,A,2015.0,TRUE
+Loyola MD,30.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Navy,31.0,B,B,A,B,B,A,B,B,B,B,2015.0,FALSE
+American,31.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+Army,32.0,A,B,A,B,B,B,A,B,A,B,2016.0,TRUE
+Boston University,33.0,A,B,A,B,A,A,B,A,A,A,2016.0,TRUE
+Bucknell,30.0,B,A,A,B,A,B,B,A,A,A,2016.0,TRUE
+Colgate,29.0,B,B,A,B,A,B,B,B,A,A,2016.0,FALSE
+Lafayette,30.0,B,B,A,B,A,B,B,B,B,A,2016.0,FALSE
+Lehigh,31.0,B,A,A,B,A,A,B,B,B,A,2016.0,TRUE
+Loyola MD,30.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+Navy,32.0,A,B,B,B,B,A,A,A,A,B,2016.0,TRUE
+American,30.0,B,B,A,B,A,A,B,B,A,B,2017.0,FALSE
+Army,31.0,B,B,A,B,A,A,B,B,A,A,2017.0,FALSE
+Boston University,31.0,A,B,B,B,A,A,B,B,A,A,2017.0,TRUE
+Colgate,31.0,B,B,A,B,A,A,B,B,A,A,2017.0,FALSE
+Holy Cross,32.0,B,B,B,B,A,B,B,B,A,A,2017.0,FALSE
+Lafayette,29.0,B,B,A,B,B,A,B,B,A,B,2017.0,FALSE
+Lehigh,31.0,A,A,B,A,A,A,B,B,A,A,2017.0,TRUE
+Loyola MD,32.0,B,B,A,B,B,A,A,A,B,B,2017.0,TRUE
+Navy,31.0,B,B,B,B,B,A,A,B,A,B,2017.0,TRUE
+American,30.0,B,B,A,B,A,A,B,B,A,B,2018.0,FALSE
+Army,29.0,B,B,A,B,A,A,B,B,B,A,2018.0,FALSE
+Boston University,30.0,B,B,A,B,A,A,B,B,A,A,2018.0,TRUE
+Colgate,32.0,A,A,A,B,A,B,B,B,A,A,2018.0,TRUE
+Holy Cross,31.0,B,B,A,B,A,A,B,B,A,B,2018.0,FALSE
+Lafayette,30.0,B,B,A,B,A,A,B,B,A,A,2018.0,FALSE
+Lehigh,29.0,B,A,A,B,A,B,B,B,B,A,2018.0,TRUE
+Loyola MD,30.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Navy,31.0,A,B,B,B,B,A,A,A,A,B,2018.0,TRUE
+American,30.0,B,B,A,B,A,B,B,B,A,B,2019.0,TRUE
+Army,31.0,B,B,B,B,B,B,B,B,A,B,2019.0,FALSE
+Boston University,32.0,B,A,A,B,A,A,B,B,A,B,2019.0,FALSE
+Bucknell,33.0,A,A,A,A,A,B,B,B,A,A,2019.0,TRUE
+Holy Cross,33.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Lafayette,29.0,B,B,A,B,A,B,B,B,A,A,2019.0,FALSE
+Lehigh,31.0,A,A,A,B,A,B,B,B,A,A,2019.0,TRUE
+Loyola MD,32.0,B,B,A,B,A,A,B,B,A,B,2019.0,FALSE
+Navy,31.0,B,B,A,B,B,A,A,B,B,B,2019.0,FALSE
+Appalachian St.,29.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Arkansas Little Rock,30.0,B,B,A,B,B,B,B,A,B,B,2015.0,FALSE
+Arkansas St.,28.0,B,B,A,B,B,A,B,B,B,B,2015.0,FALSE
+Georgia Southern,28.0,A,B,B,A,B,B,A,A,B,B,2015.0,TRUE
+Louisiana Lafayette,33.0,A,A,B,A,A,A,A,A,A,A,2015.0,TRUE
+Louisiana Monroe,34.0,A,B,B,A,B,B,A,B,B,B,2015.0,TRUE
+South Alabama,31.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Texas St.,28.0,B,B,B,B,B,A,B,A,B,B,2015.0,FALSE
+Troy,27.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+UT Arlington,30.0,B,B,A,B,B,A,A,A,A,B,2015.0,TRUE
+Appalachian St.,31.0,B,B,A,B,B,A,A,A,B,A,2016.0,FALSE
+Arkansas St.,29.0,B,B,A,B,B,B,B,A,B,B,2016.0,FALSE
+Georgia Southern,29.0,B,A,A,B,B,B,B,A,B,B,2016.0,FALSE
+Georgia St.,28.0,B,B,B,A,B,B,B,A,B,A,2016.0,TRUE
+Louisiana Lafayette,32.0,A,A,A,A,B,B,A,A,A,B,2016.0,TRUE
+Louisiana Monroe,32.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+South Alabama,31.0,B,B,B,B,B,A,A,A,B,B,2016.0,FALSE
+Texas St.,29.0,B,B,B,B,B,B,B,A,B,B,2016.0,FALSE
+Troy,29.0,B,B,A,B,B,B,B,A,B,B,2016.0,FALSE
+UT Arlington,34.0,A,A,B,A,B,B,A,B,A,B,2016.0,TRUE
+Appalachian St.,28.0,B,B,A,B,B,A,B,A,B,B,2017.0,FALSE
+Arkansas St.,31.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Coastal Carolina,37.0,A,B,A,B,B,B,A,B,B,B,2017.0,TRUE
+Georgia Southern,31.0,A,A,A,B,A,B,B,A,A,A,2017.0,TRUE
+Georgia St.,31.0,A,B,B,A,A,A,A,B,A,A,2017.0,TRUE
+Little Rock,30.0,B,B,A,B,B,A,B,B,B,B,2017.0,TRUE
+Louisiana Lafayette,31.0,A,A,A,A,A,B,A,A,A,B,2017.0,TRUE
+Louisiana Monroe,31.0,B,B,A,B,B,A,B,B,B,B,2017.0,FALSE
+South Alabama,30.0,B,B,A,B,B,B,B,A,A,B,2017.0,FALSE
+Texas St.,34.0,A,B,B,A,A,B,B,A,A,B,2017.0,TRUE
+UT Arlington,34.0,A,A,B,A,A,B,A,B,A,B,2017.0,TRUE
+Appalachian St.,31.0,B,B,A,B,A,A,B,A,A,B,2018.0,FALSE
+Arkansas St.,30.0,B,A,A,B,B,B,A,B,A,B,2018.0,FALSE
+Coastal Carolina,29.0,B,B,A,B,B,A,A,A,B,B,2018.0,FALSE
+Georgia Southern,31.0,A,A,A,A,B,B,A,A,B,B,2018.0,TRUE
+Little Rock,30.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Louisiana Lafayette,32.0,A,A,B,A,A,B,A,A,A,A,2018.0,TRUE
+Louisiana Monroe,29.0,B,B,A,B,A,B,B,B,B,A,2018.0,TRUE
+South Alabama,30.0,B,B,B,B,B,A,B,A,B,B,2018.0,FALSE
+Texas St.,31.0,B,B,A,B,B,A,A,A,B,B,2018.0,FALSE
+Troy,31.0,B,A,A,B,A,B,B,B,A,B,2018.0,TRUE
+UT Arlington,33.0,A,A,B,A,A,A,A,B,A,A,2018.0,TRUE
+Appalachian St.,29.0,B,A,A,B,A,B,B,A,A,B,2019.0,FALSE
+Arkansas St.,30.0,B,B,A,B,B,A,A,A,B,B,2019.0,FALSE
+Coastal Carolina,32.0,A,A,A,A,A,A,A,A,A,A,2019.0,TRUE
+Georgia Southern,31.0,A,A,B,A,A,B,B,B,A,B,2019.0,TRUE
+Little Rock,29.0,B,B,A,B,A,A,B,A,A,A,2019.0,FALSE
+Louisiana Lafayette,30.0,A,A,A,A,A,B,B,B,A,B,2019.0,TRUE
+Louisiana Monroe,34.0,A,A,A,A,A,B,B,B,A,A,2019.0,TRUE
+South Alabama,32.0,A,B,A,B,A,A,B,B,A,A,2019.0,TRUE
+Texas St.,32.0,A,B,B,A,A,A,A,B,A,B,2019.0,TRUE
+Troy,28.0,B,B,A,B,A,A,B,B,A,B,2019.0,FALSE
+UT Arlington,32.0,A,B,B,A,B,A,A,B,B,B,2019.0,TRUE
+Chattanooga,30.0,A,B,B,B,A,A,A,A,A,B,2015.0,TRUE
+East Tennessee St.,28.0,B,B,A,B,B,B,B,A,B,A,2015.0,TRUE
+Furman,31.0,B,B,A,B,B,A,B,A,A,B,2015.0,FALSE
+Mercer,33.0,A,B,B,A,B,B,A,A,B,B,2015.0,TRUE
+Samford,31.0,B,B,A,B,B,A,A,A,A,B,2015.0,FALSE
+The Citadel,27.0,B,B,A,B,A,A,A,A,B,A,2015.0,FALSE
+UNC Greensboro,30.0,B,B,A,B,B,A,A,B,B,A,2015.0,FALSE
+VMI,28.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Western Carolina,30.0,B,B,A,B,B,A,A,B,B,A,2015.0,FALSE
+East Tennessee St.,34.0,A,A,A,B,A,B,B,B,A,A,2016.0,TRUE
+Furman,33.0,A,B,A,B,A,A,A,A,A,B,2016.0,TRUE
+Mercer,32.0,B,A,A,B,B,A,A,B,B,A,2016.0,TRUE
+Samford,31.0,B,B,A,B,A,A,B,A,A,B,2016.0,FALSE
+The Citadel,29.0,B,B,A,B,B,B,B,B,A,B,2016.0,FALSE
+UNC Greensboro,31.0,B,B,A,B,A,B,B,B,A,A,2016.0,FALSE
+VMI,27.0,B,B,A,B,B,B,B,B,B,B,2016.0,FALSE
+Western Carolina,31.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+Wofford,30.0,B,A,A,B,A,B,B,A,B,A,2016.0,FALSE
+Chattanooga,29.0,A,A,B,A,A,A,A,A,A,B,2017.0,TRUE
+Furman,33.0,A,A,B,A,A,A,B,B,A,A,2017.0,TRUE
+Mercer,30.0,B,A,A,A,A,B,A,B,A,B,2017.0,TRUE
+Samford,34.0,A,A,A,A,A,A,B,A,A,A,2017.0,TRUE
+The Citadel,30.0,B,A,A,B,B,B,B,B,B,B,2017.0,FALSE
+UNC Greensboro,32.0,A,A,A,A,A,A,A,B,A,A,2017.0,TRUE
+VMI,28.0,B,B,A,B,B,A,B,B,B,B,2017.0,FALSE
+Western Carolina,30.0,B,B,A,B,B,A,A,B,B,B,2017.0,FALSE
+Wofford,30.0,B,A,A,A,A,B,B,B,A,A,2017.0,TRUE
+Chattanooga,31.0,B,B,A,B,A,A,B,B,B,A,2018.0,FALSE
+East Tennessee St.,32.0,A,A,B,A,A,A,A,B,A,A,2018.0,TRUE
+Furman,31.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Mercer,32.0,A,A,A,A,A,A,A,B,A,A,2018.0,TRUE
+Samford,30.0,B,A,A,B,A,A,B,B,A,A,2018.0,FALSE
+The Citadel,29.0,B,B,A,B,B,B,B,B,B,B,2018.0,FALSE
+VMI,28.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Western Carolina,30.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Wofford,31.0,A,A,A,A,A,B,B,B,A,A,2018.0,TRUE
+Chattanooga,29.0,B,B,A,B,A,A,B,B,A,A,2019.0,FALSE
+East Tennessee St.,32.0,A,A,B,A,A,A,A,B,A,A,2019.0,TRUE
+Furman,30.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Mercer,29.0,B,B,A,B,A,A,B,B,A,B,2019.0,FALSE
+Samford,32.0,A,A,B,A,A,A,B,B,A,A,2019.0,TRUE
+The Citadel,27.0,B,A,A,B,A,B,B,B,A,B,2019.0,FALSE
+UNC Greensboro,34.0,A,A,B,A,A,B,A,B,A,B,2019.0,TRUE
+VMI,29.0,B,B,A,B,A,B,B,B,B,A,2019.0,FALSE
+Western Carolina,31.0,B,B,A,B,A,A,B,B,A,A,2019.0,FALSE
+Alabama,33.0,A,A,B,A,A,B,B,A,A,B,2015.0,TRUE
+Auburn,34.0,B,A,B,A,B,A,B,A,B,A,2015.0,FALSE
+Florida,33.0,B,A,B,A,B,A,A,B,A,B,2015.0,FALSE
+Mississippi St.,31.0,B,B,B,A,B,A,A,A,B,B,2015.0,FALSE
+Missouri,31.0,B,B,B,B,B,A,B,B,B,B,2015.0,FALSE
+South Carolina,32.0,B,A,B,A,B,A,A,A,B,B,2015.0,TRUE
+Tennessee,32.0,B,A,B,A,B,A,A,B,B,B,2015.0,TRUE
+Texas A&M,33.0,A,A,B,A,A,A,A,A,A,A,2015.0,TRUE
+Vanderbilt,34.0,A,A,B,A,A,A,A,A,A,A,2015.0,TRUE
+Alabama,33.0,A,A,B,A,B,A,B,A,B,B,2016.0,TRUE
+Arkansas,32.0,B,A,B,A,B,B,A,A,B,A,2016.0,TRUE
+Auburn,31.0,B,B,B,B,B,A,B,A,B,B,2016.0,FALSE
+Florida,36.0,A,A,B,A,B,B,A,A,A,B,2016.0,TRUE
+Georgia,34.0,A,A,B,A,B,A,A,A,B,A,2016.0,TRUE
+LSU,33.0,A,A,B,A,A,B,B,A,A,B,2016.0,TRUE
+Mississippi,32.0,A,A,B,A,B,B,A,A,B,B,2016.0,TRUE
+Mississippi St.,31.0,B,A,B,A,A,B,B,B,A,B,2016.0,FALSE
+Missouri,31.0,B,B,B,A,B,B,B,A,B,B,2016.0,FALSE
+South Carolina,33.0,A,A,B,A,B,A,A,A,B,A,2016.0,TRUE
+Tennessee,34.0,B,A,B,A,B,B,A,B,B,B,2016.0,FALSE
+Alabama,34.0,A,A,B,A,B,A,A,A,B,B,2017.0,TRUE
+Auburn,32.0,A,A,B,A,A,B,A,A,B,A,2017.0,TRUE
+Georgia,33.0,A,A,B,A,B,B,B,A,B,B,2017.0,TRUE
+LSU,31.0,B,A,A,B,A,A,A,B,A,B,2017.0,FALSE
+Mississippi,36.0,A,A,B,A,B,A,A,A,B,A,2017.0,TRUE
+Mississippi St.,32.0,B,A,B,A,A,A,B,B,A,A,2017.0,TRUE
+Missouri,32.0,B,B,B,A,B,B,B,A,B,B,2017.0,FALSE
+Tennessee,31.0,B,A,B,A,B,B,A,A,B,B,2017.0,TRUE
+Texas A&M,31.0,B,A,B,A,A,A,A,B,A,B,2017.0,TRUE
+Georgia,33.0,A,A,B,A,B,A,A,A,B,B,2018.0,TRUE
+LSU,33.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Mississippi,32.0,B,A,A,A,B,B,A,B,B,B,2018.0,FALSE
+Mississippi St.,36.0,A,A,B,A,A,A,A,B,A,B,2018.0,TRUE
+South Carolina,32.0,A,A,B,A,B,A,A,A,B,B,2018.0,TRUE
+Vanderbilt,32.0,B,A,A,A,A,B,B,A,A,A,2018.0,FALSE
+Alabama,34.0,A,A,B,A,A,A,A,A,A,B,2019.0,TRUE
+Arkansas,34.0,A,A,B,A,A,B,B,A,A,A,2019.0,TRUE
+Georgia,32.0,B,A,B,A,A,A,A,A,A,B,2019.0,FALSE
+Missouri,32.0,B,A,B,A,A,A,A,B,B,A,2019.0,FALSE
+South Carolina,31.0,B,A,B,A,B,A,A,A,B,A,2019.0,TRUE
+Texas A&M,32.0,B,A,B,A,B,A,A,B,A,B,2019.0,FALSE
+Vanderbilt,32.0,B,B,B,A,B,A,B,A,A,B,2019.0,FALSE
+Abilene Christian,28.0,B,B,A,B,B,A,B,B,B,A,2015.0,FALSE
+Central Arkansas,29.0,B,B,A,B,B,A,B,A,B,A,2015.0,FALSE
+Houston Baptist,24.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Incarnate Word,25.0,B,A,A,B,A,B,B,A,A,A,2015.0,TRUE
+Lamar,26.0,B,B,A,B,B,A,A,A,A,B,2015.0,FALSE
+McNeese St.,27.0,B,B,A,B,B,B,A,B,B,B,2015.0,FALSE
+New Orleans,26.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Nicholls St.,26.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Northwestern St.,28.0,B,A,A,B,A,B,B,B,A,A,2015.0,TRUE
+Sam Houston St.,31.0,A,B,B,A,B,A,A,A,B,B,2015.0,TRUE
+Southeastern Louisiana,31.0,B,B,A,B,A,A,B,B,A,B,2015.0,FALSE
+Texas A&M Corpus Chris,32.0,A,B,B,B,B,A,A,A,B,B,2015.0,TRUE
+Abilene Christian,27.0,B,B,A,B,A,A,B,A,B,A,2016.0,FALSE
+Central Arkansas,28.0,B,B,A,B,A,A,A,A,B,A,2016.0,FALSE
+Houston Baptist,30.0,B,B,A,B,A,A,B,A,A,A,2016.0,FALSE
+Incarnate Word,25.0,B,B,A,B,A,B,B,B,B,A,2016.0,TRUE
+Lamar,26.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+McNeese St.,26.0,B,B,A,B,B,B,B,A,B,B,2016.0,FALSE
+New Orleans,27.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+Nicholls St.,31.0,B,B,A,B,B,A,B,A,B,B,2016.0,FALSE
+Northwestern St.,24.0,B,B,A,B,A,A,B,B,A,B,2016.0,FALSE
+Sam Houston St.,30.0,B,B,A,B,B,B,B,A,B,B,2016.0,TRUE
+Southeastern Louisiana,31.0,B,B,A,B,A,A,B,A,A,A,2016.0,FALSE
+Texas A&M Corpus Chris,31.0,A,B,A,B,B,B,A,A,B,B,2016.0,TRUE
+Abilene Christian,25.0,B,B,A,B,A,A,B,B,A,A,2017.0,TRUE
+Central Arkansas,32.0,B,B,A,B,B,A,B,B,B,A,2017.0,FALSE
+Houston Baptist,27.0,A,A,A,B,B,A,A,A,B,B,2017.0,TRUE
+Incarnate Word,25.0,B,B,A,B,A,B,B,A,B,A,2017.0,FALSE
+Lamar,30.0,A,B,A,B,A,A,A,A,A,A,2017.0,TRUE
+McNeese St.,26.0,B,B,A,B,B,A,B,B,B,B,2017.0,FALSE
+Nicholls St.,27.0,B,B,A,B,B,A,B,B,A,B,2017.0,TRUE
+Northwestern St.,25.0,B,B,A,B,A,A,B,A,B,A,2017.0,TRUE
+Sam Houston St.,30.0,A,B,B,B,B,A,A,A,B,B,2017.0,TRUE
+Southeastern Louisiana,30.0,B,B,B,B,A,A,A,A,B,A,2017.0,TRUE
+Stephen F. Austin,30.0,A,B,B,B,B,A,A,A,A,B,2017.0,TRUE
+Texas A&M Corpus Chris,33.0,A,B,B,A,A,A,B,A,A,B,2017.0,TRUE
+Abilene Christian,28.0,B,B,A,B,A,A,B,B,A,B,2018.0,TRUE
+Central Arkansas,34.0,A,A,A,B,A,B,B,A,A,A,2018.0,TRUE
+Houston Baptist,28.0,B,B,A,B,B,A,A,B,B,B,2018.0,FALSE
+Incarnate Word,24.0,B,B,A,B,B,A,B,A,B,A,2018.0,FALSE
+Lamar,29.0,A,B,A,B,B,B,A,A,B,B,2018.0,TRUE
+McNeese St.,25.0,B,B,A,B,B,A,B,B,B,A,2018.0,FALSE
+New Orleans,30.0,B,B,A,B,B,A,A,A,B,A,2018.0,TRUE
+Nicholls St.,28.0,A,B,A,B,A,A,A,A,A,A,2018.0,TRUE
+Northwestern St.,25.0,B,B,A,B,B,A,A,B,B,B,2018.0,FALSE
+Sam Houston St.,32.0,A,B,A,B,B,A,A,B,B,B,2018.0,TRUE
+Southeastern Louisiana,31.0,A,B,A,B,A,A,B,B,A,B,2018.0,TRUE
+Texas A&M Corpus Chris,26.0,B,B,A,B,B,A,B,A,B,B,2018.0,FALSE
+Central Arkansas,30.0,B,B,A,B,B,A,B,B,B,A,2019.0,FALSE
+Houston Baptist,28.0,B,B,A,B,B,A,A,A,A,B,2019.0,FALSE
+Incarnate Word,27.0,B,B,A,B,A,A,B,B,A,A,2019.0,FALSE
+Lamar,29.0,A,B,A,B,B,A,A,A,B,B,2019.0,TRUE
+McNeese St.,27.0,B,B,A,B,B,A,B,A,A,B,2019.0,FALSE
+New Orleans,29.0,A,B,A,B,B,A,A,A,B,B,2019.0,TRUE
+Nicholls St.,27.0,B,B,A,B,A,B,B,B,B,A,2019.0,TRUE
+Northwestern St.,28.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Sam Houston St.,30.0,A,A,A,B,A,B,B,B,B,A,2019.0,TRUE
+Southeastern Louisiana,31.0,A,B,A,B,A,A,A,A,A,B,2019.0,TRUE
+Stephen F. Austin,26.0,B,B,A,B,B,A,B,A,B,B,2019.0,TRUE
+Texas A&M Corpus Chris,28.0,B,B,A,B,B,A,A,B,B,B,2019.0,TRUE
+Denver,30.0,B,A,A,B,A,A,B,B,A,A,2015.0,FALSE
+IPFW,28.0,B,A,A,B,A,B,B,A,A,A,2015.0,FALSE
+IUPUI,31.0,B,B,B,B,B,A,A,B,B,B,2015.0,FALSE
+Nebraska Omaha,28.0,B,B,A,B,B,B,A,A,A,B,2015.0,FALSE
+Oral Roberts,32.0,A,A,A,B,B,B,B,A,B,A,2015.0,TRUE
+South Dakota,31.0,B,B,A,B,B,B,A,B,B,A,2015.0,FALSE
+South Dakota St.,33.0,A,A,B,A,A,B,B,A,B,A,2015.0,TRUE
+Western Illinois,26.0,B,B,A,B,B,B,B,B,B,A,2015.0,FALSE
+Denver,31.0,B,B,A,B,A,A,B,A,A,A,2016.0,TRUE
+IPFW,32.0,A,A,A,A,A,B,B,B,A,A,2016.0,TRUE
+IUPUI,31.0,B,B,B,B,B,A,B,B,B,B,2016.0,FALSE
+Nebraska Omaha,30.0,B,A,A,A,A,B,B,A,A,B,2016.0,TRUE
+North Dakota St.,31.0,A,B,B,A,A,B,B,B,A,B,2016.0,TRUE
+Oral Roberts,29.0,B,A,A,B,A,B,B,A,B,A,2016.0,FALSE
+South Dakota,30.0,B,A,A,B,A,B,B,B,A,A,2016.0,FALSE
+Western Illinois,24.0,B,B,A,B,B,B,B,B,B,A,2016.0,FALSE
+Denver,30.0,B,A,A,B,A,A,B,B,A,A,2017.0,TRUE
+Fort Wayne,30.0,A,A,A,A,A,B,B,B,A,A,2017.0,TRUE
+IUPUI,30.0,B,A,A,B,A,B,B,B,B,A,2017.0,FALSE
+Nebraska Omaha,31.0,A,A,A,B,A,B,B,A,A,A,2017.0,TRUE
+North Dakota St.,28.0,A,B,A,B,A,B,B,A,A,A,2017.0,TRUE
+Oral Roberts,28.0,B,B,A,B,B,B,B,B,B,A,2017.0,FALSE
+South Dakota,32.0,A,B,B,A,B,B,B,A,B,B,2017.0,TRUE
+Western Illinois,26.0,B,B,A,B,A,B,B,B,B,A,2017.0,FALSE
+Denver,28.0,B,B,A,B,A,A,A,B,A,A,2018.0,TRUE
+Fort Wayne,29.0,A,A,A,B,A,B,B,B,A,A,2018.0,TRUE
+Nebraska Omaha,29.0,B,B,A,B,A,B,B,B,A,A,2018.0,FALSE
+North Dakota St.,29.0,B,B,A,B,A,B,B,B,A,A,2018.0,TRUE
+Oral Roberts,28.0,B,A,A,B,B,A,A,B,B,B,2018.0,FALSE
+South Dakota,31.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Western Illinois,24.0,B,B,A,B,A,B,B,B,B,A,2018.0,TRUE
+Denver,29.0,B,B,A,B,A,A,B,B,B,A,2019.0,FALSE
+Fort Wayne,30.0,A,A,A,B,A,B,B,B,A,A,2019.0,TRUE
+Nebraska Omaha,31.0,A,A,A,B,A,B,B,B,A,A,2019.0,TRUE
+Oral Roberts,30.0,B,A,A,B,A,A,B,B,A,A,2019.0,FALSE
+South Dakota,28.0,B,B,A,B,A,B,B,B,A,B,2019.0,FALSE
+South Dakota St.,32.0,A,A,A,A,A,B,B,B,A,A,2019.0,TRUE
+Western Illinois,29.0,B,B,A,B,B,B,B,B,B,A,2019.0,FALSE
+Alabama A&M,28.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Alabama St.,27.0,A,B,A,B,B,A,A,B,B,A,2015.0,TRUE
+Alcorn St.,30.0,B,B,A,B,B,B,A,A,B,B,2015.0,FALSE
+Arkansas Pine Bluff,32.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Grambling St.,27.0,B,B,A,B,B,A,B,A,B,B,2015.0,FALSE
+Jackson St.,32.0,B,B,B,B,B,A,A,B,B,B,2015.0,FALSE
+Mississippi Valley St.,32.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Prairie View A&M,32.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Southern,32.0,B,B,B,B,B,A,A,A,B,B,2015.0,FALSE
+Alabama A&M,28.0,B,B,A,B,B,B,A,A,A,B,2016.0,FALSE
+Alabama St.,29.0,B,B,A,B,B,B,A,B,B,B,2016.0,FALSE
+Alcorn St.,28.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+Arkansas Pine Bluff,33.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+Grambling St.,28.0,B,B,A,B,B,A,B,A,B,B,2016.0,FALSE
+Jackson St.,34.0,A,B,B,B,B,B,A,B,B,B,2016.0,TRUE
+Mississippi Valley St.,35.0,B,B,A,B,B,B,B,B,B,B,2016.0,FALSE
+Prairie View A&M,31.0,B,B,A,B,B,A,A,A,B,B,2016.0,FALSE
+Texas Southern,33.0,A,A,A,B,A,A,A,A,A,B,2016.0,TRUE
+Alabama A&M,29.0,B,B,A,B,B,A,B,A,B,B,2017.0,FALSE
+Alabama St.,30.0,B,B,A,B,B,A,A,B,B,B,2017.0,FALSE
+Alcorn St.,29.0,A,B,A,B,B,A,A,B,B,B,2017.0,TRUE
+Arkansas Pine Bluff,30.0,B,B,A,B,B,A,A,B,B,B,2017.0,FALSE
+Grambling St.,30.0,B,B,A,B,B,A,A,A,B,B,2017.0,TRUE
+Jackson St.,29.0,B,B,A,B,B,B,A,B,B,B,2017.0,FALSE
+Mississippi Valley St.,32.0,B,B,A,B,B,A,A,B,B,B,2017.0,FALSE
+Prairie View A&M,31.0,B,B,A,B,B,A,B,B,B,A,2017.0,FALSE
+Southern,30.0,B,B,A,B,B,A,A,A,B,B,2017.0,TRUE
+Alabama A&M,31.0,B,B,A,B,B,A,A,B,B,B,2018.0,FALSE
+Alabama St.,31.0,B,B,A,B,B,A,A,B,B,B,2018.0,FALSE
+Alcorn St.,28.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Arkansas Pine Bluff,35.0,B,B,A,B,B,A,B,A,A,B,2018.0,FALSE
+Grambling St.,30.0,A,B,A,B,B,A,A,A,B,B,2018.0,TRUE
+Jackson St.,30.0,B,B,A,B,B,B,A,B,B,B,2018.0,FALSE
+Mississippi Valley St.,32.0,B,B,A,B,B,A,A,B,B,B,2018.0,FALSE
+Prairie View A&M,33.0,B,B,A,B,B,B,A,A,A,B,2018.0,FALSE
+Southern,31.0,B,B,A,B,B,A,A,A,B,B,2018.0,FALSE
+Alabama A&M,32.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Alabama St.,29.0,B,B,A,B,B,A,A,A,B,B,2019.0,FALSE
+Alcorn St.,27.0,B,B,A,B,B,A,A,B,B,B,2019.0,FALSE
+Arkansas Pine Bluff,31.0,B,B,A,B,B,A,B,A,B,B,2019.0,FALSE
+Grambling St.,31.0,A,B,A,B,A,A,B,A,B,A,2019.0,TRUE
+Jackson St.,30.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Mississippi Valley St.,31.0,B,B,A,B,B,B,B,B,B,B,2019.0,FALSE
+Southern,31.0,B,B,A,B,B,A,A,B,B,B,2019.0,FALSE
+Texas Southern,36.0,A,B,A,B,A,A,A,A,A,B,2019.0,TRUE
+Cal St. Bakersfield,30.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Chicago St.,29.0,B,B,A,B,B,A,A,B,B,B,2015.0,FALSE
+Grand Canyon,30.0,B,A,A,B,A,B,B,A,A,B,2015.0,TRUE
+Seattle,32.0,B,B,B,B,A,A,A,A,B,A,2015.0,TRUE
+UMKC,31.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+UT Rio Grande Valley,28.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Utah Valley,28.0,B,B,A,B,B,A,B,B,B,B,2015.0,FALSE
+Chicago St.,29.0,B,B,A,B,B,A,B,B,B,B,2016.0,FALSE
+Grand Canyon,32.0,A,B,B,A,B,B,A,A,B,A,2016.0,TRUE
+New Mexico St.,32.0,A,B,B,A,A,A,A,A,A,B,2016.0,TRUE
+Seattle,30.0,B,B,A,B,B,A,A,A,B,A,2016.0,FALSE
+UMKC,28.0,B,B,A,B,B,A,A,B,B,A,2016.0,FALSE
+UT Rio Grande Valley,27.0,B,B,A,B,B,B,B,B,B,B,2016.0,FALSE
+Utah Valley,27.0,B,B,A,B,B,B,B,B,B,A,2016.0,FALSE
+Cal St. Bakersfield,32.0,A,B,B,A,B,A,A,A,B,B,2017.0,TRUE
+Chicago St.,29.0,B,B,A,B,B,A,B,B,B,B,2017.0,FALSE
+Grand Canyon,29.0,A,B,B,A,B,B,B,A,B,B,2017.0,TRUE
+Seattle,27.0,B,B,B,B,A,A,B,A,A,B,2017.0,FALSE
+UMKC,32.0,A,B,A,B,A,A,B,A,B,A,2017.0,TRUE
+UT Rio Grande Valley,29.0,B,B,A,B,B,A,B,B,B,B,2017.0,FALSE
+Utah Valley,31.0,A,B,B,A,A,A,B,A,A,B,2017.0,TRUE
+Cal St. Bakersfield,27.0,B,B,B,B,B,A,A,B,B,B,2018.0,FALSE
+Chicago St.,30.0,B,B,A,B,B,A,B,B,B,B,2018.0,FALSE
+Grand Canyon,33.0,A,B,B,A,B,A,A,A,A,B,2018.0,TRUE
+Seattle,31.0,A,A,A,B,A,A,B,B,B,A,2018.0,TRUE
+UMKC,29.0,B,B,A,B,B,B,B,B,B,B,2018.0,FALSE
+UT Rio Grande Valley,31.0,B,B,A,B,B,B,B,A,B,B,2018.0,FALSE
+Utah Valley,31.0,A,A,B,A,A,A,A,A,A,A,2018.0,TRUE
+Cal Baptist,27.0,B,A,A,B,A,B,B,B,A,A,2019.0,TRUE
+Cal St. Bakersfield,31.0,A,B,A,B,B,A,A,B,B,B,2019.0,TRUE
+Chicago St.,30.0,B,B,A,B,B,A,B,B,B,B,2019.0,FALSE
+Grand Canyon,33.0,A,A,B,A,A,B,B,B,A,B,2019.0,TRUE
+Seattle,31.0,A,B,B,B,B,B,B,B,B,A,2019.0,TRUE
+UMKC,31.0,B,B,A,B,B,B,B,B,B,A,2019.0,FALSE
+UT Rio Grande Valley,35.0,A,B,B,B,B,B,B,A,B,B,2019.0,TRUE
+Utah Valley,33.0,A,A,B,A,A,A,B,A,A,A,2019.0,TRUE
+Loyola Marymount,30.0,B,B,A,B,B,A,A,A,B,A,2015.0,FALSE
+Pacific,28.0,B,B,A,B,B,A,A,A,B,B,2015.0,FALSE
+Pepperdine,31.0,A,B,B,A,B,A,B,A,B,B,2015.0,TRUE
+Portland,31.0,B,A,B,A,A,B,A,A,B,A,2015.0,FALSE
+Saint Mary's,30.0,A,A,B,A,A,A,A,B,A,A,2015.0,TRUE
+San Diego,30.0,B,B,B,A,B,B,A,A,B,A,2015.0,FALSE
+San Francisco,31.0,B,A,B,A,A,B,A,A,A,B,2015.0,FALSE
+Santa Clara,30.0,B,A,A,A,B,B,B,B,B,A,2015.0,FALSE
+BYU,36.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Loyola Marymount,30.0,B,A,A,B,B,B,B,B,B,B,2016.0,FALSE
+Pacific,26.0,B,B,A,B,B,A,B,A,A,B,2016.0,FALSE
+Pepperdine,31.0,A,A,B,A,B,B,A,A,B,B,2016.0,TRUE
+Portland,31.0,B,A,A,B,A,B,A,B,B,A,2016.0,FALSE
+Saint Mary's,34.0,A,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+San Diego,29.0,B,B,B,B,B,A,B,B,B,B,2016.0,FALSE
+San Francisco,29.0,B,A,A,B,A,B,A,A,B,A,2016.0,FALSE
+Santa Clara,30.0,B,B,A,B,B,B,B,B,B,A,2016.0,FALSE
+BYU,34.0,A,A,B,A,A,B,B,A,A,B,2017.0,TRUE
+Loyola Marymount,29.0,B,B,B,B,A,A,A,B,A,A,2017.0,TRUE
+Pacific,32.0,B,B,A,B,B,B,B,B,B,B,2017.0,FALSE
+Pepperdine,30.0,B,B,A,B,B,B,B,B,B,A,2017.0,FALSE
+Portland,31.0,B,B,A,B,B,A,B,A,B,A,2017.0,FALSE
+San Diego,30.0,B,B,A,B,B,B,B,B,B,A,2017.0,FALSE
+San Francisco,32.0,A,B,B,A,A,B,B,B,A,A,2017.0,TRUE
+Santa Clara,32.0,A,A,B,A,A,B,B,B,B,A,2017.0,TRUE
+BYU,35.0,A,A,B,A,A,B,B,A,A,A,2018.0,TRUE
+Loyola Marymount,30.0,B,A,A,B,B,A,A,B,B,A,2018.0,FALSE
+Pacific,31.0,B,A,A,B,B,B,A,A,B,B,2018.0,FALSE
+Pepperdine,31.0,B,A,A,B,B,B,B,B,B,B,2018.0,FALSE
+Portland,29.0,B,B,A,B,A,B,B,B,B,A,2018.0,FALSE
+Saint Mary's,36.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+San Diego,33.0,A,A,B,A,A,A,B,A,A,A,2018.0,TRUE
+San Francisco,38.0,A,B,B,A,B,B,B,B,B,B,2018.0,TRUE
+Santa Clara,29.0,B,B,A,B,B,B,B,B,B,B,2018.0,FALSE
+BYU,32.0,A,A,B,A,A,B,B,A,A,B,2019.0,TRUE
+Loyola Marymount,32.0,A,B,B,A,B,A,B,A,A,B,2019.0,TRUE
+Pacific,30.0,B,B,B,B,B,A,B,A,B,A,2019.0,FALSE
+Pepperdine,33.0,B,A,A,A,A,B,B,B,B,A,2019.0,FALSE
+Portland,30.0,B,B,A,B,B,A,B,A,B,B,2019.0,FALSE
+San Diego,35.0,A,A,B,A,A,A,B,B,A,A,2019.0,TRUE
+San Francisco,30.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Santa Clara,30.0,B,B,B,B,A,A,B,B,A,A,2019.0,TRUE
+Abilene Christian,21.0,B,B,A,B,B,A,B,A,B,A,2014.0,FALSE
+Air Force,28.0,B,B,A,B,B,A,B,A,A,B,2014.0,FALSE
+Akron,34.0,A,A,B,A,A,A,A,A,A,A,2014.0,TRUE
+Alabama,31.0,B,A,B,A,B,B,A,A,A,B,2014.0,FALSE
+Alabama A&M,28.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+Alabama St.,29.0,B,B,A,B,B,B,A,A,B,B,2014.0,TRUE
+Alcorn St.,28.0,B,B,A,B,B,B,B,A,B,B,2014.0,FALSE
+Appalachian St.,26.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+Arkansas,34.0,A,A,B,A,A,B,A,A,B,A,2014.0,TRUE
+Arkansas Little Rock,30.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Arkansas Pine Bluff,29.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+Arkansas St.,30.0,A,A,A,A,A,B,B,A,B,A,2014.0,TRUE
+Army,30.0,B,A,A,B,A,A,A,B,A,B,2014.0,FALSE
+Auburn,30.0,B,A,A,A,B,B,A,A,A,B,2014.0,FALSE
+Austin Peay,28.0,B,B,A,B,A,A,B,A,A,B,2014.0,FALSE
+Ball St.,28.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Belmont,35.0,A,A,A,A,A,B,B,A,A,A,2014.0,TRUE
+Bethune Cookman,30.0,B,B,A,B,B,A,A,B,B,A,2014.0,FALSE
+Binghamton,30.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+Boise St.,31.0,A,A,A,A,A,B,A,A,A,A,2014.0,TRUE
+Boston College,31.0,B,A,A,A,A,B,B,A,A,A,2014.0,FALSE
+Boston University,35.0,A,A,B,A,A,B,B,B,A,A,2014.0,TRUE
+Bowling Green,31.0,B,B,B,B,B,A,A,A,B,B,2014.0,FALSE
+Bradley,32.0,B,B,B,B,B,B,A,A,B,B,2014.0,FALSE
+Brown,28.0,B,B,B,A,B,B,A,B,B,A,2014.0,TRUE
+Bryant,31.0,A,A,A,B,A,B,B,A,A,B,2014.0,TRUE
+Bucknell,30.0,B,B,B,A,B,B,B,B,B,A,2014.0,TRUE
+Buffalo,28.0,A,A,A,A,A,B,A,A,A,B,2014.0,TRUE
+Butler,30.0,B,A,B,A,B,B,A,A,B,B,2014.0,FALSE
+Cal St. Bakersfield,31.0,B,B,A,B,B,A,A,A,B,A,2014.0,FALSE
+Cal St. Fullerton,31.0,B,B,A,B,B,B,B,A,B,B,2014.0,FALSE
+Cal St. Northridge,33.0,B,A,A,B,B,B,A,A,B,A,2014.0,FALSE
+California,35.0,A,A,B,A,A,B,B,B,A,A,2014.0,TRUE
+Campbell,28.0,B,B,A,B,A,A,A,B,A,A,2014.0,FALSE
+Canisius,33.0,A,A,A,A,A,B,A,A,A,A,2014.0,TRUE
+Central Arkansas,27.0,B,B,A,B,B,A,B,A,B,A,2014.0,FALSE
+Central Connecticut,29.0,B,B,A,B,B,A,B,B,B,B,2014.0,FALSE
+Central Michigan,29.0,B,A,A,B,B,B,B,A,A,B,2014.0,FALSE
+Charleston Southern,27.0,B,A,A,B,A,B,A,B,B,A,2014.0,FALSE
+Charlotte,31.0,A,B,B,B,B,A,A,A,B,A,2014.0,TRUE
+Chattanooga,30.0,B,B,A,B,B,A,A,A,B,B,2014.0,TRUE
+Chicago St.,30.0,B,B,A,B,B,B,B,B,B,B,2014.0,FALSE
+Clemson,36.0,A,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+Cleveland St.,31.0,A,A,B,A,A,A,A,A,B,A,2014.0,TRUE
+Colgate,30.0,B,A,A,A,A,B,B,B,A,A,2014.0,FALSE
+College of Charleston,31.0,B,B,B,B,B,A,A,B,B,A,2014.0,FALSE
+Colorado St.,30.0,B,A,A,A,B,B,A,A,B,B,2014.0,FALSE
+Columbia,33.0,A,A,B,A,A,A,B,A,B,A,2014.0,TRUE
+Coppin St.,31.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+Cornell,27.0,B,B,A,B,B,B,B,B,B,B,2014.0,FALSE
+Dartmouth,26.0,B,B,A,B,B,A,A,A,B,A,2014.0,FALSE
+Davidson,32.0,A,A,A,A,A,B,B,A,A,A,2014.0,TRUE
+Delaware St.,28.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+Denver,30.0,B,A,A,A,A,B,B,B,A,A,2014.0,TRUE
+DePaul,33.0,B,A,A,B,B,A,A,A,B,B,2014.0,FALSE
+Detroit,30.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+Drake,30.0,B,A,A,B,A,A,B,A,B,A,2014.0,FALSE
+Drexel,30.0,B,A,B,A,B,B,B,A,B,B,2014.0,TRUE
+Duquesne,30.0,B,A,A,A,A,B,A,A,B,A,2014.0,FALSE
+East Carolina,30.0,B,A,A,B,A,B,B,A,B,A,2014.0,FALSE
+East Tennessee St.,34.0,A,B,A,B,B,B,B,A,B,A,2014.0,TRUE
+Eastern Illinois,27.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Eastern Michigan,34.0,A,B,B,A,B,B,A,A,B,B,2014.0,TRUE
+Eastern Washington,29.0,B,A,A,B,A,B,A,A,A,A,2014.0,FALSE
+Elon,29.0,B,A,A,B,A,B,B,B,A,A,2014.0,TRUE
+Evansville,31.0,B,A,A,B,B,A,B,A,A,A,2014.0,FALSE
+Fairfield,32.0,B,B,B,B,B,A,A,B,B,B,2014.0,FALSE
+Fairleigh Dickinson,29.0,B,B,A,B,B,B,A,B,B,A,2014.0,FALSE
+FIU,28.0,B,B,A,B,B,A,A,A,A,B,2014.0,FALSE
+Florida A&M,30.0,B,B,A,B,B,A,A,B,B,B,2014.0,FALSE
+Florida Atlantic,30.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Florida Gulf Coast,33.0,A,B,B,B,A,A,A,A,A,B,2014.0,TRUE
+Florida St.,36.0,A,A,B,A,A,A,A,A,A,A,2014.0,TRUE
+Fordham,31.0,B,A,A,B,B,B,A,B,B,B,2014.0,FALSE
+Fresno St.,37.0,A,A,A,A,A,B,B,A,B,A,2014.0,TRUE
+Furman,27.0,B,B,A,B,B,A,B,A,A,B,2014.0,FALSE
+Gardner Webb,30.0,B,B,A,B,B,B,A,A,B,B,2014.0,TRUE
+George Mason,31.0,B,A,B,A,B,A,A,A,B,A,2014.0,FALSE
+Georgetown,33.0,A,A,B,A,A,B,A,A,A,B,2014.0,TRUE
+Georgia,34.0,A,A,B,A,B,A,A,A,B,A,2014.0,TRUE
+Georgia Southern,31.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+Georgia St.,32.0,A,A,A,A,A,B,B,A,A,A,2014.0,TRUE
+Georgia Tech,33.0,B,A,B,A,B,B,A,B,B,B,2014.0,FALSE
+Grambling St.,27.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Grand Canyon,27.0,B,A,A,B,B,A,B,A,B,A,2014.0,FALSE
+Green Bay,28.0,A,A,B,A,A,B,A,A,A,B,2014.0,TRUE
+Hampton,30.0,A,B,B,B,B,A,A,A,B,B,2014.0,TRUE
+Hartford,33.0,A,B,A,B,A,A,B,A,A,A,2014.0,TRUE
+Hawaii,29.0,A,A,A,A,A,B,A,A,A,B,2014.0,TRUE
+High Point,29.0,B,A,A,B,A,B,A,B,A,A,2014.0,FALSE
+Hofstra,33.0,B,A,A,B,B,A,A,A,B,B,2014.0,FALSE
+Holy Cross,34.0,A,A,B,A,B,B,B,A,B,A,2014.0,TRUE
+Houston,33.0,A,A,A,A,A,A,A,A,A,A,2014.0,TRUE
+Houston Baptist,29.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Howard,31.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Idaho,33.0,B,A,A,B,A,B,A,A,B,A,2014.0,FALSE
+Idaho St.,27.0,B,B,A,B,B,A,A,A,B,A,2014.0,FALSE
+Illinois,35.0,A,A,B,A,B,B,A,B,B,B,2014.0,TRUE
+Illinois Chicago,29.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Illinois St.,33.0,A,B,B,A,B,B,B,A,B,B,2014.0,TRUE
+Incarnate Word,15.0,B,B,A,B,A,B,A,A,A,A,2014.0,TRUE
+Indiana,32.0,A,A,B,A,A,A,A,A,A,B,2014.0,TRUE
+Indiana St.,32.0,A,A,B,A,A,B,B,A,A,B,2014.0,TRUE
+Iona,33.0,A,A,A,A,A,B,B,A,A,A,2014.0,TRUE
+IPFW,33.0,A,A,A,A,A,B,A,A,A,A,2014.0,TRUE
+IUPUI,29.0,B,B,A,B,B,B,B,B,B,B,2014.0,FALSE
+Jackson St.,31.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Jacksonville,28.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Jacksonville St.,29.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+James Madison,31.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+Kennesaw St.,29.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Kent St.,31.0,B,B,A,B,B,B,A,A,B,A,2014.0,FALSE
+La Salle,31.0,B,A,B,A,B,B,A,A,B,B,2014.0,FALSE
+Lafayette,30.0,B,A,A,B,A,A,B,B,A,A,2014.0,FALSE
+Lamar,30.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+Lehigh,32.0,B,B,A,B,B,B,B,B,B,A,2014.0,FALSE
+Liberty,29.0,B,B,A,B,A,A,A,B,B,A,2014.0,FALSE
+Lipscomb,29.0,B,B,A,B,A,B,B,A,A,A,2014.0,FALSE
+LIU Brooklyn,29.0,B,B,A,B,B,B,A,A,B,A,2014.0,FALSE
+Long Beach St.,30.0,B,A,B,A,B,B,A,B,A,B,2014.0,FALSE
+Longwood,28.0,B,B,A,B,B,A,B,B,B,B,2014.0,FALSE
+Louisiana Monroe,26.0,B,B,A,B,B,A,A,B,B,B,2014.0,FALSE
+Louisiana Tech,36.0,A,A,B,A,A,B,A,A,A,B,2014.0,TRUE
+Loyola Chicago,31.0,B,B,A,B,A,A,B,A,A,A,2014.0,FALSE
+Loyola Marymount,31.0,B,A,A,B,B,B,A,A,B,B,2014.0,FALSE
+Loyola MD,28.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+LSU,34.0,A,A,B,A,A,A,A,B,A,B,2014.0,TRUE
+Maine,28.0,B,B,A,B,B,A,B,B,B,B,2014.0,FALSE
+Marist,31.0,B,B,A,B,B,B,B,A,B,A,2014.0,FALSE
+Marquette,32.0,A,A,B,A,B,B,A,A,A,B,2014.0,TRUE
+Marshall,31.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Maryland,32.0,A,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+Maryland Eastern Shore,28.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+McNeese St.,29.0,B,B,A,B,B,B,A,B,B,B,2014.0,FALSE
+Miami FL,33.0,A,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+Miami OH,30.0,B,B,B,B,B,A,B,B,A,B,2014.0,FALSE
+Middle Tennessee,31.0,A,A,B,A,B,A,A,A,B,B,2014.0,TRUE
+Minnesota,37.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Mississippi,33.0,A,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+Mississippi St.,33.0,B,B,B,B,B,A,B,A,A,B,2014.0,FALSE
+Mississippi Valley St.,29.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Missouri,35.0,A,A,B,A,A,A,A,A,A,B,2014.0,TRUE
+Missouri St.,32.0,A,A,A,A,B,B,B,A,B,A,2014.0,TRUE
+Monmouth,32.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Montana,28.0,B,A,A,B,A,B,B,A,A,A,2014.0,TRUE
+Montana St.,29.0,B,B,A,B,B,B,B,A,B,B,2014.0,FALSE
+Morehead St.,32.0,A,B,A,B,B,A,A,A,A,B,2014.0,TRUE
+Morgan St.,31.0,B,B,A,B,B,B,A,A,A,B,2014.0,FALSE
+Murray St.,32.0,A,A,A,A,A,B,A,A,A,A,2014.0,TRUE
+Navy,29.0,B,B,A,B,B,A,B,B,B,B,2014.0,FALSE
+Nebraska Omaha,29.0,B,A,A,B,B,B,B,A,A,B,2014.0,FALSE
+Nevada,32.0,B,A,A,A,B,B,A,A,B,B,2014.0,FALSE
+New Hampshire,29.0,B,B,A,B,B,A,B,B,B,B,2014.0,FALSE
+New Orleans,24.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Niagara,33.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+Nicholls St.,28.0,B,B,A,B,B,B,B,A,A,B,2014.0,FALSE
+NJIT,25.0,B,B,A,B,B,B,B,A,B,A,2014.0,FALSE
+Norfolk St.,31.0,B,B,A,B,A,A,A,A,A,B,2014.0,TRUE
+North Carolina A&T,31.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+North Dakota,32.0,B,A,A,B,A,B,A,A,A,B,2014.0,FALSE
+North Florida,30.0,B,B,A,B,B,A,A,A,B,A,2014.0,FALSE
+North Texas,30.0,B,B,A,B,B,B,B,A,B,B,2014.0,FALSE
+Northeastern,32.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Northern Arizona,31.0,B,B,A,B,A,A,A,B,A,A,2014.0,FALSE
+Northern Colorado,30.0,B,A,A,B,A,B,A,A,A,A,2014.0,TRUE
+Northern Illinois,31.0,B,B,B,B,B,A,A,A,B,B,2014.0,FALSE
+Northern Iowa,30.0,B,A,A,A,A,B,B,A,A,A,2014.0,TRUE
+Northern Kentucky,30.0,B,B,A,B,A,B,B,B,A,A,2014.0,FALSE
+Northwestern,33.0,B,B,B,A,B,B,B,B,B,B,2014.0,FALSE
+Northwestern St.,29.0,B,A,A,B,A,B,A,A,A,B,2014.0,TRUE
+Notre Dame,32.0,B,A,A,A,A,B,A,B,A,A,2014.0,FALSE
+Oakland,31.0,B,A,A,B,A,B,B,A,B,A,2014.0,FALSE
+Ohio,36.0,A,A,B,A,A,A,B,B,A,A,2014.0,TRUE
+Old Dominion,36.0,A,B,B,B,B,A,A,A,B,B,2014.0,TRUE
+Oral Roberts,31.0,B,A,A,B,A,B,A,A,A,A,2014.0,FALSE
+Oregon St.,32.0,B,A,A,A,A,A,A,A,A,A,2014.0,TRUE
+Pacific,33.0,A,A,A,A,A,B,A,A,B,A,2014.0,TRUE
+Penn,28.0,B,B,A,B,B,A,B,A,A,B,2014.0,FALSE
+Penn St.,34.0,B,A,B,A,B,B,A,A,B,B,2014.0,FALSE
+Pepperdine,30.0,B,A,A,A,A,B,A,A,A,A,2014.0,FALSE
+Portland,31.0,B,A,B,A,A,B,A,A,B,A,2014.0,FALSE
+Portland St.,30.0,B,B,A,B,A,B,B,A,A,A,2014.0,TRUE
+Prairie View A&M,33.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Presbyterian,30.0,B,B,A,B,A,A,B,B,A,A,2014.0,FALSE
+Princeton,29.0,A,A,B,A,A,B,B,A,A,A,2014.0,TRUE
+Purdue,31.0,B,A,B,A,B,B,A,A,B,B,2014.0,FALSE
+Quinnipiac,32.0,A,A,A,A,B,B,A,A,B,A,2014.0,TRUE
+Radford,32.0,A,A,A,B,A,B,A,A,A,A,2014.0,TRUE
+Rhode Island,31.0,B,A,B,A,B,A,A,A,A,B,2014.0,FALSE
+Rice,28.0,B,B,A,B,B,A,B,B,B,B,2014.0,FALSE
+Richmond,33.0,A,A,B,A,B,B,B,A,B,B,2014.0,TRUE
+Rider,31.0,B,A,A,B,A,A,A,A,B,A,2014.0,FALSE
+Robert Morris,36.0,A,A,A,B,A,B,A,A,B,A,2014.0,TRUE
+Rutgers,32.0,B,A,A,B,B,B,A,A,B,B,2014.0,FALSE
+Sacramento St.,28.0,B,A,A,B,A,B,A,B,B,A,2014.0,FALSE
+Sacred Heart,31.0,B,B,A,B,B,B,A,B,B,B,2014.0,FALSE
+Saint Mary's,34.0,A,A,B,A,A,B,A,A,B,A,2014.0,TRUE
+Saint Peter's,31.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+Sam Houston St.,33.0,A,A,A,B,A,A,A,A,A,A,2014.0,TRUE
+Samford,30.0,B,B,A,B,A,A,B,A,A,B,2014.0,FALSE
+San Diego,33.0,B,A,B,A,A,B,B,A,B,A,2014.0,FALSE
+San Francisco,31.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+San Jose St.,29.0,B,B,A,B,B,A,B,B,B,B,2014.0,FALSE
+Santa Clara,31.0,B,A,A,A,B,B,B,A,B,A,2014.0,FALSE
+Savannah St.,30.0,B,B,B,B,B,A,A,A,B,B,2014.0,FALSE
+Seattle,28.0,B,B,A,B,B,A,A,B,B,B,2014.0,FALSE
+Seton Hall,34.0,A,A,B,A,A,B,B,A,A,A,2014.0,TRUE
+Siena,38.0,A,B,B,A,B,A,A,A,B,B,2014.0,TRUE
+SIU Edwardsville,29.0,B,B,A,B,A,A,B,A,A,A,2014.0,FALSE
+SMU,37.0,A,A,B,A,A,A,A,A,A,A,2014.0,TRUE
+South Alabama,28.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+South Carolina,34.0,B,A,B,A,B,A,A,A,B,A,2014.0,FALSE
+South Carolina St.,28.0,B,B,A,B,B,A,A,B,B,B,2014.0,FALSE
+South Dakota,27.0,B,B,A,B,B,A,B,A,B,A,2014.0,FALSE
+South Dakota St.,29.0,B,A,A,A,B,B,A,A,A,B,2014.0,TRUE
+South Florida,32.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Southeast Missouri St.,30.0,B,A,A,B,A,B,A,A,A,A,2014.0,TRUE
+Southeastern Louisiana,28.0,B,B,A,B,A,B,B,A,B,A,2014.0,FALSE
+Southern,29.0,B,B,B,B,B,A,A,A,B,A,2014.0,TRUE
+Southern Illinois,32.0,B,A,A,A,B,A,A,A,A,B,2014.0,FALSE
+Southern Miss,34.0,A,A,B,A,A,A,A,A,A,A,2014.0,TRUE
+Southern Utah,28.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+St. Bonaventure,33.0,A,A,B,A,B,B,A,A,A,B,2014.0,TRUE
+St. Francis NY,31.0,A,B,B,B,B,A,A,A,B,B,2014.0,TRUE
+St. Francis PA,31.0,B,B,A,B,B,B,B,B,B,B,2014.0,FALSE
+St. John's,33.0,A,A,B,A,B,B,A,A,B,A,2014.0,TRUE
+Stetson,30.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+Stony Brook,33.0,A,A,A,B,A,B,A,A,B,A,2014.0,TRUE
+TCU,30.0,B,B,B,B,B,B,B,A,B,B,2014.0,FALSE
+Temple,31.0,B,A,A,A,B,B,A,B,B,B,2014.0,FALSE
+Tennessee Martin,29.0,B,B,A,B,B,B,A,B,B,A,2014.0,FALSE
+Tennessee St.,29.0,B,B,A,B,B,B,A,A,B,B,2014.0,FALSE
+Tennessee Tech,31.0,B,B,A,B,A,A,A,A,A,B,2014.0,FALSE
+Texas A&M,34.0,A,B,B,A,B,B,B,A,B,B,2014.0,TRUE
+Texas A&M Corpus Chris,32.0,A,A,A,B,A,A,A,A,A,A,2014.0,TRUE
+Texas St.,29.0,B,B,B,B,B,A,B,B,B,B,2014.0,FALSE
+Texas Tech,32.0,B,A,B,A,B,A,A,A,A,B,2014.0,FALSE
+The Citadel,29.0,B,B,A,B,B,A,B,B,B,A,2014.0,FALSE
+Toledo,33.0,A,A,A,A,A,B,A,A,A,A,2014.0,TRUE
+Towson,35.0,A,A,A,A,A,B,A,A,A,A,2014.0,TRUE
+Troy,29.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Tulane,33.0,B,B,A,B,B,A,A,A,B,A,2014.0,FALSE
+UAB,29.0,B,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+UC Davis,29.0,B,B,A,B,A,B,B,A,B,A,2014.0,FALSE
+UC Irvine,33.0,A,B,B,A,A,A,A,A,A,A,2014.0,TRUE
+UC Riverside,29.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+UC Santa Barbara,28.0,A,A,A,A,A,B,A,A,A,A,2014.0,TRUE
+UCF,29.0,B,A,A,A,B,A,A,A,A,B,2014.0,FALSE
+UMass Lowell,27.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+UMBC,28.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+UMKC,29.0,B,B,A,B,B,B,B,A,A,B,2014.0,FALSE
+UNC Asheville,29.0,B,A,A,B,A,A,A,A,B,A,2014.0,FALSE
+UNC Greensboro,29.0,B,B,A,B,B,A,B,A,B,B,2014.0,FALSE
+UNC Wilmington,30.0,B,B,A,B,B,B,A,B,B,B,2014.0,FALSE
+UNLV,33.0,A,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+USC,31.0,B,B,B,A,B,A,A,A,A,B,2014.0,FALSE
+USC Upstate,32.0,A,A,A,B,A,B,A,A,A,B,2014.0,TRUE
+UT Arlington,29.0,B,A,A,B,A,A,A,A,B,B,2014.0,FALSE
+UT Rio Grande Valley,31.0,B,B,A,B,B,B,B,B,B,B,2014.0,FALSE
+Utah,31.0,A,A,B,A,A,B,B,A,A,A,2014.0,TRUE
+Utah St.,31.0,A,A,A,A,A,B,A,B,B,A,2014.0,TRUE
+Utah Valley,30.0,A,B,A,B,B,B,B,A,B,B,2014.0,TRUE
+UTEP,32.0,A,A,B,A,A,A,A,A,A,B,2014.0,TRUE
+UTSA,27.0,B,B,A,B,B,A,A,A,B,B,2014.0,FALSE
+Valparaiso,31.0,B,B,B,B,A,A,A,A,A,A,2014.0,FALSE
+Vanderbilt,31.0,B,A,B,A,B,A,A,A,A,B,2014.0,FALSE
+Vermont,31.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Virginia Tech,31.0,B,B,B,A,B,A,A,A,B,A,2014.0,FALSE
+VMI,31.0,A,A,A,B,A,B,A,B,A,B,2014.0,TRUE
+Wagner,29.0,A,B,B,B,B,B,A,A,B,B,2014.0,TRUE
+Wake Forest,33.0,A,A,B,A,B,B,A,A,A,B,2014.0,TRUE
+Washington,32.0,A,A,A,A,B,B,A,A,A,B,2014.0,TRUE
+Washington St.,30.0,B,B,B,B,B,B,B,A,B,B,2014.0,FALSE
+West Virginia,33.0,A,A,B,A,A,B,A,A,B,A,2014.0,TRUE
+Western Carolina,31.0,B,B,A,B,B,B,A,A,B,A,2014.0,TRUE
+Western Illinois,27.0,B,B,B,B,B,A,B,A,B,B,2014.0,FALSE
+Western Kentucky,31.0,A,B,B,B,B,A,A,A,B,B,2014.0,TRUE
+William & Mary,30.0,A,A,A,A,A,B,B,A,A,A,2014.0,TRUE
+Winthrop,30.0,A,B,A,B,A,B,B,A,B,A,2014.0,TRUE
+Wright St.,34.0,A,B,B,A,A,A,B,A,A,A,2014.0,TRUE
+Wyoming,31.0,B,A,B,A,A,B,B,A,A,A,2014.0,TRUE
+Yale,32.0,A,B,B,A,B,A,A,A,B,B,2014.0,TRUE
+Youngstown St.,29.0,B,A,A,B,A,B,B,A,A,A,2014.0,FALSE
+Grambling St.,28.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+San Francisco,29.0,B,A,B,A,A,B,B,B,B,A,2013.0,FALSE
+UNC Asheville,29.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Appalachian St.,29.0,B,B,A,B,B,A,A,A,B,A,2013.0,FALSE
+George Washington,30.0,B,B,B,A,B,A,A,A,B,B,2013.0,FALSE
+Southern Illinois,30.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+Central Connecticut,30.0,B,B,A,B,B,B,B,B,B,A,2013.0,FALSE
+Utah,31.0,B,A,B,A,B,A,B,B,B,A,2013.0,FALSE
+Clemson,31.0,B,B,B,A,B,B,A,B,B,B,2013.0,FALSE
+Wake Forest,31.0,B,B,B,A,B,A,B,A,B,A,2013.0,FALSE
+Drexel,31.0,B,B,B,A,B,A,A,B,B,B,2013.0,FALSE
+Eastern Michigan,31.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+Florida Atlantic,31.0,B,B,A,B,B,A,A,B,B,A,2013.0,FALSE
+Morehead St.,31.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Delaware St.,31.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Washington St.,32.0,B,A,B,A,B,A,A,B,B,A,2013.0,FALSE
+Northwestern,32.0,B,A,B,A,B,B,B,B,B,B,2013.0,FALSE
+West Virginia,32.0,B,A,B,A,B,A,A,A,B,B,2013.0,FALSE
+Virginia Tech,32.0,B,A,A,A,B,B,A,A,B,B,2013.0,FALSE
+St. Bonaventure,29.0,B,A,B,A,A,A,A,A,A,A,2013.0,FALSE
+Loyola Chicago,30.0,B,B,B,B,A,A,A,B,B,A,2013.0,FALSE
+Georgia St.,30.0,B,A,A,B,A,B,B,B,B,A,2013.0,FALSE
+Stetson,30.0,B,B,A,B,A,A,A,B,A,A,2013.0,FALSE
+Drake,31.0,B,A,B,A,A,A,B,A,A,A,2013.0,FALSE
+SMU,31.0,B,B,B,A,B,A,A,A,B,A,2013.0,FALSE
+Oakland,31.0,B,A,A,B,B,B,A,A,B,A,2013.0,FALSE
+USC Upstate,31.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+UC Davis,31.0,B,B,A,B,A,A,B,B,A,A,2013.0,FALSE
+IPFW,31.0,B,B,B,B,B,A,A,A,B,A,2013.0,FALSE
+Sam Houston St.,31.0,B,B,B,B,B,A,A,A,B,B,2013.0,FALSE
+North Dakota,31.0,B,B,B,B,B,A,B,A,B,B,2013.0,FALSE
+Hampton,31.0,B,B,B,B,B,A,A,A,B,B,2013.0,FALSE
+Oregon St.,32.0,B,A,B,A,B,A,A,A,B,A,2013.0,FALSE
+USC,32.0,B,B,B,A,B,A,B,B,B,B,2013.0,FALSE
+Manhattan,32.0,B,B,B,A,B,A,A,A,B,B,2013.0,FALSE
+San Diego,32.0,B,B,B,B,B,A,A,A,B,A,2013.0,FALSE
+South Carolina,32.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+Jacksonville St.,26.0,B,B,A,B,B,A,A,A,B,A,2013.0,TRUE
+Toledo,28.0,B,B,B,B,B,B,B,A,B,B,2013.0,TRUE
+Hawaii,28.0,B,B,A,B,A,A,A,A,A,B,2013.0,TRUE
+High Point,29.0,B,B,A,B,B,B,A,B,B,B,2013.0,TRUE
+Army,30.0,B,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Ball St.,30.0,B,B,A,B,B,A,A,A,B,B,2013.0,TRUE
+Rutgers,31.0,B,A,B,A,B,A,A,B,B,A,2013.0,FALSE
+Youngstown St.,31.0,B,B,B,B,B,B,B,A,B,A,2013.0,FALSE
+Quinnipiac,31.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Southeast Missouri St.,31.0,B,B,A,B,A,B,B,B,A,A,2013.0,FALSE
+Georgia,32.0,B,B,B,A,B,A,A,A,B,A,2013.0,FALSE
+UAB,32.0,B,B,B,A,B,A,A,B,B,B,2013.0,FALSE
+Seton Hall,33.0,B,A,B,A,A,A,A,B,B,A,2013.0,FALSE
+Nebraska,33.0,B,B,B,A,B,B,B,B,B,B,2013.0,FALSE
+Princeton,26.0,B,A,B,A,A,A,A,B,A,A,2013.0,TRUE
+Charleston Southern,29.0,B,B,B,B,B,B,A,B,B,A,2013.0,TRUE
+South Alabama,29.0,B,B,B,B,B,A,A,A,B,B,2013.0,TRUE
+Air Force,30.0,B,A,A,A,A,B,B,B,A,A,2013.0,TRUE
+Cal Poly,30.0,B,A,A,B,B,B,A,B,B,A,2013.0,TRUE
+Arkansas Pine Bluff,30.0,B,B,B,B,B,A,A,B,B,B,2013.0,TRUE
+Georgia Tech,31.0,B,B,B,A,B,A,A,B,B,B,2013.0,TRUE
+Tennessee St.,31.0,B,B,A,B,B,A,A,A,B,B,2013.0,TRUE
+Arkansas Little Rock,31.0,B,B,B,B,B,A,A,A,B,B,2013.0,TRUE
+Tulsa,32.0,B,B,B,B,B,A,A,A,B,B,2013.0,TRUE
+Vanderbilt,33.0,B,B,B,A,B,A,B,B,B,A,2013.0,FALSE
+Texas,33.0,B,B,B,A,B,A,A,A,B,B,2013.0,FALSE
+Boston College,33.0,B,A,B,A,A,B,B,A,A,A,2013.0,FALSE
+Purdue,34.0,B,A,B,A,B,A,A,B,B,B,2013.0,FALSE
+UCF,28.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Boston University,30.0,A,B,B,A,A,A,B,B,A,A,2013.0,TRUE
+Towson,30.0,A,B,B,A,B,A,A,A,B,B,2013.0,TRUE
+Dayton,31.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Xavier,31.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Texas Southern,31.0,A,B,A,B,A,B,A,B,A,A,2013.0,TRUE
+Long Beach St.,31.0,A,B,A,B,A,A,A,A,A,B,2013.0,TRUE
+Hartford,31.0,A,B,B,B,B,A,B,B,B,B,2013.0,TRUE
+Indiana St.,32.0,A,B,B,A,B,A,B,A,B,B,2013.0,TRUE
+Morgan St.,32.0,A,B,B,B,B,A,A,A,A,B,2013.0,TRUE
+Savannah St.,32.0,A,B,B,B,B,A,A,B,B,B,2013.0,TRUE
+St. John's,33.0,A,B,B,A,B,B,A,B,B,B,2013.0,TRUE
+Green Bay,33.0,A,B,B,A,B,A,A,A,B,B,2013.0,TRUE
+Illinois Chicago,33.0,A,B,B,B,B,A,B,B,B,B,2013.0,TRUE
+Arkansas St.,30.0,A,B,B,A,B,A,A,A,B,B,2013.0,TRUE
+Detroit,31.0,A,A,B,A,A,B,A,B,A,B,2013.0,TRUE
+Gardner Webb,31.0,A,B,B,B,B,A,A,B,B,B,2013.0,TRUE
+Saint Joseph's,32.0,A,A,B,A,A,B,A,A,A,B,2013.0,TRUE
+UTEP,32.0,A,B,B,A,A,A,B,A,A,A,2013.0,TRUE
+Wyoming,32.0,A,B,B,A,B,B,B,A,A,B,2013.0,TRUE
+FIU,32.0,A,B,B,B,B,A,A,B,B,B,2013.0,TRUE
+Mount St. Mary's,32.0,A,B,A,B,A,B,B,B,A,B,2013.0,TRUE
+Illinois St.,33.0,A,A,B,A,A,B,B,B,A,A,2013.0,TRUE
+Texas A&M,33.0,A,B,B,A,B,A,A,B,B,A,2013.0,TRUE
+Lafayette,33.0,A,A,A,B,A,B,B,B,A,A,2013.0,TRUE
+Washington,34.0,A,A,B,A,B,A,A,B,B,B,2013.0,TRUE
+Florida St.,34.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Bradley,35.0,A,B,B,A,B,B,A,B,B,B,2013.0,TRUE
+Stanford,34.0,A,A,B,A,B,B,A,B,B,A,2013.0,TRUE
+North Carolina Central,28.0,A,B,B,A,B,A,A,A,B,B,2013.0,TRUE
+Murray St.,29.0,A,B,B,A,A,A,A,A,A,A,2013.0,TRUE
+East Carolina,30.0,A,A,B,A,A,B,B,A,A,A,2013.0,TRUE
+LSU,31.0,A,A,B,A,B,A,A,B,B,A,2013.0,TRUE
+Bryant,31.0,A,A,A,B,A,A,A,A,A,A,2013.0,TRUE
+Wagner,31.0,A,B,B,B,B,A,A,A,B,B,2013.0,TRUE
+Elon,31.0,A,B,B,B,B,B,B,B,B,B,2013.0,TRUE
+Arkansas,32.0,A,A,B,A,B,B,A,B,A,B,2013.0,TRUE
+Houston,32.0,A,A,A,A,A,B,A,A,A,A,2013.0,TRUE
+Niagara,33.0,A,A,B,A,B,B,A,A,B,B,2013.0,TRUE
+UT Arlington,33.0,A,B,B,A,B,A,A,A,B,B,2013.0,TRUE
+Delaware,33.0,A,B,B,A,B,B,A,A,B,B,2013.0,TRUE
+Providence,34.0,A,A,B,A,B,A,A,A,B,B,2013.0,TRUE
+Richmond,34.0,A,A,B,A,A,B,B,A,A,A,2013.0,TRUE
+Oral Roberts,34.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Tulane,34.0,A,A,A,A,B,A,A,A,B,A,2013.0,TRUE
+Rider,34.0,A,B,B,B,B,A,A,A,B,A,2013.0,TRUE
+UC Irvine,35.0,A,B,B,A,B,B,A,B,B,B,2013.0,TRUE
+Fairfield,35.0,A,B,B,A,B,A,A,B,B,B,2013.0,TRUE
+Connecticut,30.0,A,A,B,A,A,B,B,A,A,B,2013.0,TRUE
+Western Illinois,29.0,A,B,B,B,A,A,B,A,A,A,2013.0,TRUE
+Lehigh,30.0,A,A,B,A,A,B,B,A,A,A,2013.0,TRUE
+Utah St.,30.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Tennessee,33.0,A,A,B,A,B,A,A,A,B,B,2013.0,TRUE
+Northeastern,33.0,A,A,A,B,A,A,A,A,B,A,2013.0,TRUE
+Northern Iowa,34.0,A,A,B,A,A,A,B,B,B,A,2013.0,TRUE
+Canisius,34.0,A,A,A,A,A,A,A,B,A,A,2013.0,TRUE
+Kent St.,34.0,A,A,B,A,B,A,A,A,B,A,2013.0,TRUE
+Evansville,35.0,A,A,B,A,B,B,B,B,B,A,2013.0,TRUE
+Kentucky,33.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Massachusetts,33.0,A,A,B,A,B,A,A,B,A,B,2013.0,TRUE
+Charlotte,33.0,A,B,B,A,B,A,A,A,A,B,2013.0,TRUE
+Vermont,33.0,A,B,B,A,B,A,A,A,B,B,2013.0,TRUE
+Norfolk St.,33.0,A,B,B,B,B,A,A,A,B,B,2013.0,TRUE
+Western Michigan,34.0,A,B,B,A,B,A,A,A,B,B,2013.0,TRUE
+Denver,32.0,A,A,B,A,A,B,B,B,A,A,2013.0,TRUE
+Baylor,36.0,A,A,B,A,A,B,A,A,A,A,2013.0,TRUE
+North Dakota St.,32.0,A,B,B,A,A,B,A,B,A,A,2013.0,TRUE
+Mercer,34.0,A,B,B,A,A,A,B,B,B,A,2013.0,TRUE
+Alabama,35.0,A,B,B,A,B,A,A,B,B,B,2013.0,TRUE
+Arizona St.,35.0,A,A,B,A,A,B,B,B,A,A,2013.0,TRUE
+Wright St.,35.0,A,B,B,A,B,A,B,B,B,A,2013.0,TRUE
+George Mason,38.0,A,B,B,A,B,A,A,B,B,A,2013.0,TRUE
+Virginia,35.0,A,A,B,A,A,B,B,B,A,A,2013.0,TRUE
+Stephen F. Austin,28.0,A,B,B,A,A,A,A,A,A,B,2013.0,TRUE
+Eastern Kentucky,33.0,A,A,A,A,A,B,B,B,A,A,2013.0,TRUE
+BYU,35.0,A,A,B,A,A,B,A,A,A,B,2013.0,TRUE
+Loyola MD,35.0,A,B,B,A,B,B,A,A,B,B,2013.0,TRUE
+Iowa,37.0,A,A,B,A,B,B,A,A,B,B,2013.0,TRUE
+Stony Brook,32.0,A,A,B,A,B,B,A,A,B,A,2013.0,TRUE
+Ohio,34.0,A,A,B,A,A,B,B,B,A,A,2013.0,TRUE
+College of Charleston,34.0,A,B,B,A,A,A,A,A,A,A,2013.0,TRUE
+Robert Morris,35.0,A,A,B,A,A,A,A,A,B,A,2013.0,TRUE
+Santa Clara,36.0,A,A,B,A,A,B,A,A,A,A,2013.0,TRUE
+Maryland,38.0,A,A,B,A,A,A,A,B,A,B,2013.0,TRUE
+Southern Miss,35.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Louisiana Tech,33.0,A,B,B,A,B,B,A,B,B,B,2013.0,TRUE
+Weber St.,35.0,A,A,B,A,A,B,B,A,A,A,2013.0,TRUE
+Maryland Eastern Shore,28.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Binghamton,29.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Kennesaw St.,30.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Lamar,31.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+New Orleans,22.0,B,B,A,B,B,A,B,A,B,B,2013.0,FALSE
+Louisiana Monroe,27.0,B,B,A,B,B,A,B,B,B,A,2013.0,FALSE
+UC Riverside,28.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+South Carolina St.,28.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Rice,29.0,B,B,A,B,B,B,B,B,B,B,2013.0,FALSE
+Northern Illinois,29.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+IUPUI,30.0,B,B,A,B,A,A,B,B,B,A,2013.0,FALSE
+Texas A&M Corpus Chris,28.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Mississippi Valley St.,28.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Idaho St.,29.0,B,B,A,B,B,A,B,A,B,B,2013.0,FALSE
+St. Francis PA,29.0,B,B,A,B,B,A,B,B,B,A,2013.0,FALSE
+Presbyterian,29.0,B,B,A,B,B,A,B,B,B,A,2013.0,FALSE
+Furman,29.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Old Dominion,30.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Portland St.,26.0,B,B,A,B,B,B,A,B,B,A,2013.0,FALSE
+The Citadel,28.0,B,B,A,B,A,A,A,A,A,A,2013.0,FALSE
+Austin Peay,29.0,B,B,A,B,A,A,B,A,B,A,2013.0,FALSE
+Florida A&M,29.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Howard,29.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+Fordham,30.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Milwaukee,30.0,B,B,A,B,B,A,B,A,B,B,2013.0,FALSE
+Hofstra,31.0,B,B,B,B,B,A,A,A,B,B,2013.0,FALSE
+Longwood,31.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+SIU Edwardsville,25.0,B,B,A,B,B,A,B,B,B,A,2013.0,FALSE
+Tennessee Martin,28.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Seattle,29.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+UNC Greensboro,29.0,B,B,A,B,B,B,B,B,B,B,2013.0,FALSE
+Chicago St.,29.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+UMBC,30.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Navy,30.0,B,B,B,B,B,B,B,B,B,B,2013.0,FALSE
+Coppin St.,31.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+UMKC,31.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Fairleigh Dickinson,31.0,B,B,A,B,B,A,B,B,B,A,2013.0,FALSE
+Dartmouth,27.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+New Hampshire,28.0,B,B,B,B,B,B,B,B,B,B,2013.0,FALSE
+South Dakota,28.0,B,B,A,B,A,B,B,A,B,A,2013.0,FALSE
+San Jose St.,28.0,B,B,B,B,B,A,A,A,B,B,2013.0,FALSE
+Rhode Island,29.0,B,B,B,A,B,A,B,B,B,B,2013.0,FALSE
+Duquesne,30.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Miami OH,30.0,B,B,A,B,B,A,B,A,B,B,2013.0,FALSE
+Siena,32.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Fresno St.,28.0,B,B,B,A,B,B,B,A,B,B,2013.0,FALSE
+UC Santa Barbara,29.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+UNC Wilmington,29.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Sacred Heart,29.0,B,B,A,B,B,A,A,B,B,A,2013.0,FALSE
+Southern Utah,29.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Alabama A&M,29.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Portland,30.0,B,B,B,B,B,A,A,A,B,B,2013.0,FALSE
+Saint Peter's,30.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+Nicholls St.,30.0,B,B,A,B,B,A,A,A,A,B,2013.0,FALSE
+Missouri St.,31.0,B,B,B,B,B,B,B,B,B,B,2013.0,FALSE
+Penn,31.0,B,B,B,B,B,A,B,B,B,B,2013.0,FALSE
+East Tennessee St.,31.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Alabama St.,31.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Auburn,32.0,B,B,B,B,B,A,B,B,B,B,2013.0,FALSE
+Alcorn St.,32.0,B,B,B,B,B,A,B,A,B,B,2013.0,FALSE
+Columbia,26.0,B,B,B,B,B,B,B,B,B,A,2013.0,FALSE
+Cal St. Bakersfield,26.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+Tennessee Tech,27.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Pepperdine,28.0,B,B,B,B,B,A,A,B,B,A,2013.0,FALSE
+Utah Valley,28.0,B,B,A,B,B,A,B,B,A,B,2013.0,FALSE
+Maine,29.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Radford,29.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+Nebraska Omaha,29.0,B,B,A,B,A,A,B,B,A,A,2013.0,FALSE
+Central Michigan,30.0,B,A,A,B,B,A,A,A,B,B,2013.0,FALSE
+American,30.0,B,B,A,B,B,A,B,B,B,A,2013.0,FALSE
+Penn St.,31.0,B,B,B,A,B,A,A,A,B,B,2013.0,FALSE
+Marist,31.0,B,B,A,B,B,A,B,A,B,A,2013.0,FALSE
+TCU,31.0,B,B,B,B,B,A,A,A,B,B,2013.0,FALSE
+Eastern Washington,31.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Samford,31.0,B,B,A,B,A,A,B,B,B,A,2013.0,FALSE
+Monmouth,31.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Loyola Marymount,32.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+Mississippi St.,32.0,B,B,B,B,B,A,A,A,B,B,2013.0,FALSE
+UTSA,32.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Coastal Carolina,26.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+Northern Kentucky,27.0,B,B,B,B,B,A,B,B,B,B,2013.0,FALSE
+Houston Baptist,27.0,B,B,B,B,B,A,A,A,B,B,2013.0,FALSE
+Winthrop,28.0,B,B,A,B,B,A,B,A,B,B,2013.0,FALSE
+VMI,28.0,B,B,A,B,B,B,A,B,A,B,2013.0,FALSE
+Montana St.,28.0,B,B,A,B,B,B,B,A,B,B,2013.0,FALSE
+Central Arkansas,28.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+McNeese St.,28.0,B,B,A,B,B,B,A,B,B,B,2013.0,FALSE
+Idaho,29.0,B,A,A,B,A,A,A,A,A,A,2013.0,FALSE
+Northern Colorado,29.0,B,B,A,B,A,A,A,B,A,A,2013.0,FALSE
+Cleveland St.,29.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Lipscomb,29.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Southeastern Louisiana,29.0,B,B,A,B,B,A,B,A,B,A,2013.0,FALSE
+Jackson St.,29.0,B,B,A,B,B,B,B,A,B,B,2013.0,FALSE
+Nevada,30.0,B,B,A,B,B,B,B,A,B,B,2013.0,FALSE
+Bowling Green,30.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+North Texas,30.0,B,B,B,B,B,A,A,A,B,B,2013.0,FALSE
+Campbell,30.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Chattanooga,30.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Texas Tech,31.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Eastern Illinois,31.0,B,B,A,B,A,A,A,B,B,A,2013.0,FALSE
+DePaul,32.0,B,A,B,A,B,A,A,B,B,B,2013.0,FALSE
+Colgate,32.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Northern Arizona,32.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Texas St.,33.0,B,B,A,B,B,A,B,A,B,B,2013.0,FALSE
+NJIT,25.0,B,B,B,B,B,A,A,A,B,A,2013.0,FALSE
+Brown,27.0,B,B,B,B,B,A,A,B,B,B,2013.0,FALSE
+Sacramento St.,27.0,B,B,A,B,B,B,A,A,B,B,2013.0,FALSE
+UT Rio Grande Valley,28.0,B,B,A,B,B,A,B,A,B,A,2013.0,FALSE
+Yale,29.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+William & Mary,29.0,B,A,A,B,A,A,B,A,A,A,2013.0,FALSE
+Cal St. Northridge,29.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+Cal St. Fullerton,30.0,B,A,A,B,A,B,B,B,A,A,2013.0,FALSE
+St. Francis NY,30.0,B,B,A,B,B,B,A,B,B,B,2013.0,FALSE
+Cornell,30.0,B,B,A,B,B,A,B,B,B,B,2013.0,FALSE
+Jacksonville,30.0,B,B,A,B,B,A,A,A,B,B,2013.0,FALSE
+South Florida,31.0,B,B,B,A,B,B,A,B,B,B,2013.0,FALSE
+Marshall,31.0,B,B,A,B,B,A,A,A,A,B,2013.0,FALSE
+Holy Cross,31.0,B,B,A,B,B,A,B,B,B,A,2013.0,FALSE
+North Florida,31.0,B,B,A,B,A,A,A,B,A,B,2013.0,FALSE
+Western Carolina,31.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Wofford,31.0,B,B,B,B,B,A,B,B,B,B,2013.0,FALSE
+Georgia Southern,31.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Prairie View A&M,31.0,B,B,A,B,B,A,A,B,B,B,2013.0,FALSE
+Buffalo,32.0,B,B,A,B,A,A,A,A,A,B,2013.0,FALSE
+Louisiana Lafayette,32.0,B,B,A,B,B,A,B,B,B,A,2013.0,FALSE
+Bethune Cookman,32.0,B,B,A,B,B,B,A,A,B,B,2013.0,FALSE
+Troy,33.0,B,B,A,B,B,B,A,B,B,B,2013.0,FALSE
+Dayton,36.0,A,A,B,A,A,B,B,A,A,A,2015.0,TRUE
+Saint Joseph's,36.0,A,A,B,A,A,B,B,A,A,B,2016.0,TRUE
+VCU,36.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Rhode Island,35.0,A,A,B,A,A,B,A,A,A,B,2017.0,TRUE
+Rhode Island,34.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Virginia,34.0,A,A,B,A,A,B,A,B,A,A,2015.0,TRUE
+Duke,37.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Florida St.,35.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Louisville,34.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Notre Dame,36.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Virginia,34.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+North Carolina,37.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+UMBC,33.0,A,B,B,A,A,B,B,B,B,A,2018.0,TRUE
+Cincinnati,34.0,A,A,B,A,B,A,A,A,A,B,2015.0,TRUE
+Connecticut,36.0,A,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+Cincinnati,36.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Cincinnati,36.0,A,A,B,A,A,B,A,A,A,A,2018.0,TRUE
+Houston,35.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+UCF,33.0,A,A,B,A,A,B,B,A,A,A,2019.0,TRUE
+Iowa,34.0,A,A,B,A,B,B,A,A,B,B,2015.0,TRUE
+Maryland,35.0,A,A,B,A,A,A,B,A,B,A,2015.0,TRUE
+Ohio St.,35.0,A,A,B,A,A,B,A,B,A,A,2015.0,TRUE
+Iowa,33.0,A,A,B,A,A,B,A,B,B,A,2016.0,TRUE
+Michigan St.,35.0,A,A,B,A,A,A,B,B,A,A,2017.0,TRUE
+Northwestern,36.0,A,A,B,A,B,B,A,B,B,B,2017.0,TRUE
+Michigan St.,35.0,A,A,B,A,A,A,A,B,A,A,2018.0,TRUE
+Ohio St.,34.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Iowa,35.0,A,A,B,A,A,B,B,A,A,A,2019.0,TRUE
+Maryland,34.0,A,A,B,A,A,A,A,B,A,A,2019.0,TRUE
+Minnesota,36.0,A,A,B,A,B,B,A,A,B,B,2019.0,TRUE
+Ohio St.,35.0,A,A,B,A,A,B,B,B,A,B,2019.0,TRUE
+Kansas,36.0,A,A,B,A,B,A,A,A,B,A,2015.0,TRUE
+Iowa St.,35.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Baylor,34.0,A,A,B,A,A,A,A,B,A,B,2019.0,TRUE
+Kansas,36.0,A,A,B,A,A,A,A,B,A,A,2019.0,TRUE
+Oklahoma,34.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Butler,34.0,A,A,B,A,B,B,A,A,B,A,2015.0,TRUE
+Georgetown,33.0,A,A,B,A,A,A,A,A,A,A,2015.0,TRUE
+Villanova,36.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+Butler,33.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+Providence,35.0,A,A,B,A,B,B,A,A,B,B,2016.0,TRUE
+Xavier,34.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+Villanova,36.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Butler,35.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Seton Hall,34.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Xavier,35.0,A,A,B,A,A,B,A,A,A,A,2018.0,TRUE
+Villanova,36.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Liberty,33.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Hawaii,32.0,A,A,B,A,A,B,A,A,A,B,2016.0,TRUE
+UC Irvine,36.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+UAB,35.0,A,B,B,A,B,A,A,B,B,B,2015.0,TRUE
+Middle Tennessee,33.0,A,A,B,A,A,B,B,B,B,A,2016.0,TRUE
+Middle Tennessee,35.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Marshall,35.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Yale,29.0,A,A,B,A,A,A,A,A,A,A,2016.0,TRUE
+Buffalo,35.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Buffalo,35.0,A,A,B,A,A,B,A,B,A,B,2019.0,TRUE
+Northern Iowa,35.0,A,A,B,A,A,B,B,A,A,A,2015.0,TRUE
+Northern Iowa,35.0,A,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+Wichita St.,34.0,A,A,B,A,B,B,A,A,A,B,2016.0,TRUE
+Wichita St.,35.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+San Diego St.,35.0,A,B,B,A,B,B,A,A,B,B,2015.0,TRUE
+Murray St.,31.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Oregon,35.0,A,A,B,A,A,B,A,B,A,A,2015.0,TRUE
+Utah,35.0,A,A,B,A,A,B,B,A,A,A,2016.0,TRUE
+USC,36.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Washington,36.0,A,A,B,A,A,A,B,B,A,A,2019.0,TRUE
+Georgia St.,34.0,A,A,B,A,A,B,A,A,A,B,2015.0,TRUE
+Arkansas Little Rock,33.0,A,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+Wofford,32.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Arkansas,36.0,A,A,B,A,A,B,A,A,B,A,2015.0,TRUE
+Kentucky,36.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+Arkansas,36.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Alabama,36.0,A,A,B,A,A,A,B,A,A,B,2018.0,TRUE
+Auburn,34.0,A,A,B,A,A,B,A,A,B,A,2018.0,TRUE
+Florida,34.0,A,A,B,A,A,B,B,B,B,A,2018.0,TRUE
+Tennessee,35.0,A,A,B,A,A,B,A,B,B,A,2018.0,TRUE
+Florida,36.0,A,A,B,A,B,B,A,B,A,B,2019.0,TRUE
+Stephen F. Austin,30.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Saint Mary's,34.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Wichita St.,35.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Kansas,35.0,A,A,B,A,A,A,A,A,A,B,2014.0,TRUE
+Villanova,34.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Creighton,35.0,A,A,B,A,A,B,B,B,A,A,2014.0,TRUE
+Syracuse,34.0,A,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+Saint Louis,33.0,A,A,B,A,B,B,B,A,A,B,2014.0,TRUE
+North Carolina,34.0,A,A,B,A,A,B,A,A,A,B,2014.0,TRUE
+Oregon,34.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Texas,35.0,A,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+Gonzaga,35.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Memphis,33.0,A,A,B,A,A,B,A,A,A,B,2014.0,TRUE
+Pittsburgh,36.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Harvard,31.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+North Dakota St.,30.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Stephen F. Austin,33.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Mercer,33.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Gonzaga,34.0,A,A,B,A,A,B,A,A,A,A,2013.0,TRUE
+Saint Louis,35.0,A,A,B,A,A,B,B,A,A,B,2013.0,TRUE
+VCU,36.0,A,A,B,A,A,B,A,B,A,A,2013.0,TRUE
+Butler,35.0,A,A,B,A,A,A,A,A,A,B,2013.0,TRUE
+Memphis,36.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+San Diego St.,32.0,A,A,B,A,B,B,A,B,B,B,2013.0,TRUE
+Illinois,34.0,A,A,B,A,B,B,A,B,B,B,2013.0,TRUE
+Creighton,36.0,A,A,B,A,A,A,B,B,A,A,2013.0,TRUE
+Colorado St.,33.0,A,A,B,A,B,B,A,A,B,B,2013.0,TRUE
+North Carolina,35.0,A,A,B,A,B,B,A,B,B,A,2013.0,TRUE
+Temple,34.0,A,A,B,A,B,B,A,B,B,B,2013.0,TRUE
+Iowa St.,35.0,A,A,B,A,A,B,A,B,A,A,2013.0,TRUE
+Minnesota,34.0,A,A,B,A,B,A,A,A,B,B,2013.0,TRUE
+California,33.0,A,A,B,A,B,A,A,B,B,B,2013.0,TRUE
+Mississippi,36.0,A,A,B,A,B,B,A,A,A,B,2013.0,TRUE
+Harvard,29.0,A,A,B,A,A,A,B,A,A,A,2013.0,TRUE
+Davidson,31.0,A,A,B,A,A,B,B,B,A,A,2015.0,TRUE
+VCU,36.0,A,A,B,A,B,B,A,A,B,B,2015.0,TRUE
+Dayton,33.0,A,A,B,A,A,B,B,A,A,B,2016.0,TRUE
+Dayton,31.0,A,A,B,A,A,B,B,A,A,A,2017.0,TRUE
+VCU,35.0,A,A,B,A,A,B,A,A,A,B,2017.0,TRUE
+Davidson,33.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+St. Bonaventure,34.0,A,A,B,A,A,B,B,A,B,A,2018.0,TRUE
+Saint Louis,36.0,A,B,B,A,B,A,A,A,B,B,2019.0,TRUE
+VCU,33.0,A,A,B,A,A,A,A,B,A,B,2019.0,TRUE
+Pittsburgh,32.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+Miami FL,33.0,A,A,B,A,A,A,A,B,A,A,2017.0,TRUE
+Virginia Tech,33.0,A,A,B,A,A,B,B,A,A,A,2017.0,TRUE
+Miami FL,32.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+North Carolina St.,33.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Virginia,34.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Virginia Tech,33.0,A,A,B,A,A,B,B,A,A,A,2018.0,TRUE
+Louisville,34.0,A,A,B,A,A,B,B,B,A,B,2019.0,TRUE
+Syracuse,34.0,A,A,B,A,B,B,A,A,A,B,2019.0,TRUE
+Albany,33.0,A,A,B,A,A,A,A,A,B,A,2015.0,TRUE
+Stony Brook,31.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Vermont,34.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Vermont,33.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+SMU,33.0,A,A,B,A,A,A,A,A,A,A,2015.0,TRUE
+Cincinnati,33.0,A,A,B,A,B,B,A,B,B,A,2016.0,TRUE
+Temple,33.0,A,A,B,A,B,B,B,B,B,B,2016.0,TRUE
+SMU,35.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Wichita St.,33.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Cincinnati,35.0,A,A,B,A,B,B,A,A,B,A,2019.0,TRUE
+Florida Gulf Coast,31.0,A,B,B,A,A,B,A,A,A,B,2016.0,TRUE
+Florida Gulf Coast,31.0,A,A,A,A,A,B,A,B,A,B,2017.0,TRUE
+Lipscomb,30.0,A,B,B,A,A,A,B,A,A,B,2018.0,TRUE
+Indiana,34.0,A,A,B,A,A,B,A,B,A,A,2015.0,TRUE
+Purdue,34.0,A,A,B,A,A,A,A,A,A,B,2015.0,TRUE
+Michigan,35.0,A,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+Michigan St.,35.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Purdue,35.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Maryland,32.0,A,A,B,A,A,A,A,A,A,A,2017.0,TRUE
+Minnesota,34.0,A,A,B,A,B,B,B,A,B,B,2017.0,TRUE
+Wisconsin,34.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Baylor,33.0,A,A,B,A,B,A,A,A,B,A,2015.0,TRUE
+Iowa St.,34.0,A,A,B,A,A,B,B,A,A,A,2015.0,TRUE
+Oklahoma St.,31.0,A,A,B,A,A,B,B,A,A,A,2015.0,TRUE
+Texas,34.0,A,A,B,A,B,A,A,A,B,B,2015.0,TRUE
+Baylor,33.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+Texas,33.0,A,A,B,A,B,B,A,A,B,B,2016.0,TRUE
+Texas Tech,32.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+West Virginia,35.0,A,A,B,A,B,A,A,A,A,B,2016.0,TRUE
+Kansas St.,35.0,A,A,B,A,A,A,B,A,A,A,2017.0,TRUE
+Oklahoma St.,32.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Oklahoma,32.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+TCU,33.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Texas,34.0,A,A,B,A,A,B,B,B,A,B,2018.0,TRUE
+Iowa St.,35.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Kansas St.,34.0,A,A,B,A,B,B,B,B,A,B,2019.0,TRUE
+Providence,34.0,A,A,B,A,B,B,A,A,A,B,2015.0,TRUE
+St. John's,32.0,A,A,B,A,B,B,B,B,B,A,2015.0,TRUE
+Seton Hall,34.0,A,A,B,A,B,A,A,A,B,A,2016.0,TRUE
+Creighton,34.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Marquette,32.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Seton Hall,33.0,A,A,B,A,A,A,A,A,A,B,2017.0,TRUE
+Creighton,32.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Providence,35.0,A,A,B,A,B,B,B,A,A,B,2018.0,TRUE
+Marquette,34.0,A,A,B,A,A,A,B,B,A,A,2019.0,TRUE
+Seton Hall,34.0,A,A,B,A,A,B,B,B,A,B,2019.0,TRUE
+Eastern Washington,32.0,A,A,A,A,A,B,B,B,A,A,2015.0,TRUE
+Weber St.,32.0,A,B,B,A,A,A,B,A,A,A,2016.0,TRUE
+North Dakota,29.0,A,B,B,A,A,B,B,A,A,A,2017.0,TRUE
+Montana,32.0,A,A,B,A,A,B,A,A,A,B,2018.0,TRUE
+Montana,33.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Coastal Carolina,30.0,A,A,B,A,A,B,A,A,B,A,2015.0,TRUE
+UNC Asheville,32.0,A,B,B,A,B,B,A,A,A,B,2016.0,TRUE
+Winthrop,31.0,A,A,B,A,A,B,B,A,A,A,2017.0,TRUE
+Radford,34.0,A,B,B,B,B,B,A,B,B,A,2018.0,TRUE
+Gardner Webb,32.0,A,A,A,B,A,B,B,A,A,A,2019.0,TRUE
+UC Irvine,32.0,A,A,B,A,A,B,A,B,B,A,2015.0,TRUE
+UC Davis,34.0,A,B,B,B,B,A,B,A,B,A,2017.0,TRUE
+Cal St. Fullerton,30.0,A,B,B,B,A,A,B,A,A,B,2018.0,TRUE
+Northeastern,35.0,A,A,B,A,A,A,A,A,A,A,2015.0,TRUE
+UNC Wilmington,31.0,A,A,B,A,A,B,A,B,A,B,2016.0,TRUE
+UNC Wilmington,33.0,A,A,A,A,A,B,A,B,A,A,2017.0,TRUE
+College of Charleston,32.0,A,A,A,A,A,B,B,A,A,A,2018.0,TRUE
+Northeastern,34.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Old Dominion,35.0,A,B,B,A,B,B,A,B,B,A,2019.0,TRUE
+Valparaiso,31.0,A,A,B,A,A,A,A,A,B,A,2015.0,TRUE
+Green Bay,34.0,A,A,A,A,B,B,A,A,B,A,2016.0,TRUE
+Northern Kentucky,33.0,A,A,A,A,A,A,A,A,A,A,2017.0,TRUE
+Wright St.,33.0,A,B,B,A,B,B,B,B,B,B,2018.0,TRUE
+Northern Kentucky,33.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Harvard,28.0,A,B,B,A,B,B,A,A,B,B,2015.0,TRUE
+Princeton,29.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Penn,32.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Yale,29.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Iona,33.0,A,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+Iona,35.0,A,A,A,A,A,B,B,B,A,A,2017.0,TRUE
+Iona,34.0,A,A,A,A,A,B,B,B,A,A,2018.0,TRUE
+Iona,33.0,A,A,A,B,A,B,B,A,A,A,2019.0,TRUE
+Buffalo,33.0,A,A,B,A,B,B,A,A,B,B,2015.0,TRUE
+Buffalo,34.0,A,A,B,A,B,A,A,A,A,B,2016.0,TRUE
+Kent St.,35.0,A,A,B,A,B,B,A,B,B,B,2017.0,TRUE
+Hampton,35.0,A,B,B,B,B,A,A,A,B,B,2015.0,FALSE
+Hampton,31.0,A,B,A,B,B,B,A,A,B,B,2016.0,TRUE
+Bradley,34.0,A,B,B,A,B,A,B,A,B,A,2019.0,TRUE
+Wyoming,33.0,A,B,B,A,A,A,B,A,A,B,2015.0,TRUE
+Fresno St.,33.0,A,A,B,A,B,B,A,A,B,B,2016.0,TRUE
+Nevada,35.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+San Diego St.,32.0,A,A,B,A,A,B,A,B,A,B,2018.0,TRUE
+Nevada,34.0,A,A,B,A,A,B,B,A,A,A,2019.0,TRUE
+Utah St.,34.0,A,A,B,A,A,B,A,A,A,A,2019.0,TRUE
+Robert Morris,35.0,A,B,B,B,A,A,A,B,B,A,2015.0,TRUE
+Mount St. Mary's,36.0,A,B,B,B,A,A,B,B,A,A,2017.0,TRUE
+Fairleigh Dickinson,33.0,A,A,A,B,A,A,B,B,A,A,2019.0,TRUE
+Belmont,32.0,A,A,A,A,A,A,B,B,A,A,2015.0,TRUE
+Austin Peay,34.0,B,A,A,B,A,A,A,A,A,A,2016.0,FALSE
+Jacksonville St.,33.0,A,A,A,A,A,A,A,B,A,A,2017.0,TRUE
+Murray St.,30.0,A,A,B,A,A,B,A,A,A,A,2018.0,TRUE
+Belmont,32.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Arizona,34.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+California,34.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+Colorado,33.0,A,A,B,A,B,A,A,A,B,A,2016.0,TRUE
+Oregon St.,31.0,A,A,B,A,B,B,B,A,B,A,2016.0,TRUE
+USC,34.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Arizona,35.0,A,A,B,A,A,B,A,A,A,A,2018.0,TRUE
+Arizona St.,34.0,A,A,B,A,A,B,A,A,A,B,2019.0,TRUE
+Lafayette,32.0,A,A,A,B,A,B,B,B,A,A,2015.0,TRUE
+Holy Cross,35.0,B,B,A,B,B,B,B,A,B,B,2016.0,FALSE
+Bucknell,35.0,A,A,B,A,A,A,B,A,A,A,2017.0,TRUE
+Bucknell,35.0,A,A,B,A,A,B,B,A,A,A,2018.0,TRUE
+Colgate,34.0,A,A,A,A,A,A,A,B,A,A,2019.0,TRUE
+Troy,35.0,A,A,A,A,A,B,A,A,A,A,2017.0,TRUE
+Georgia St.,33.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Georgia St.,33.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Wofford,33.0,A,B,B,A,A,B,B,A,A,A,2015.0,TRUE
+Chattanooga,33.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+East Tennessee St.,33.0,A,A,B,A,A,A,A,A,A,A,2017.0,TRUE
+UNC Greensboro,32.0,A,A,B,A,A,A,A,B,A,A,2018.0,TRUE
+Georgia,33.0,A,A,B,A,B,A,A,A,B,B,2015.0,TRUE
+LSU,33.0,A,A,B,A,A,A,A,B,A,B,2015.0,TRUE
+Mississippi,34.0,A,A,B,A,B,B,A,A,B,B,2015.0,TRUE
+Vanderbilt,35.0,A,A,B,A,A,B,B,B,B,A,2017.0,TRUE
+Arkansas,35.0,A,A,B,A,A,B,B,A,A,A,2018.0,TRUE
+Missouri,32.0,A,A,B,A,A,A,A,A,A,A,2018.0,TRUE
+Mississippi,33.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Mississippi St.,34.0,A,A,B,A,A,A,A,B,A,A,2019.0,TRUE
+Stephen F. Austin,31.0,A,A,B,A,A,A,A,A,A,A,2015.0,TRUE
+Stephen F. Austin,31.0,A,A,B,A,A,A,A,A,A,A,2018.0,TRUE
+Abilene Christian,30.0,A,B,B,A,A,B,B,B,A,A,2019.0,TRUE
+North Dakota St.,31.0,A,B,B,A,B,B,B,B,B,A,2015.0,TRUE
+South Dakota St.,32.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+South Dakota St.,33.0,A,A,A,B,A,B,B,A,A,A,2017.0,TRUE
+South Dakota St.,31.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+North Dakota St.,33.0,A,A,A,B,A,B,B,B,A,A,2019.0,TRUE
+Texas Southern,35.0,A,B,A,B,B,A,A,A,A,B,2015.0,TRUE
+Texas Southern,35.0,A,B,A,B,B,B,A,A,A,B,2017.0,TRUE
+Texas Southern,36.0,B,A,A,B,A,B,B,A,B,A,2018.0,FALSE
+New Mexico St.,32.0,A,A,B,A,A,A,A,A,A,A,2015.0,TRUE
+Cal St. Bakersfield,30.0,A,A,B,A,B,B,A,A,B,B,2016.0,TRUE
+New Mexico St.,31.0,A,A,B,A,A,A,A,A,A,B,2017.0,TRUE
+New Mexico St.,31.0,A,A,B,A,A,B,A,B,A,B,2018.0,TRUE
+New Mexico St.,33.0,A,A,B,A,A,B,A,B,A,B,2019.0,TRUE
+Saint Mary's,34.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Duke,35.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Cincinnati,34.0,A,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+Oklahoma,33.0,A,A,B,A,A,B,A,A,B,A,2014.0,TRUE
+VCU,35.0,A,A,B,A,B,B,A,B,B,A,2014.0,TRUE
+Massachusetts,33.0,A,A,B,A,A,A,A,A,A,A,2014.0,TRUE
+Ohio St.,35.0,A,A,B,A,A,B,B,A,A,B,2014.0,TRUE
+New Mexico,34.0,A,A,B,A,A,B,A,A,A,B,2014.0,TRUE
+Colorado,35.0,A,A,B,A,B,A,A,A,B,B,2014.0,TRUE
+Kansas St.,33.0,A,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+Oklahoma St.,34.0,A,A,B,A,A,B,B,A,A,A,2014.0,TRUE
+Arizona St.,33.0,A,A,B,A,A,B,B,A,B,A,2014.0,TRUE
+BYU,34.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Saint Joseph's,34.0,A,A,B,A,A,B,B,A,A,A,2014.0,TRUE
+George Washington,33.0,A,A,B,A,A,A,A,A,A,A,2014.0,TRUE
+Nebraska,32.0,A,A,B,A,B,B,B,A,B,B,2014.0,TRUE
+Providence,35.0,A,A,B,A,B,B,A,A,B,A,2014.0,TRUE
+North Carolina St.,36.0,A,A,B,A,A,B,A,A,A,B,2014.0,TRUE
+Delaware,35.0,A,A,A,A,A,B,B,A,A,A,2014.0,TRUE
+Manhattan,33.0,A,A,B,A,A,A,A,A,B,A,2014.0,TRUE
+New Mexico St.,35.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Tulsa,34.0,A,A,B,A,B,B,A,A,A,B,2014.0,TRUE
+Louisiana Lafayette,32.0,A,A,A,A,A,A,A,A,A,A,2014.0,TRUE
+North Carolina Central,32.0,A,A,B,A,A,B,A,A,A,B,2014.0,TRUE
+Western Michigan,32.0,A,A,B,A,A,A,A,A,A,B,2014.0,TRUE
+American,33.0,A,B,B,A,A,A,B,B,A,A,2014.0,TRUE
+Eastern Kentucky,32.0,A,A,A,A,A,B,B,A,A,A,2014.0,TRUE
+Milwaukee,34.0,A,A,A,A,B,A,B,A,A,B,2014.0,TRUE
+Wofford,30.0,A,B,B,B,B,B,A,B,B,A,2014.0,TRUE
+Albany,34.0,A,B,B,B,B,A,A,A,B,A,2014.0,TRUE
+Cal Poly,32.0,B,B,A,B,B,B,A,B,B,B,2014.0,FALSE
+Coastal Carolina,31.0,A,B,B,B,B,A,A,A,B,B,2014.0,TRUE
+Weber St.,29.0,A,A,A,B,A,A,B,A,A,A,2014.0,TRUE
+Georgetown,32.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+New Mexico,35.0,A,A,B,A,B,B,B,A,B,A,2013.0,TRUE
+Kansas St.,34.0,A,A,B,A,B,B,A,B,B,A,2013.0,TRUE
+Wisconsin,35.0,A,A,B,A,B,B,A,B,B,B,2013.0,TRUE
+Oklahoma St.,33.0,A,A,B,A,B,B,A,A,A,B,2013.0,TRUE
+UNLV,34.0,A,A,B,A,B,A,A,A,A,B,2013.0,TRUE
+UCLA,35.0,A,A,B,A,B,B,A,B,A,B,2013.0,TRUE
+Notre Dame,35.0,A,A,B,A,A,B,A,B,A,A,2013.0,TRUE
+Pittsburgh,33.0,A,A,B,A,A,B,A,A,A,A,2013.0,TRUE
+North Carolina St.,35.0,A,A,B,A,A,B,A,A,A,A,2013.0,TRUE
+Villanova,33.0,A,A,B,A,B,A,A,A,B,B,2013.0,TRUE
+Missouri,34.0,A,A,B,A,A,A,A,B,A,B,2013.0,TRUE
+Oklahoma,32.0,A,A,B,A,B,B,A,B,B,B,2013.0,TRUE
+Colorado,33.0,A,A,B,A,B,A,A,A,B,B,2013.0,TRUE
+Cincinnati,34.0,A,A,B,A,B,A,A,B,B,B,2013.0,TRUE
+Belmont,31.0,A,A,B,A,A,A,B,B,A,A,2013.0,TRUE
+Bucknell,33.0,A,A,B,A,B,B,B,B,B,A,2013.0,TRUE
+Saint Mary's,34.0,A,A,B,A,A,B,A,A,A,A,2013.0,TRUE
+Akron,32.0,A,A,B,A,A,A,A,A,A,B,2013.0,TRUE
+South Dakota St.,32.0,A,A,A,A,A,B,B,B,A,A,2013.0,TRUE
+Montana,30.0,A,B,B,B,A,A,B,A,A,A,2013.0,TRUE
+New Mexico St.,34.0,A,B,B,A,B,A,A,A,A,B,2013.0,TRUE
+Northwestern St.,28.0,A,A,B,A,B,A,A,A,A,B,2013.0,TRUE
+Davidson,33.0,A,A,B,A,A,B,B,A,A,A,2013.0,TRUE
+Valparaiso,33.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Pacific,33.0,A,A,B,A,A,B,B,A,B,A,2013.0,TRUE
+Iona,34.0,A,A,A,A,A,B,A,B,A,A,2013.0,TRUE
+Albany,35.0,A,B,B,A,B,A,A,A,B,A,2013.0,TRUE
+Western Kentucky,35.0,A,B,B,B,B,A,A,A,B,B,2013.0,TRUE
+North Carolina A&T,36.0,A,B,B,B,B,A,B,A,B,B,2013.0,TRUE
+Southern,30.0,A,B,B,B,B,B,B,A,B,A,2013.0,TRUE
+James Madison,36.0,A,B,B,B,B,B,B,A,B,B,2013.0,TRUE
+Wake Forest,33.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+Tulsa,32.0,A,A,B,A,A,B,B,A,A,B,2016.0,TRUE
+Temple,33.0,A,A,B,A,A,B,B,B,A,B,2019.0,TRUE
+North Florida,32.0,A,A,A,A,A,B,B,A,A,A,2015.0,TRUE
+Providence,33.0,A,A,B,A,A,B,B,A,A,A,2017.0,TRUE
+St. John's,34.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Manhattan,33.0,A,B,B,A,B,A,A,A,B,B,2015.0,TRUE
+North Carolina Central,31.0,A,B,B,A,A,B,A,B,A,B,2017.0,TRUE
+North Carolina Central,32.0,A,B,A,B,A,A,A,B,A,B,2018.0,TRUE
+North Carolina Central,31.0,A,B,A,B,A,A,A,B,A,B,2019.0,TRUE
+Boise St.,32.0,A,A,B,A,A,B,B,B,A,A,2015.0,TRUE
+Fairleigh Dickinson,32.0,A,B,A,B,A,B,B,B,A,A,2016.0,TRUE
+LIU Brooklyn,34.0,A,B,A,B,A,A,B,A,A,A,2018.0,TRUE
+Arizona St.,32.0,A,A,B,A,A,B,B,A,A,A,2018.0,TRUE
+UCLA,33.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Vanderbilt,33.0,A,A,B,A,A,B,B,A,A,A,2016.0,TRUE
+New Orleans,29.0,A,B,B,B,A,A,A,A,A,B,2017.0,TRUE
+Southern,32.0,A,B,A,B,B,B,B,A,B,B,2016.0,TRUE
+Prairie View A&M,34.0,A,B,A,B,B,B,B,A,A,B,2019.0,TRUE
+BYU,33.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+Iowa,33.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Xavier,34.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Mount St. Mary's,33.0,B,A,A,B,A,B,B,A,A,A,2014.0,FALSE
+Texas Southern,33.0,A,A,A,B,A,A,A,A,A,A,2014.0,TRUE
+Middle Tennessee,34.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Boise St.,30.0,A,A,B,A,A,B,A,B,B,A,2013.0,TRUE
+LIU Brooklyn,34.0,A,A,A,B,A,A,A,A,A,A,2013.0,TRUE
+Liberty,33.0,B,B,A,B,B,A,B,A,B,A,2013.0,FALSE
+North Carolina,38.0,A,A,B,A,A,B,A,B,A,A,2015.0,TRUE
+North Carolina St.,36.0,A,A,B,A,B,B,A,B,B,A,2015.0,TRUE
+Duke,36.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+Miami FL,35.0,A,A,B,A,A,B,A,A,A,A,2016.0,TRUE
+Clemson,35.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Syracuse,37.0,A,A,B,A,B,A,A,A,B,B,2018.0,TRUE
+Florida St.,37.0,A,A,B,A,A,A,A,B,A,B,2019.0,TRUE
+North Carolina,36.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Virginia Tech,35.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Houston,37.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Indiana,35.0,A,A,B,A,A,A,A,B,A,A,2016.0,TRUE
+Maryland,35.0,A,A,B,A,A,A,B,A,A,A,2016.0,TRUE
+Wisconsin,35.0,A,A,B,A,B,B,A,A,B,A,2016.0,TRUE
+Michigan,38.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Purdue,35.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Wisconsin,37.0,A,A,B,A,A,B,A,B,A,A,2017.0,TRUE
+Purdue,37.0,A,A,B,A,A,B,B,B,A,A,2018.0,TRUE
+Michigan,37.0,A,A,B,A,A,B,B,B,A,B,2019.0,TRUE
+Oklahoma,35.0,A,A,B,A,B,B,A,B,B,B,2015.0,TRUE
+West Virginia,35.0,A,A,B,A,B,B,A,A,B,B,2015.0,TRUE
+Iowa St.,35.0,A,A,B,A,A,B,B,B,A,A,2016.0,TRUE
+Baylor,34.0,A,A,B,A,A,A,A,B,A,A,2017.0,TRUE
+West Virginia,37.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+West Virginia,37.0,A,A,B,A,A,B,A,B,B,A,2018.0,TRUE
+Xavier,37.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+Butler,34.0,A,A,B,A,A,B,B,A,A,A,2017.0,TRUE
+Wichita St.,34.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+Nevada,37.0,A,A,B,A,A,B,B,A,A,A,2018.0,TRUE
+UCLA,36.0,A,A,B,A,B,B,A,B,B,A,2015.0,TRUE
+Utah,34.0,A,A,B,A,A,B,A,A,A,A,2015.0,TRUE
+Arizona,37.0,A,A,B,A,A,B,A,A,A,A,2017.0,TRUE
+UCLA,36.0,A,A,B,A,A,B,B,B,A,A,2017.0,TRUE
+Oregon,38.0,A,A,B,A,A,B,B,B,A,A,2019.0,TRUE
+Texas A&M,37.0,A,A,B,A,A,B,A,A,A,B,2016.0,TRUE
+Kentucky,37.0,A,A,B,A,A,B,A,A,A,A,2018.0,TRUE
+Texas A&M,35.0,A,A,B,A,A,A,A,B,A,B,2018.0,TRUE
+LSU,35.0,A,A,B,A,A,B,A,A,A,B,2019.0,TRUE
+Tennessee,36.0,A,A,B,A,A,B,A,B,A,A,2019.0,TRUE
+Gonzaga,35.0,A,A,B,A,A,B,A,B,A,A,2016.0,TRUE
+Gonzaga,37.0,A,A,B,A,A,B,A,B,A,A,2018.0,TRUE
+Virginia,37.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+Iowa St.,36.0,A,A,B,A,A,B,B,A,A,A,2014.0,TRUE
+Louisville,37.0,A,A,B,A,A,B,A,A,A,A,2014.0,TRUE
+San Diego St.,34.0,A,A,B,A,B,B,A,A,B,B,2014.0,TRUE
+UCLA,37.0,A,A,B,A,A,B,B,A,A,A,2014.0,TRUE
+Baylor,36.0,A,A,B,A,A,B,A,A,B,A,2014.0,TRUE
+Stanford,36.0,A,A,B,A,A,B,B,A,A,A,2014.0,TRUE
+Tennessee,36.0,A,A,B,A,B,B,A,A,A,B,2014.0,TRUE
+Indiana,36.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Kansas,37.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Miami FL,36.0,A,A,B,A,A,B,A,B,A,A,2013.0,TRUE
+Michigan St.,35.0,A,A,B,A,A,A,A,A,A,B,2013.0,TRUE
+Arizona,35.0,A,A,B,A,A,A,A,A,A,A,2013.0,TRUE
+Oregon,37.0,A,A,B,A,B,A,A,A,A,B,2013.0,TRUE
+La Salle,34.0,A,A,B,A,A,B,B,B,A,A,2013.0,TRUE
+Florida Gulf Coast,35.0,A,A,B,A,A,A,A,B,A,B,2013.0,TRUE
