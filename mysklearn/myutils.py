@@ -3,6 +3,7 @@ import numpy as np # use numpy's random number generation
 import mysklearn.myevaluation as myevaluation
 import mysklearn.myclassifiers as myclassifiers
 import math
+import matplotlib.pyplot as plt
 def do_random_sub_sampling(X, y, k, test_size):
     # k = 10, test_size = 0.5
     y_true = []
@@ -529,3 +530,11 @@ def getDecisionRules(curr_row, class_label, header, decision_rules, header_to_at
             
     return all_decision_rules
     
+def bar_chart(x, y, xlabel=None, ylabel=None, tick_labels=None, title=None):
+    plt.figure()
+    plt.bar(x, y)
+    plt.title(title)
+    plt.xlabel(xlabel)
+    plt.ylabel(ylabel)
+    plt.xticks(x, tick_labels, rotation=75, ha="right")
+    plt.show()
