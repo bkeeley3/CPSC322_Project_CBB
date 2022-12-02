@@ -45,23 +45,42 @@ class MyKNeighborsClassifier:
 
     def kneighbors(self, X_test):
         """Determines the k closes neighbors of each test instance.
+
         Args:
             X_test(list of list of numeric vals): The list of testing samples
                 The shape of X_test is (n_test_samples, n_features)
+
         Returns:
             distances(list of list of float): 2D list of k nearest neighbor distances
                 for each instance in X_test
             neighbor_indices(list of list of int): 2D list of k nearest neighbor
                 indices in X_train (parallel to distances)
         """
-        distances = []
-        neighbor_indices = []
-        neighbor_index = 0
-        for neighbor_index, train_instance in enumerate(self.X_train):
-            distance = myutils.compute_euclidean_distance(train_instance, X_test[0])
-            distances.append([distance])
-            neighbor_indices.append([neighbor_index])
-        return distances, neighbor_indices
+
+        kn_indexes = []
+        kn_distances = []
+            
+        for p1 in X_test:
+            distances = []
+            indexes = []
+            point_indexes = []
+            point_distances = []
+            for p2 in self.X_train:    
+                distance = myutils.compute_euclidean_distance(p1, p2)
+                distances.append(distance)
+                indexes.append(self.X_train.index(p2))    
+            
+            for _ in range(self.n_neighbors):
+                min_distance = min(distances)
+                point_distances.append(min_distance)
+                point_index = distances.index(min_distance)
+                point_indexes.append(indexes[point_index])
+                distances.pop(point_index)
+                indexes.pop(point_index)
+            kn_distances.append(point_distances)
+            kn_indexes.append(point_indexes)
+        
+        return kn_distances, kn_indexes
 
     def predict(self, X_test):
         """Makes predictions for test instances in X_test.
@@ -71,18 +90,18 @@ class MyKNeighborsClassifier:
         Returns:
             y_predicted(list of obj): The predicted target y values (parallel to X_test)
         """
-        distances, neighbor_indices = self.kneighbors(X_test)
-        distance_and_indexes = {}
-        for i in range(len(distances)):
-            distance_and_indexes[neighbor_indices[i][0]] = distances[i][0]
-        sorted_distances = sorted(distance_and_indexes.items(), key=operator.itemgetter(-1))
-        k_nearest = sorted_distances[:self.n_neighbors]
-        y_predicted_k = []
-        for index in k_nearest:
-            y_predicted_k.append(self.y_train[index[0]])
-            
-        most_common = statistics.mode(y_predicted_k)
-        return most_common
+        labels = []
+        y_perdictions = []
+        kn_distances, kn_indexes = self.kneighbors(X_test)
+        for list_index in kn_indexes:
+            for num in list_index:
+                labels.append(self.y_train[num])
+            values, counts = myutils.get_list_frequencies(labels)
+            max_label = max(counts)
+            max_index = counts.index(max_label)
+            y_perdictions.append(values[max_index])
+
+        return y_perdictions
 
 class MyDummyClassifier:
     """Represents a "dummy" classifier using the "most_frequent" strategy.

@@ -225,35 +225,51 @@ def get_column(table, col_index):
             print("error")
             pass
     return col
-
-def do_fold_predictions(X, y, k, clf, stratify=False, clf_name=None):
     
-    y_true = []
-    y_pred = []
-    if stratify:
-        folds = myevaluation.stratified_kfold_split(X, y, k)
-    else:
+def cross_val_predict(X, y, k, stratified, clf):
+    all_y_test = []
+    all_y_predicted = []
+    if stratified == False:
         folds = myevaluation.kfold_split(X, k)
-    for i in range(len(folds)):
-        train_indexes = folds[i][0]
-        test_indexes = folds[i][1]
-        X_train = [X[index] for index in train_indexes]
-        X_test = [X[index] for index in test_indexes]
-        y_train = [y[index] for index in train_indexes]
-        y_test = [y[index] for index in test_indexes]
+    if stratified == True:
+        folds = myevaluation.stratified_kfold_split(X, y, k)
+    
+    for fold in folds:
+        X_train = [X[i] for i in fold[0]]
+        y_train = [y[i] for i in fold[0]]
+        X_test = [X[j] for j in fold[1]]
+        y_test = [y[j] for j in fold[1]]
+        for value in y_test:
+            all_y_test.append(value)
+
         clf.fit(X_train, y_train)
-        for j in range(len(X_test)):
-            test_X = [X_test[j]]
-            class_actual = y_test[j]
-            prediction = clf.predict(test_X)
-            y_true.append(class_actual)
-            if clf_name == "Naive Bayes":
-                y_pred.append(prediction[0])
-            else:
-                y_pred.append(prediction)
-            
-            
-    return y_true, y_pred
+        y_predicted = clf.predict(X_test)
+        for value in y_predicted:
+            all_y_predicted.append(value)
+
+    return all_y_test, all_y_predicted
+
+def card_dealing(values, places):
+    distribution = []
+    for i in range(0, len(values)):
+        if i < places:
+            distribution.append([values[i]])
+        else:
+            distribution[i%places].append(values[i])
+    return distribution
+
+def get_list_frequencies(list):
+    values = [] # 75, 76, 77
+    counts = [] # 2, 1, 1
+    for value in list:
+        if value not in values:
+            # first time seeing this value
+            values.append(value)
+            counts.append(1)
+        else:
+            # seen this value before
+            counts[values.index(value)] += 1 
+    return values, counts
 
 def measure_classifier_performance(y_true, y_pred, name_classifier, step, labels, pos_label):
     print("======================================")
