@@ -226,10 +226,14 @@ def get_column(table, col_index):
             pass
     return col
 
-def do_fold_predictions(X, y, folds, clf, clf_name=None):
+def do_fold_predictions(X, y, k, clf, stratify=False, clf_name=None):
     
     y_true = []
     y_pred = []
+    if stratify:
+        folds = myevaluation.stratified_kfold_split(X, y, k)
+    else:
+        folds = myevaluation.kfold_split(X, k)
     for i in range(len(folds)):
         train_indexes = folds[i][0]
         test_indexes = folds[i][1]
