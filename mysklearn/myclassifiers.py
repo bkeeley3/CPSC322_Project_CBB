@@ -370,3 +370,114 @@ class MyDecisionTreeClassifier:
             You will need to install graphviz in the Docker container as shown in class to complete this method.
         """
         pass # TODO: (BONUS) fix this
+
+
+class MyRandomForestClassifier:
+    
+    
+    
+    def __init__(self, N, M, F):
+        self.N = N
+        self.M = M
+        self.F = F
+        self.X_train = None
+        self.y_train = None
+        self.header = None
+        self.attribute_domain = None
+        self.tree = None
+        
+    def fit(self, X_train, y_train):
+        """Fits a decision tree classifier to X_train and y_train using the TDIDT
+        (top down induction of decision tree) algorithm.
+
+        Args:
+            X_train(list of list of obj): The list of training instances (samples).
+                The shape of X_train is (n_train_samples, n_features)
+            y_train(list of obj): The target y values (parallel to X_train)
+                The shape of y_train is n_train_samples
+
+        Notes:
+            Since TDIDT is an eager learning algorithm, this method builds a decision tree model
+                from the training data.
+            Build a decision tree using the nested list representation described in class.
+            On a majority vote tie, choose first attribute value based on attribute domain ordering.
+            Store the tree in the tree attribute.
+            Use attribute indexes to construct default attribute names (e.g. "att0", "att1", ...).
+        """
+        curr_header_val = []
+        num_attributes = len(X_train[0])
+        for i in range(num_attributes):
+            header_att_val = "att{}".format(i)
+            curr_header_val.append(header_att_val)
+        self.header = curr_header_val
+        
+        
+        self.attribute_domain = {}
+        for i, header_val in enumerate(self.header):
+            curr_col = myutils.get_column(X_train, i)
+            unique_col_vals = np.unique(curr_col)
+            unique_col_vals = np.ndarray.tolist(unique_col_vals)
+            self.attribute_domain[header_val] = unique_col_vals
+            
+        
+        train = [X_train[i] + [y_train[i]] for i in range(len(X_train))]
+        available_attributes = self.header.copy() # recall
+        # to be removing attributes from a list of available attributes
+        # python is pass by object reference!!
+        self.tree = myutils.tdidt(train, available_attributes, self.header, self.attribute_domain, None)
+        
+
+    def predict(self, X_test):
+        """Makes predictions for test instances in X_test.
+
+        Args:
+            X_test(list of list of obj): The list of testing samples
+                The shape of X_test is (n_test_samples, n_features)
+
+        Returns:
+            y_predicted(list of obj): The predicted target y values (parallel to X_test)
+        """
+        y_predicted = []
+        for test in X_test:
+            prediction = myutils.getTreePrediction(self.tree, test, self.header)
+            y_predicted.append(prediction)
+        
+        
+        return y_predicted
+
+    def print_decision_rules(self, attribute_names=None, class_name="class"):
+        """Prints the decision rules from the tree in the format
+        "IF att == val AND ... THEN class = label", one rule on each line.
+
+        Args:
+            attribute_names(list of str or None): A list of attribute names to use in the decision rules
+                (None if a list is not provided and the default attribute names based on indexes
+                (e.g. "att0", "att1", ...) should be used).
+            class_name(str): A string to use for the class name in the decision rules
+                ("class" if a string is not provided and the default name "class" should be used).
+        """
+        decision_rules = []
+        header_to_att_name = {}
+        if attribute_names:
+            for i, att_name in enumerate(attribute_names):
+                header_to_att_name[self.header[i]] = att_name
+        
+        first_att = self.tree[1]
+        for top_branch in self.tree[2:]:
+            top_string = "IF {} == ".format(first_att)
+            for lower_branch in top_branch[2:]:
+                final_string = top_string + "{}".format(lower_branch[1])
+                if "Leaf" in lower_branch:
+                    final_string += "THEN {} == {}".format(class_name, lower_branch[1])
+                curr_branch_index = 2
+                for lowest_branch in lower_branch:
+                    while "Leaf" not in lowest_branch:
+                        if "Attribute" in lowest_branch:
+                            curr_att = lowest_branch[1]
+                            final_string += " AND IF {} == ".format(curr_att)
+                            lowest_branch = lowest_branch[curr_branch_index]
+                        elif "Value" in lowest_branch:
+                            final_string += "{}".format(lowest_branch[1])
+                            
+                print("lower_branch:", lower_branch)
+        
