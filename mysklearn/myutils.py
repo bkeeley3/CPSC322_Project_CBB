@@ -601,3 +601,13 @@ def compute_random_subset(values, num_values):
     values_copy = values.copy()
     np.random.shuffle(values_copy) # inplace shuffle
     return values_copy[:num_values]
+
+def get_majority_vote(predictions):
+    instance_predictions, frequencies = get_list_frequencies(predictions)
+    most_votes = instance_predictions[0]
+    num_votes = frequencies[0]
+    for i in range(len(instance_predictions)):
+        if frequencies[i] > num_votes:
+            num_votes = frequencies[i]
+            most_votes = instance_predictions[i]
+    return most_votes

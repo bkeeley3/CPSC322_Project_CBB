@@ -407,6 +407,7 @@ class MyRandomForestClassifier:
             Use attribute indexes to construct default attribute names (e.g. "att0", "att1", ...).
         """
         curr_header_val = []
+        N_trees = []
         num_attributes = len(X[0])
         for i in range(num_attributes):
             header_att_val = "att{}".format(i)
@@ -430,13 +431,12 @@ class MyRandomForestClassifier:
             curr_tree.fit(X_train, y_train)
             curr_predictions = curr_tree.predict(X_test)
             accuracy = myevaluation.accuracy_score(y_test, curr_predictions)
-            print(accuracy)
-            self.trees.append(curr_tree)
-        
-            
-        
+            N_trees.append([accuracy, curr_tree])
+        N_trees.sort(reverse=True)
+        for i in range(0, self.M):
+            self.trees.append(N_trees[i][1]) 
 
-    def predict(self, X_test, tree=None):
+    def predict(self, X_test):
         """Makes predictions for test instances in X_test.
 
         Args:
@@ -448,46 +448,13 @@ class MyRandomForestClassifier:
         """
         
         y_predicted = []
-        for test in X_test:
-            prediction = myutils.getTreePrediction(tree, test, self.header)
+        all_predictions = []
+        for tree in self.trees:
+            predictions = tree.predict(X_test)
+            all_predictions.append(predictions)
+        for i in range(len(all_predictions[0])):
+            instance_votes = myutils.get_column(all_predictions, i)
+            prediction = myutils.get_majority_vote(instance_votes)
             y_predicted.append(prediction)
         
-        
         return y_predicted
-
-    def print_decision_rules(self, attribute_names=None, class_name="class"):
-        """Prints the decision rules from the tree in the format
-        "IF att == val AND ... THEN class = label", one rule on each line.
-
-        Args:
-            attribute_names(list of str or None): A list of attribute names to use in the decision rules
-                (None if a list is not provided and the default attribute names based on indexes
-                (e.g. "att0", "att1", ...) should be used).
-            class_name(str): A string to use for the class name in the decision rules
-                ("class" if a string is not provided and the default name "class" should be used).
-        """
-        decision_rules = []
-        header_to_att_name = {}
-        if attribute_names:
-            for i, att_name in enumerate(attribute_names):
-                header_to_att_name[self.header[i]] = att_name
-        
-        first_att = self.tree[1]
-        for top_branch in self.tree[2:]:
-            top_string = "IF {} == ".format(first_att)
-            for lower_branch in top_branch[2:]:
-                final_string = top_string + "{}".format(lower_branch[1])
-                if "Leaf" in lower_branch:
-                    final_string += "THEN {} == {}".format(class_name, lower_branch[1])
-                curr_branch_index = 2
-                for lowest_branch in lower_branch:
-                    while "Leaf" not in lowest_branch:
-                        if "Attribute" in lowest_branch:
-                            curr_att = lowest_branch[1]
-                            final_string += " AND IF {} == ".format(curr_att)
-                            lowest_branch = lowest_branch[curr_branch_index]
-                        elif "Value" in lowest_branch:
-                            final_string += "{}".format(lowest_branch[1])
-                            
-                print("lower_branch:", lower_branch)
-        
