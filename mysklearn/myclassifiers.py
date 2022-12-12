@@ -5,6 +5,7 @@ import numpy as np
 
 from mysklearn import myutils
 from mysklearn.mypytable import MyPyTable
+from mysklearn import myevaluation
 
 
 class MyKNeighborsClassifier:
@@ -382,11 +383,13 @@ class MyRandomForestClassifier:
         self.F = F
         self.X_train = None
         self.y_train = None
+        self.X_test = None
+        self.y_test = None
         self.header = None
         self.attribute_domain = None
         self.tree = None
         
-    def fit(self, X_train, y_train):
+    def fit(self, X, y):
         """Fits a decision tree classifier to X_train and y_train using the TDIDT
         (top down induction of decision tree) algorithm.
 
@@ -405,7 +408,7 @@ class MyRandomForestClassifier:
             Use attribute indexes to construct default attribute names (e.g. "att0", "att1", ...).
         """
         curr_header_val = []
-        num_attributes = len(X_train[0])
+        num_attributes = len(X[0])
         for i in range(num_attributes):
             header_att_val = "att{}".format(i)
             curr_header_val.append(header_att_val)
@@ -414,20 +417,20 @@ class MyRandomForestClassifier:
         
         self.attribute_domain = {}
         for i, header_val in enumerate(self.header):
-            curr_col = myutils.get_column(X_train, i)
+            curr_col = myutils.get_column(X, i)
             unique_col_vals = np.unique(curr_col)
             unique_col_vals = np.ndarray.tolist(unique_col_vals)
             self.attribute_domain[header_val] = unique_col_vals
-            
         
+        X_train, self.X_test, y_train, self.y_test = myevaluation.bootstrap_sample(X, y)
         train = [X_train[i] + [y_train[i]] for i in range(len(X_train))]
-        available_attributes = self.header.copy() # recall
+        available_attributes = myutils.compute_random_subset(self.header, self.F)
         # to be removing attributes from a list of available attributes
         # python is pass by object reference!!
         self.tree = myutils.tdidt(train, available_attributes, self.header, self.attribute_domain, None)
         
 
-    def predict(self, X_test):
+    def predict(self):
         """Makes predictions for test instances in X_test.
 
         Args:
@@ -438,7 +441,7 @@ class MyRandomForestClassifier:
             y_predicted(list of obj): The predicted target y values (parallel to X_test)
         """
         y_predicted = []
-        for test in X_test:
+        for test in self.X_test:
             prediction = myutils.getTreePrediction(self.tree, test, self.header)
             y_predicted.append(prediction)
         

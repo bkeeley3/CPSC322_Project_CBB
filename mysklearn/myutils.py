@@ -590,3 +590,14 @@ def do_fold_predictions(X, y, folds, clf, clf_name=None):
             
             
     return y_true, y_pred
+
+
+def make_tree():
+    pass
+
+def compute_random_subset(values, num_values):
+    # could use np.random.choice()
+    # we will use np.random.shuffle() and slicing
+    values_copy = values.copy()
+    np.random.shuffle(values_copy) # inplace shuffle
+    return values_copy[:num_values]
