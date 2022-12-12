@@ -383,11 +383,10 @@ class MyRandomForestClassifier:
         self.F = F
         self.X_train = None
         self.y_train = None
-        self.X_test = None
-        self.y_test = None
         self.header = None
         self.attribute_domain = None
         self.tree = None
+        self.trees = []
         
     def fit(self, X, y):
         """Fits a decision tree classifier to X_train and y_train using the TDIDT
@@ -421,16 +420,23 @@ class MyRandomForestClassifier:
             unique_col_vals = np.unique(curr_col)
             unique_col_vals = np.ndarray.tolist(unique_col_vals)
             self.attribute_domain[header_val] = unique_col_vals
+        for i in range(self.N):
+            X_train, X_test, y_train, y_test = myevaluation.bootstrap_sample(X, y)
+            train = [X_train[i] + [y_train[i]] for i in range(len(X_train))]
+            available_attributes = myutils.compute_random_subset(self.header, self.F)
+            # to be removing attributes from a list of available attributes
+            # python is pass by object reference!!
+            curr_tree = MyDecisionTreeClassifier()
+            curr_tree.fit(X_train, y_train)
+            curr_predictions = curr_tree.predict(X_test)
+            accuracy = myevaluation.accuracy_score(y_test, curr_predictions)
+            print(accuracy)
+            self.trees.append(curr_tree)
         
-        X_train, self.X_test, y_train, self.y_test = myevaluation.bootstrap_sample(X, y)
-        train = [X_train[i] + [y_train[i]] for i in range(len(X_train))]
-        available_attributes = myutils.compute_random_subset(self.header, self.F)
-        # to be removing attributes from a list of available attributes
-        # python is pass by object reference!!
-        self.tree = myutils.tdidt(train, available_attributes, self.header, self.attribute_domain, None)
+            
         
 
-    def predict(self):
+    def predict(self, X_test, tree=None):
         """Makes predictions for test instances in X_test.
 
         Args:
@@ -440,9 +446,10 @@ class MyRandomForestClassifier:
         Returns:
             y_predicted(list of obj): The predicted target y values (parallel to X_test)
         """
+        
         y_predicted = []
-        for test in self.X_test:
-            prediction = myutils.getTreePrediction(self.tree, test, self.header)
+        for test in X_test:
+            prediction = myutils.getTreePrediction(tree, test, self.header)
             y_predicted.append(prediction)
         
         
