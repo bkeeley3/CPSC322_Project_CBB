@@ -611,3 +611,21 @@ def get_majority_vote(predictions):
             num_votes = frequencies[i]
             most_votes = instance_predictions[i]
     return most_votes
+
+def sort_table_based_on_list_index(table, index, reverse=False):
+    max_value = table[0][index]
+    max_list = table[0]
+    if reverse == True:
+        for count in range(len(table)):
+            for i in range(count, len(table)):
+                if table[i][index] > max_value:
+                    max_value = table[i][index]
+                    max_list = table[i]
+            table[count] = max_list
+    elif reverse == False:
+        for count in range(len(table)):
+            for i in range(count, len(table)):
+                if table[i][index] < max_value:
+                    max_value = table[i][index]
+                    max_list = table[i]
+            table[count] = max_list

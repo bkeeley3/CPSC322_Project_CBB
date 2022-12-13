@@ -432,7 +432,7 @@ class MyRandomForestClassifier:
             curr_predictions = curr_tree.predict(X_test)
             accuracy = myevaluation.accuracy_score(y_test, curr_predictions)
             N_trees.append([accuracy, curr_tree])
-        N_trees.sort(reverse=True)
+        myutils.sort_table_based_on_list_index(N_trees, 0, True)
         for i in range(0, self.M):
             self.trees.append(N_trees[i][1]) 
 
