@@ -274,7 +274,7 @@ def get_list_frequencies(list):
 def measure_classifier_performance(y_true, y_pred, name_classifier, step, labels, pos_label):
     print("======================================")
     print("STEP {}: {}".format(step, name_classifier))
-    print("k=10 Stratified K-Fold Cross Validation")
+    print("k=3 Stratified K-Fold Cross Validation")
     print("======================================")
     
     
@@ -629,3 +629,57 @@ def sort_table_based_on_list_index(table, index, reverse=False):
                     max_value = table[i][index]
                     max_list = table[i]
             table[count] = max_list
+
+def compute_slope_intercept(x, y):
+    '''Computes the m and b values in slope intercept form to form a linear regression line
+    
+        Attributes:
+            x (list of int or float) - the x values in slope intercept form
+            y (list of int or float) - the y values in slope intercept form
+            
+        Returns:
+            m (float) - the m value in slope intercept form
+            b (float) - the b value in slope intercept form
+    '''
+    meanx = np.mean(x)
+    meany = np.mean(y)
+    
+    m = sum([(x[i] - meanx) * (y[i] - meany) for i in range(len(x))]) / sum([(x[i] - meanx) ** 2 for i in range(len(x))])
+    # y = mx + b => b = y - mx
+    b = meany - m * meanx
+    return m, b
+
+def compute_r(x, y):
+    '''Computes the R value for calculating accuracy of the linear regression line
+    
+        Attributes:
+            x (list of int or float) - the x values in slope intercept form
+            y (list of int or float) - the y values in slope intercept form
+            
+        Returns:
+            r_val (float) - the correlation coefficient
+    '''
+    meanx = np.mean(x)
+    meany = np.mean(y)
+    
+    bottom_val = sum([(x[i] - meanx) ** 2 for i in range(len(x))]) * sum([(y[i] - meany) ** 2 for i in range(len(y))])
+    r_val = sum([(x[i] - meanx) * (y[i] - meany) for i in range(len(x))]) / math.sqrt(bottom_val)
+    return r_val
+
+def compute_cov(x, y, r): 
+    '''Computes covariance of the linear regressor line using a reformulated version of the formula for r-value
+    
+        Attributes:
+            x (list of int or float) - the x values in slope intercept form
+            y (list of int or float) - the y values in slope intercept form
+            r (float) - correlation coefficient
+            
+        Returns:
+            cov (float) - covariance
+    '''
+    stdx = np.std(x)
+    stdy = np.std(y)
+    
+    cov = (stdx * stdy) * r
+    
+    return cov
