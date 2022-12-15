@@ -1,0 +1,48 @@
+======================================
+STEP 1: kNN Classifier
+k=10 Stratified K-Fold Cross Validation
+======================================
+ACCURACY: 0.9279
+ERROR RATE: 0.0721
+PRECISION SCORE: 0.9401
+RECALL SCORE: 0.9268
+F1 SCORE: 0.9334
+MATRIX:
+[[1240, 98], [79, 1038]]
+
+======================================
+STEP 2: Naive Bayes Classifier
+k=10 Stratified K-Fold Cross Validation
+======================================
+ACCURACY: 0.7234
+ERROR RATE: 0.2766
+PRECISION SCORE: 0.6834
+RECALL SCORE: 0.9178
+F1 SCORE: 0.7834
+MATRIX:
+[[1228, 110], [569, 548]]
+
+======================================
+STEP 3: Decision Tree
+k=10 Stratified K-Fold Cross Validation
+======================================
+ACCURACY: 0.9222
+ERROR RATE: 0.0778
+PRECISION SCORE: 0.9666
+RECALL SCORE: 0.8879
+F1 SCORE: 0.9256
+MATRIX:
+[[1188, 150], [41, 1076]]
+
+======================================
+STEP 4: Random Forest
+k=10 Stratified K-Fold Cross Validation
+======================================
+ACCURACY: 0.9365
+ERROR RATE: 0.0635
+PRECISION SCORE: 0.9876
+RECALL SCORE: 0.8946
+F1 SCORE: 0.9388
+MATRIX:
+[[1197, 141], [15, 1102]]
+

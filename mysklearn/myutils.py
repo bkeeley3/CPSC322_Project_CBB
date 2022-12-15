@@ -4,6 +4,7 @@ import mysklearn.myevaluation as myevaluation
 import mysklearn.myclassifiers as myclassifiers
 import math
 import matplotlib.pyplot as plt
+import csv
 def do_random_sub_sampling(X, y, k, test_size):
     # k = 10, test_size = 0.5
     y_true = []
@@ -274,7 +275,7 @@ def get_list_frequencies(list):
 def measure_classifier_performance(y_true, y_pred, name_classifier, step, labels, pos_label):
     print("======================================")
     print("STEP {}: {}".format(step, name_classifier))
-    print("k=3 Stratified K-Fold Cross Validation")
+    print("k=10 Stratified K-Fold Cross Validation")
     print("======================================")
     
     
@@ -292,6 +293,33 @@ def measure_classifier_performance(y_true, y_pred, name_classifier, step, labels
     matrix = myevaluation.confusion_matrix(y_true, y_pred, labels)
     print("MATRIX:")
     print(matrix)
+
+def write_classifier_performance(y_true, y_pred, name_classifier, step, labels, pos_label, filename, isLast=False):
+    outfile = open(filename, "a")
+    outfile.write("======================================\n")
+    outfile.write("STEP {}: {}\n".format(step, name_classifier))
+    outfile.write("k=10 Stratified K-Fold Cross Validation\n")
+    outfile.write("======================================\n")
+    
+    
+    accuracy = myevaluation.accuracy_score(y_true, y_pred)
+    error = 1 - accuracy
+    outfile.write("ACCURACY: {:.4f}\n".format(accuracy))
+    outfile.write("ERROR RATE: {:.4f}\n".format(error))
+    precision = myevaluation.binary_precision_score(y_true, y_pred, labels, pos_label)
+    recall = myevaluation.binary_recall_score(y_true, y_pred, labels, pos_label)
+    f1 = myevaluation.binary_f1_score(y_true, y_pred, labels, pos_label)
+    outfile.write("PRECISION SCORE: {:.4f}\n".format(precision))
+    outfile.write("RECALL SCORE: {:.4f}\n".format(recall))
+    outfile.write("F1 SCORE: {:.4f}\n".format(f1))
+    
+    matrix = myevaluation.confusion_matrix(y_true, y_pred, labels)
+    outfile.write("MATRIX:\n")
+    outfile.write("{}".format(matrix))
+    outfile.write("\n")
+    outfile.write("\n")
+    if isLast:
+        outfile.close()
 
 def most_likely_label(partition):
     class_col_index = len(partition[0]) - 1
